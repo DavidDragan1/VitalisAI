@@ -1,19 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>{{ title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Diagnosis App</title>
+
     <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
-
-<body>
-    <div class="App">
-        <header class="App-header">
-            <img src="{{ url_for('static', filename='Octocat.png') }}" class="App-logo" alt="logo" />
-            <p>
-                GitHub Codespaces <span class="heart">♥️</span> Flask
-            </p>
-            <p class="small">
-                Edit <code>templates/index.html</code> and refresh to see your changes!
-            </p>
-        </header>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+</head>
+<body class="w3-content">
+    <div class="w3-container w3-teal">
+        <h1>Header</h1>
     </div>
-</body>
+    <h2>Enter your symptoms separated by a comma.</h2>
+    <form action="/diagnosis" method="POST">
+        <div class="row">
+            <input class="effect-16" type="text" name="symptoms" required>
+            <span class="focus-border"></span>
+            <label>Enter your symptoms</label>
+        </div>
+        <br/>
+        <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
 
+    </form>
+
+    {% if output %}
+        <h2>The symptoms you have entered mean you could have:</h2>
+        <p>{{ output }}</p>
+    {% endif %}
+</body>
 </html>

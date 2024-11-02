@@ -1,45 +1,62 @@
-body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-        "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-        sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css?family=Damion|Muli:400,600');
+
+body{
+  font-family: 'Muli', sans-serif;
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/geometry2.png");
 }
 
-code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-        monospace;
-}
-
-.App {
+h2 {
+    font-family: 'Damion', cursive;
+    font-weight: 400;
+    color: #00477e;
+    font-size: 35px;
     text-align: center;
+    position: relative;
 }
 
-.App-logo {
-    height: 40vmin;
-    pointer-events: none;
+
+h2 i {
+    font-style: normal;
+    background: #fff;
+    position: relative;
+    padding: 10px;
 }
 
-.App-header {
-    background-color: #282c34;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
+:focus{outline: none;}
+
+/* necessary to give position: relative to parent. */
+input[type="text"]{font: 15px/24px 'Muli', sans-serif; color: #333; width: 100%; box-sizing: border-box; letter-spacing: 1px;}
+
+:focus{outline: none;}
+
+div {
+    position: relative;
 }
 
-.App-link {
-    color: #61dafb;
+.col {
+    width: 40%;
 }
 
-.heart {
-    color: #ff0000;
+input[type="text"]{font: 15px/24px "Lato", Arial, sans-serif; color: #333; width: 100%; box-sizing: border-box; letter-spacing: 1px; background: transparent;}
+
+.effect-16, {border: 0; padding: 4px 0; border-bottom: 1px solid #ccc; background-color: transparent;}
+
+.effect-16 ~ .focus-border{position: absolute; bottom: 0; left: 0; width: 0; height: 2px; background-color: #00477e; transition: 0.4s;}
+
+.effect-16:focus ~ .focus-border, .has-content.effect-16 ~ .focus-border{width: 100%; transition: 0.4s;}
+
+.effect-16 ~ label{position: absolute; left: 4px; width: 100%; top: 4px; color: #aaa; transition: 0.3s; z-index: -1; letter-spacing: 0.5px;}
+
+.effect-16:focus ~ label, .has-content.effect-16 ~ label{top: -15px; font-size: 12px; color: #00477e; transition: 0.3s;}
+
+button {
+    padding: 10px;
+    border: 1px;
+    border-color: black;
+    border-radius: 15px;
+    width: 50%;
 }
 
-.small {
-    font-size: 0.75rem;
+button:hover {
+    background: #172b39 !important;
 }
