@@ -8,27 +8,71 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <div class="w3-container w3-highway-blue">
-        <img>
-    </div>
-    <h2>Enter your symptoms separated by a comma.</h2>
-    <div class="w3-content">
-        <form action="/diagnosis" method="POST">
-            <div class="row">
-                <input class="effect-16" type="text" name="symptoms" required>
-                <span class="focus-border"></span>
-                <label>Enter your symptoms</label>
-            </div>
-            <br/>
-            <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
-        </form>
+    <!-- Top Navigation Menu -->
+    <div class="w3-bar w3-highway-blue w3-large">
+        <!-- Desktop Links -->
+        <div class="col">
+            <img class="logo" height="150vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo">
+        </div>
+        
+        <div class="col link-box w3-hide-small w3-display-middle">
+            <a href="#">Senior Assistant</a>
+            <a href="#">Women's Health</a>
+            <a href="#">Youth & Adolescent Wellbeing</a>
+            <a href="#">Mental Health</a>
+        </div>
+        <!-- Hamburger Icon (shown on small screens) -->
+        <div class="col w3-right w3-hide-large w3-top">
+            <a href="javascript:void(0);" class="w3-bar-item w3-button w3-right" onclick="toggleMenu()">
+                <i class="fa fa-bars h-menu"></i>
+            </a>
+        </div>
     </div>
 
-    {% if output %}
-        <h2>The symptoms you have entered mean you could have:</h2>
-        <p>{{ output }}</p>
-    {% endif %}
+    <!-- Mobile Links (Hidden by default) -->
+    <div id="mobileMenu" class="w3-bar-block w3-highway-blue w3-hide w3-hide-large">
+        <img height="150vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo">
+        <a href="#">Senior Assistant</a>
+        <a href="#">Women's Health</a>
+        <a href="#">Youth & Adolescent Wellbeing</a>
+        <a href="#">Mental Health</a>
+    </div>
+
+    <!-- main -->
+
+    <main class="w3-content">
+            
+        <h2>Enter your symptoms separated by a comma.</h2>
+        <div class="w3-content">
+            <form action="/diagnosis" method="POST">
+                <div class="row">
+                    <input class="effect-16" type="text" name="symptoms" required>
+                    <span class="focus-border"></span>
+                    <label>Enter your symptoms</label>
+                </div>
+                <br/>
+                <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
+            </form>
+        </div>
+        {% if output %}
+            <h2>The symptoms you have entered mean you could have:</h2>
+            <p>{{ output }}</p>
+        {% endif %}
+    </main>
+
+    <script>
+        function toggleMenu() {
+            var x = document.getElementById("mobileMenu");
+            if (x.classList.contains("w3-show")) {
+                x.classList.remove("w3-show");
+            } else {
+                x.classList.add("w3-show");
+            }
+        }
+
+    </script>
 </body>
 </html>
