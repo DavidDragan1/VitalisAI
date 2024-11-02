@@ -9,21 +9,22 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
 </head>
-<body class="w3-content">
-    <div class="w3-container w3-teal">
-        <h1>Header</h1>
+<body>
+    <div class="w3-container w3-highway-blue">
+        <img>
     </div>
     <h2>Enter your symptoms separated by a comma.</h2>
-    <form action="/diagnosis" method="POST">
-        <div class="row">
-            <input class="effect-16" type="text" name="symptoms" required>
-            <span class="focus-border"></span>
-            <label>Enter your symptoms</label>
-        </div>
-        <br/>
-        <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
-
-    </form>
+    <div class="w3-content">
+        <form action="/diagnosis" method="POST">
+            <div class="row">
+                <input class="effect-16" type="text" name="symptoms" required>
+                <span class="focus-border"></span>
+                <label>Enter your symptoms</label>
+            </div>
+            <br/>
+            <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
+        </form>
+    </div>
 
     {% if output %}
         <h2>The symptoms you have entered mean you could have:</h2>
