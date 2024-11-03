@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vitalis AI - Online Diagnosis App</title>
+    <title>Vitalis AI - Online Diagnosis Application</title>
 
     <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -44,27 +44,103 @@
     <!-- main -->
 
     <main class="w3-content">
-            
-        <h2>Enter your symptoms separated by a comma.</h2>
-        <div class="w3-content">
-            <form action="/diagnosis" method="POST">
-                <div class="row">
-                    <input class="effect-16" type="text" name="symptoms" required>
-                    <span class="focus-border"></span>
-                    <label>Enter your symptoms</label>
+        <!-- Step Progress Indicator -->
+        <form id="form" action="/diagnosis" method="POST">
+            <h1>Contextual Questions</h1>
+            <h6>This information allows us to provide a more nuanced response.</h6>
+        
+            <!-- Step 1: Personal Information -->
+            <div class="tab">
+                <p><input name="age" id="age" placeholder="Age" oninput="this.className = ''" required></p>
+                <p><select name="sex" id="sex" required>
+                        <option value="" disabled selected>Your biological sex at birth</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select>
+                </p>                
+                <p><input name="conditions" id="conditions" placeholder="Known allergies or chronic conditions" oninput="this.className = ''"></p>
+                <p><input name="occupation" id="occupation" placeholder="Occupation" oninput="this.className = ''"></p>
+            </div>
+        
+            <!-- Step 2: Symptoms -->
+            <div class="tab">Symptoms:
+                <p><input name="symptoms" id="symptoms" placeholder="Enter your symptoms separated by commas..." oninput="this.className = ''" required></p>
+            </div>
+        
+            <!-- Navigation Buttons -->
+            <div style="overflow:auto;">
+                <div style="float:right;">
+                    <button type="button" id="prevBtn" onclick="nextPrev(-1)">Previous</button>
+                    <button type="button" id="nextBtn" onclick="nextPrev(1)">Next</button>
                 </div>
-                <br/>
-                <button class="w3-btn w3-highway-blue" type="submit">Get Diagnosis</button>
-            </form>
-        </div>
+            </div>
+        
+            <!-- Step Indicators -->
+            <div style="text-align:center;margin-top:40px;">
+                <span class="step"></span>
+                <span class="step"></span>
+            </div>
+        </form>
+    
         {% if output %}
             <h2>The symptoms you have entered mean you could have:</h2>
             <p>{{ output }}</p>
         {% endif %}
     </main>
-
+    
     <script>
-        function toggleMenu() {
+        var currentTab = 0; // Current tab is set to be the first tab (0)
+            showTab(currentTab); // Display the current tab
+
+            function showTab(n) {
+                // Display the specified tab and adjust navigation buttons
+                var x = document.getElementsByClassName("tab");
+                x[n].style.display = "block";
+                if (n == 0) {
+                    document.getElementById("prevBtn").style.display = "none";
+                } else {
+                    document.getElementById("prevBtn").style.display = "inline";
+                }
+                document.getElementById("nextBtn").innerHTML = (n == x.length - 1) ? "Submit" : "Next";
+                fixStepIndicator(n);
+            }
+
+            function nextPrev(n) {
+                var x = document.getElementsByClassName("tab");
+                if (n == 1 && !validateForm()) return false;
+                x[currentTab].style.display = "none";
+                currentTab += n;
+                if (currentTab >= x.length) {
+                    document.getElementById("form").submit();
+                    return false;
+                }
+                showTab(currentTab);
+            }
+
+            function validateForm() {
+                var x = document.getElementsByClassName("tab");
+                var y = x[currentTab].getElementsByTagName("input");
+                var valid = true;
+                for (var i = 0; i < y.length; i++) {
+                    if (y[i].value == "") {
+                        y[i].className += " invalid";
+                        valid = false;
+                    }
+                }
+                if (valid) document.getElementsByClassName("step")[currentTab].className += " finish";
+                return valid;
+            }
+
+            function fixStepIndicator(n) {
+                var i, x = document.getElementsByClassName("step");
+                for (i = 0; i < x.length; i++) {
+                    x[i].className = x[i].className.replace(" active", "");
+                }
+                x[n].className += " active";
+            }
+
+            // menu
+            function toggleMenu() {
             var x = document.getElementById("mobileMenu");
             if (x.classList.contains("w3-show")) {
                 x.classList.remove("w3-show");
