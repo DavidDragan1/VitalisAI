@@ -4,7 +4,7 @@ from openai import OpenAI
 client = OpenAI(
   organization='org-9HzvHBDpj6KGvCeD5UhyCHw0',
   project='proj_0dZ3VE2mbwPfPIzaSCjKNRcv',
-  api_key="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"
+  api_key = "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"
 )
 
 
