@@ -71,12 +71,20 @@ button:hover {
 @media (max-width: 390px) {
     .logo {
         width:100vw;
-        height:auto!important;
+        height:auto !important;
+    }
+}
+
+@media (max-width: 472px) {
+    #form {
+        margin: 0px !important;
+        padding: 15px !important;
+        width: 100% !important;
     }
 }
 
 .logo {
-    padding:15px;
+    padding:20px;
 }
 
 main {
@@ -86,7 +94,7 @@ main {
 
 /* Style the form */
 #form {
-    background-color: #ffffff;
+    background-color: white;
     margin: 100px auto;
     padding: 40px;
     width: 70%;

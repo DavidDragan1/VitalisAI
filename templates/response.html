@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitalis AI - Diagnosis</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Top Navigation Menu -->
+    <div class="w3-bar w3-highway-blue w3-large">
+        <!-- Desktop Links -->
+        <div class="col">
+            <img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo">
+        </div>
+        
+        <div class="col link-box w3-hide-small w3-display-middle">
+            <a href="#">Senior Assistant</a>
+            <a href="#">Women's Health</a>
+            <a href="#">Youth & Adolescent Wellbeing</a>
+            <a href="#">Mental Health</a>
+        </div>
+        <!-- Hamburger Icon (shown on small screens) -->
+        <div class="col w3-right w3-hide-large w3-top">
+            <a href="javascript:void(0);" class="w3-bar-item w3-button w3-right" onclick="toggleMenu()">
+                <i class="fa fa-bars h-menu"></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- Mobile Links (Hidden by default) -->
+    <div id="mobileMenu" class="w3-bar-block w3-highway-blue w3-hide w3-hide-large">
+        <ul>
+            <li><a href="#">Senior Assistant</a></li>
+            <li><a href="#">Women's Health</a></li>
+            <li><a href="#">Youth & Adolescent Wellbeing</a></li>
+            <li><a href="#">Mental Health</a></li>
+        </ul>
+    </div>
+
+    <!-- main -->
+    <main class="w3-content">
+        <form style="padding:20px">      
+            <div class="form-frame">
+                <h1 style="text-decoration: underline; font-size: 45px">Diagnosis Result</h1>
+        
+                {% if output %}
+                    <div class="diagnosis-output">{{ output | safe }}</div>
+                {% endif %}
+            </div>
+            <br>
+            <a href="{{ url_for('index') }}">Go Back to Start</a>
+        </form>
+    </main>
+    
+    <script>
+        // Toggle mobile menu
+        function toggleMenu() {
+            document.getElementById("mobileMenu").classList.toggle("w3-show");
+        }
+
+    </script>
+</body>
+</html>

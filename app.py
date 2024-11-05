@@ -1,9 +1,6 @@
 from flask import Flask, request, render_template
-
-import requests
-
-API_URL = "https://api-inference.huggingface.co/models/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"
-headers = {"Authorization": "Bearer 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"}
+from api_inference import query
+import re
 
 
 app = Flask(__name__)
@@ -14,29 +11,33 @@ def index():
     return render_template('index.html', output=" ") #  sets empty output box
 
 
-@app.route('/diagnosis', methods=['POST'])
+@app.route('/response', methods=['POST'])
 def diagnosis():
+    # Get form data
+    age = request.form.get('age')
+    sex = request.form.get('sex')
+    conditions = request.form.get('conditions')
+    occupation = request.form.get('occupation')
+    symptoms = request.form.get('symptoms')
+    
+    output = query(f"Patient Profile: {age}, sex: {sex}, conditions: {conditions}, occupation: {occupation}. Chief Complaint: {symptoms}. What is your diagnosis and recommendation?").content
 
-    top3_list = []  # declares empty list/clears list on next turn
+    # Process the output
+    formatted_output = process_output(output)
 
-    # Get user input from the form
-    symptoms = request.form['symptoms']
+    # Render the result in the template
+    return render_template('response.html', output=formatted_output)
 
-    output = query({
-        "inputs": f"{symptoms.title()} are symptoms of [MASK]."
-    })                                                           # passes inference & assigns output to mask token value
+def process_output(output):
+    # Remove unwanted parts using regex
+    cleaned_output = re.sub(r"content='- |refusal=None|role='assistant'|audio=None|function_call=None|tool_calls=None", "", output)
 
-    for n in range(3):
-        top3_list.append(output[n]["token_str"])  # append top 3 token strings from query result to list
+    # Replace '**text**' with '<h2>text</h2>'
+    formatted_output = re.sub(r'\*\*(.*?)\*\*', r'<h2>\1</h2>', cleaned_output)
 
-    #  removing [' '] from output
-    top3_list_f = str(top3_list).strip('[]').replace("'", '')
-
-    return render_template('index.html', output=top3_list_f)
-    # Send the result back to the HTML page
+    return formatted_output
 
 
-def query(payload):
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
+
+
 

@@ -45,7 +45,7 @@
     <!-- main -->
     <main class="w3-content">
         <!-- Step Progress Indicator -->
-        <form id="form" action="/diagnosis" method="POST">      
+        <form id="form" action="/response" method="POST">      
             <!-- Welcome screen -->
             <div class="form-frame">
                 <div class="tab">
@@ -75,14 +75,6 @@
                     <h1>Symptoms</h1>
                     <p><input name="symptoms" id="symptoms" placeholder="Enter your symptoms separated by commas..." required></p>
                 </div>
-
-                <!-- output -->
-                <div class="tab">
-                    {% if output %}
-                        <h2>The symptoms you have entered mean you could have:</h2>
-                        <p>{{ output }}</p>
-                    {% endif %}
-                </div>
             </div>
         
             <!-- Navigation Buttons -->
@@ -90,7 +82,7 @@
                 <div style="float: right; display: flex; gap: 10px;">
                     <button type="button" id="prevBtn" onclick="nextPrev(-1)">Previous</button>
                     <button type="button" id="nextBtn" onclick="nextPrev(1)">Start</button>
-                    <button type="submit" id="submitBtn" onclick="nextPrev(1)">Generate Answer</button>
+                    <button type="submit" id="submitBtn">Generate Answer</button>
                     <a id="refreshBtn" onclick="window.location.reload();">Start Again</a> <!-- refresh page (restart form wizard) -->
                 </div>
             </div>
