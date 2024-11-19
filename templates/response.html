@@ -9,13 +9,17 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Top Navigation Menu -->
     <div class="w3-bar w3-highway-blue w3-large">
         <!-- Desktop Links -->
         <div class="col">
-            <img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo">
+            <a href="/"><img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo"></a>
         </div>
         
         <div class="col link-box w3-hide-small w3-display-middle">
@@ -46,14 +50,26 @@
     <main class="w3-content">
         <form style="padding:20px">      
             <div class="form-frame">
-                <h1 style="text-decoration: underline; font-size: 45px">Diagnosis Result</h1>
+                <div class="w3-twothird">
+                    <h1>Diagnosis Result</h1>
         
-                {% if output %}
-                    <div class="diagnosis-output">{{ output | safe }}</div>
-                {% endif %}
+                    {% if output %}
+                        <div class="diagnosis-output">{{ output | safe }}</div>
+                    {% endif %}
+
+                    <hr>
+                    <div class="bmi-box">
+                        <h3>Your BMI: {{ bmi }}</h3>
+                        <p><strong>BMI Status: </strong><span id="bmi-stat">{{ bmi_status }}</span></p>
+                    </div>
+
+                    <hr>
+                    <a href="{{ url_for('index') }}">Go Back to Start</a>
+                </div>
+                <div class="w3-third img-container">
+                    <img id="anat_img" src="{{ url_for('static', filename=anat_img) }}" alt="Anatomical Illustration">
+                </div>                
             </div>
-            <br>
-            <a href="{{ url_for('index') }}">Go Back to Start</a>
         </form>
     </main>
     
@@ -62,6 +78,32 @@
         function toggleMenu() {
             document.getElementById("mobileMenu").classList.toggle("w3-show");
         }
+
+        // change colour of bmi status text depending on value
+        function changeBmiStatusColour(bmi_status) {
+            const element = document.getElementById("bmi-stat");
+
+            // Set color directly based on the BMI status
+            switch(bmi_status) {
+                case "Underweight":
+                case "Overweight":
+                    element.style.color = "orange";
+                    break;
+                case "Obese":
+                    element.style.color = "red";
+                    break;
+                case "Normal":
+                    element.style.color = "green";
+                    break;
+                default:
+                    element.style.color = "black";
+                    break;
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            changeBmiStatusColour(document.getElementById("bmi-stat").textContent);
+        });
 
     </script>
 </body>

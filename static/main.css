@@ -1,5 +1,5 @@
-body{
-  font-family: 'Muli', sans-serif;
+html{
+  font-family: 'Lato', sans-serif;
 }
 
 h2 i {
@@ -7,6 +7,25 @@ h2 i {
     background: #fff;
     position: relative;
     padding: 10px;
+}
+
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 500!important;
+    text-decoration: none;
+}
+
+.w3-twothird h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700!important;
+    text-decoration: underline;
+    font-size: clamp(30px, 15vw, 50px);
+}
+
+h2 {
+    font-family: "Lato", sans-serif;
+    font-weight: 600!important;
+    font-style: normal;
 }
 
 div {
@@ -88,7 +107,7 @@ button:hover {
 }
 
 main {
-    padding-top: 3vh;
+   height:100%;
 }
 
 
@@ -99,6 +118,7 @@ main {
     padding: 40px;
     width: 70%;
     min-width: 300px;
+    padding-top: 3vh;
 }
 
 /* Style input fields */
@@ -162,4 +182,13 @@ sup {
     text-decoration: underline;
     cursor: pointer;
     color: #003863;
+}
+
+.img-container {
+    padding: 20px;
+}
+
+.img-container img {
+    width: 100%;
+    height:auto;
 }

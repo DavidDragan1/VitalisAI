@@ -9,13 +9,17 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Top Navigation Menu -->
     <div class="w3-bar w3-highway-blue w3-large">
         <!-- Desktop Links -->
         <div class="col">
-            <img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo">
+            <a href="/"><img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo"></a>
         </div>
         
         <div class="col link-box w3-hide-small w3-display-middle">
@@ -66,11 +70,19 @@
                         </select>
                         <sup>*</sup>
                     </p>                
+                    <p><input type="number" min="0" max="300" name="height" id="height" placeholder="Your height in centimetres (cm) *" required></p>
+                    <p><input type="number" min="0" max="600" name="weight" id="weight" placeholder="Your weight in kilograms (kg) *" required></p>
+                </div>
+
+                <!-- tab 2 - optional questions -->
+                <div class="tab">
+                    <h1>Optional Questions</h1>
+                    <h6>This information is optional but can be important to providing an accurate diagnosis and advice.</h6>              
                     <p><input name="conditions" id="conditions" placeholder="Known allergies or chronic conditions"></p>
                     <p><input name="occupation" id="occupation" placeholder="Occupation"></p>
                 </div>
             
-                <!-- tab 2 - Symptoms -->
+                <!-- tab 3 - Symptoms -->
                 <div class="tab">
                     <h1>Symptoms</h1>
                     <p><input name="symptoms" id="symptoms" placeholder="Enter your symptoms separated by commas..." required></p>
@@ -113,12 +125,12 @@
             document.getElementById("nextBtn").innerHTML = (n === 0 ? "Start" : "Next"); // next button will read "start" on first page else "next" on every other page
             
             // pages with exceptions
-            if (n === 2) {
+            if (n === 3) {
                 document.getElementById("prevBtn").style.display = "none";
                 document.getElementById("nextBtn").style.display = "none";
                 document.getElementById("submitBtn").style.display = "inline";
             }
-            else if (n === 3) {
+            else if (n === 4) {
                 document.getElementById("refreshBtn").style.display = "inline";
                 document.getElementById("submitBtn").style.display = "none";
             }
