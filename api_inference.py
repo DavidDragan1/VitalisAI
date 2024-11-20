@@ -1,14 +1,17 @@
 from openai import OpenAI
+from dotenv import load_dotenv
+import os
 
-# auth
+load_dotenv()
+
 client = OpenAI(
-  organization='org-9HzvHBDpj6KGvCeD5UhyCHw0',
-  project='proj_0dZ3VE2mbwPfPIzaSCjKNRcv',
-  api_key = ""
+    organization='org-9HzvHBDpj6KGvCeD5UhyCHw0',
+    project='proj_0dZ3VE2mbwPfPIzaSCjKNRcv',
+    api_key=os.getenv("API_KEY")
 )
 
 
-# Define the system context as a plain string
+# system context allows for flexible finetuning of model behaviour via prompt engineering 
 system_context = (
     "You are a virtual healthcare assistant specializing in symptom extraction and diagnosis. "
     "When a user describes their symptoms, your task is to:\n\n"
@@ -24,7 +27,7 @@ system_context = (
     "$area or group of organs$"
 )
 
-
+# main inference method
 def query(payload):
     output = client.chat.completions.create(
         model="gpt-4o-mini",
