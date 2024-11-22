@@ -1,0 +1,1501 @@
+Age,Gender,Ethnicity,Region,Socioeconomic Status,Symptom Description,Symptom Severity,Duration of Symptoms (days),Additional Symptoms,Chronic Condition,Allergies,Previous Visits,Potential Condition,Suggested Action,Insurance Status
+30,Female,Other,Suburban,High,chest pain,7,23,fever,None,None,,Anxiety,Visit Doctor,No
+63,Male,Caucasian,Urban,Middle,mild headache,1,5,nausea,None,Dust,4,Diabetes,Take Home Care Measures,Yes
+70,Other,Other,Urban,High,,,19,fatigue,None,Peanuts,6,Flu,Take Home Care Measures,No
+32,Male,,,High,fever and body aches,2,1,fever,None,,7,Common Cold,Visit Doctor,No
+,Other,African American,Rural,Middle,fatigue and weakness,4,7,muscle aches,,Penicillin,8,Arthritis,,No
+80,Male,Caucasian,Rural,,frequent urination,4,,muscle aches,Asthma,Peanuts,5,Anxiety,Go to Emergency,Yes
+24,Other,Hispanic,,Low,nausea and vomiting,8,6,,Asthma,None,,Asthma,,Yes
+85,Female,Caucasian,Urban,,joint pain and swelling,2,1,,None,Peanuts,0,Diabetes,,No
+22,Other,Other,Urban,High,blurry vision,4,11,fever,Diabetes,,,Common Cold,Visit Doctor,No
+57,Other,Other,Suburban,,skin rash,5,11,nausea,Diabetes,Dust,4,Food Poisoning,Take Home Care Measures,No
+84,Male,Hispanic,,Low,sharp stomach pain,10,14,,Diabetes,,6,Hypertension,Take Home Care Measures,No
+37,Male,Asian,,Low,nausea and vomiting,6,19,fever,None,None,9,Asthma,Visit Doctor,No
+90,Female,,,High,frequent urination,8,3,,,Pollen,8,COVID-19,Visit Doctor,Yes
+73,,Caucasian,,Middle,persistent cough and shortness of breath,2,20,fever,Hypertension,None,7,Migraine,Visit Doctor,No
+54,Other,Hispanic,,Low,frequent urination,10,,nausea,Diabetes,Penicillin,1,Arthritis,Take Home Care Measures,No
+60,Male,Hispanic,,Middle,joint pain and swelling,4,,fever,Diabetes,,,Allergic Reaction,Visit Doctor,Yes
+35,Female,,Suburban,Low,fatigue and weakness,,22,,Hypertension,None,4,Hypertension,Visit Doctor,No
+60,Other,Caucasian,Suburban,Middle,sore throat and difficulty swallowing,6,12,nausea,Diabetes,Penicillin,0,Allergic Reaction,,Yes
+49,Male,Caucasian,Urban,Middle,chest pain,9,4,nausea,Diabetes,Penicillin,3,,Visit Doctor,Yes
+60,Male,Other,Suburban,Middle,,7,21,fever,Hypertension,Dust,10,Food Poisoning,Go to Emergency,No
+,Male,Hispanic,Rural,Middle,persistent cough and shortness of breath,1,14,nausea,None,Dust,0,COVID-19,Visit Doctor,No
+77,Female,Asian,Urban,,numbness in legs,9,13,fatigue,Hypertension,Dust,4,,Take Home Care Measures,Yes
+,Other,Caucasian,,High,frequent urination,10,,muscle aches,Asthma,,3,Diabetes,Visit Doctor,Yes
+31,Other,African American,Urban,High,persistent cough and shortness of breath,5,2,,Diabetes,,,Kidney Stones,,No
+70,Female,African American,Urban,Low,mild headache,,19,fever,Asthma,Dust,,Flu,Go to Emergency,Yes
+39,Other,Asian,Urban,Middle,fatigue and weakness,4,8,muscle aches,None,Peanuts,9,Allergic Reaction,Visit Doctor,Yes
+27,Other,Other,Rural,,joint pain and swelling,10,,,Diabetes,,0,Migraine,Visit Doctor,
+33,Male,Hispanic,Urban,Middle,fever and body aches,2,6,none,Diabetes,,8,Sinus Infection,Go to Emergency,No
+47,Male,Hispanic,Suburban,Low,fatigue and weakness,,,fatigue,None,Penicillin,,,Visit Doctor,Yes
+52,Female,Caucasian,Urban,Middle,fever and body aches,1,27,fever,Diabetes,Peanuts,,,Take Home Care Measures,Yes
+56,Other,Caucasian,Suburban,High,fatigue and weakness,,5,muscle aches,None,Penicillin,2,Allergic Reaction,,Yes
+50,Other,,,,skin rash,4,6,none,,None,,,,Yes
+82,,Caucasian,Suburban,Low,sharp stomach pain,6,,fatigue,Asthma,Pollen,4,Kidney Stones,Go to Emergency,Yes
+,Male,Other,Suburban,,nausea and vomiting,5,2,fever,,Penicillin,,Asthma,Visit Doctor,No
+89,Female,Hispanic,Suburban,Middle,severe dizziness,9,1,muscle aches,Hypertension,,10,COVID-19,Take Home Care Measures,Yes
+,Male,African American,,Middle,skin rash,8,1,fatigue,Diabetes,,5,Hypertension,Visit Doctor,
+67,Other,,Urban,Low,nausea and vomiting,7,6,fever,None,Pollen,7,Kidney Stones,Visit Doctor,Yes
+57,Male,Caucasian,Suburban,Middle,persistent cough and shortness of breath,10,14,muscle aches,None,Peanuts,1,Food Poisoning,Visit Doctor,Yes
+23,Female,Caucasian,Suburban,,,9,20,muscle aches,Hypertension,,,Kidney Stones,,
+62,,Asian,Suburban,Low,frequent urination,,14,nausea,Hypertension,Dust,5,Hypertension,Take Home Care Measures,No
+57,Other,Caucasian,Rural,Middle,sharp stomach pain,6,19,none,None,Penicillin,0,Food Poisoning,Take Home Care Measures,No
+51,Male,Hispanic,,Middle,nausea and vomiting,1,18,fatigue,Hypertension,Penicillin,,Hypertension,,Yes
+25,Female,Caucasian,Urban,Low,persistent cough and shortness of breath,1,10,fatigue,Asthma,Penicillin,4,Food Poisoning,Go to Emergency,Yes
+45,Male,Caucasian,,Low,frequent urination,,27,none,Hypertension,Dust,1,Muscle Strain,Take Home Care Measures,
+48,Other,Hispanic,Rural,Middle,nausea and vomiting,,15,nausea,Asthma,None,,Flu,Take Home Care Measures,Yes
+76,Other,Other,Suburban,Middle,,1,20,fatigue,None,Penicillin,9,Food Poisoning,Take Home Care Measures,No
+39,Female,,Rural,High,sharp stomach pain,,4,fatigue,None,None,4,Food Poisoning,Take Home Care Measures,Yes
+,Female,African American,Urban,,,6,14,none,,Peanuts,7,Hypertension,Take Home Care Measures,No
+,Female,Caucasian,Urban,Middle,,6,30,muscle aches,Hypertension,None,7,Asthma,Take Home Care Measures,No
+45,Male,Caucasian,Rural,Low,joint pain and swelling,8,12,fatigue,Diabetes,,2,Common Cold,Take Home Care Measures,Yes
+53,Male,Asian,Rural,Low,fatigue and weakness,7,21,fatigue,Diabetes,Penicillin,6,Muscle Strain,Go to Emergency,Yes
+,Female,Hispanic,Suburban,Low,frequent urination,9,23,fatigue,Asthma,Penicillin,8,Diabetes,Take Home Care Measures,Yes
+33,Other,Hispanic,Urban,Low,severe dizziness,5,23,muscle aches,,,0,Asthma,Visit Doctor,Yes
+71,Female,Other,,Middle,sharp stomach pain,,22,muscle aches,Diabetes,None,5,Gastroenteritis,Visit Doctor,Yes
+38,Other,Asian,Urban,High,blurry vision,,7,fever,Hypertension,None,10,Migraine,Visit Doctor,Yes
+21,Female,Caucasian,Rural,Middle,nausea and vomiting,4,11,nausea,None,,10,,Go to Emergency,Yes
+56,,,,,fever and body aches,,5,muscle aches,Diabetes,Dust,,Migraine,Go to Emergency,Yes
+87,Female,,Suburban,Middle,nausea and vomiting,3,4,muscle aches,None,Pollen,5,Muscle Strain,Go to Emergency,No
+48,Female,Caucasian,Suburban,Middle,numbness in legs,4,25,fever,None,,10,Common Cold,Go to Emergency,Yes
+81,,African American,Urban,High,blurry vision,5,26,muscle aches,Diabetes,,2,Migraine,Take Home Care Measures,No
+53,Female,,Suburban,Low,numbness in legs,4,12,fever,None,Peanuts,,Muscle Strain,Visit Doctor,
+79,Female,Other,Rural,Middle,chest pain,7,15,none,Asthma,Peanuts,7,Muscle Strain,Take Home Care Measures,No
+47,Female,Caucasian,Urban,High,sore throat and difficulty swallowing,7,15,,Diabetes,Penicillin,3,,Visit Doctor,No
+64,Female,African American,Rural,,blurry vision,2,27,nausea,Asthma,None,10,,Visit Doctor,No
+79,,Other,Urban,High,mild headache,8,22,none,Diabetes,Pollen,1,COVID-19,Visit Doctor,No
+47,,,Suburban,,frequent urination,6,,,Asthma,Pollen,2,,Go to Emergency,Yes
+35,Male,African American,Suburban,,sharp stomach pain,5,30,fever,Diabetes,Penicillin,6,Asthma,Go to Emergency,Yes
+64,Other,Asian,Suburban,Low,sharp stomach pain,2,27,nausea,Asthma,Pollen,4,Hypertension,,No
+86,Other,Hispanic,Rural,High,back pain and muscle stiffness,3,24,nausea,None,Pollen,4,,Take Home Care Measures,No
+33,Female,African American,Rural,Middle,joint pain and swelling,1,11,nausea,Diabetes,Pollen,0,Asthma,Visit Doctor,Yes
+84,Female,African American,Urban,Low,,10,10,muscle aches,Diabetes,None,0,Kidney Stones,Take Home Care Measures,Yes
+62,Female,African American,Rural,,persistent cough and shortness of breath,4,10,fever,None,Peanuts,,Food Poisoning,Visit Doctor,No
+,Male,Other,Urban,Middle,blurry vision,5,20,,None,Peanuts,10,Hypertension,Visit Doctor,Yes
+73,Female,African American,Suburban,High,sharp stomach pain,1,,muscle aches,None,Dust,5,Migraine,Take Home Care Measures,Yes
+36,Male,Asian,Urban,Middle,,4,7,none,Hypertension,None,10,Food Poisoning,Go to Emergency,Yes
+81,Other,,Urban,High,frequent urination,,4,,None,Penicillin,,Hypertension,Visit Doctor,No
+85,Male,Caucasian,Suburban,High,sore throat and difficulty swallowing,9,,fever,Diabetes,Peanuts,2,Migraine,Go to Emergency,Yes
+43,Male,Hispanic,Suburban,Low,fever and body aches,6,6,muscle aches,Hypertension,,5,Kidney Stones,Take Home Care Measures,Yes
+22,Male,Asian,Rural,High,,3,27,muscle aches,Hypertension,Pollen,7,Muscle Strain,Take Home Care Measures,No
+28,Male,Hispanic,Urban,Middle,severe dizziness,4,24,fever,,Penicillin,3,,Go to Emergency,Yes
+65,Female,African American,Suburban,High,frequent urination,4,18,,Asthma,Dust,9,,Take Home Care Measures,No
+21,,African American,Suburban,High,numbness in legs,4,3,,None,None,2,Asthma,Go to Emergency,Yes
+68,,Asian,Urban,Low,chest pain,,28,fever,,Penicillin,,COVID-19,Visit Doctor,Yes
+,Male,Asian,Rural,Low,skin rash,3,3,fatigue,Diabetes,Penicillin,,Kidney Stones,Take Home Care Measures,Yes
+70,Other,African American,Urban,Middle,mild headache,,2,none,,,9,Anxiety,Take Home Care Measures,
+73,Other,Asian,Rural,,sore throat and difficulty swallowing,8,15,fatigue,Hypertension,Pollen,6,,Take Home Care Measures,No
+45,Male,Other,Urban,High,numbness in legs,8,9,,None,Dust,8,Flu,Go to Emergency,No
+90,Male,Other,Rural,Low,numbness in legs,1,22,muscle aches,Diabetes,None,0,Flu,Go to Emergency,No
+19,Other,African American,Suburban,High,fever and body aches,4,7,fever,Hypertension,None,6,Sinus Infection,,
+64,Male,Caucasian,Rural,Low,mild headache,3,20,fever,None,Penicillin,1,Muscle Strain,Take Home Care Measures,No
+76,Male,Hispanic,Urban,Middle,blurry vision,3,30,fever,Diabetes,None,4,Food Poisoning,,No
+63,Male,Caucasian,Urban,High,sore throat and difficulty swallowing,10,10,fever,Diabetes,None,4,Anxiety,Visit Doctor,Yes
+67,Female,African American,Suburban,,mild headache,10,27,fatigue,,Pollen,,Flu,,No
+63,Female,,Suburban,Low,,1,7,none,Asthma,None,1,Food Poisoning,,Yes
+46,Male,Other,,High,persistent cough and shortness of breath,5,21,nausea,None,Peanuts,9,Anxiety,Go to Emergency,No
+74,Other,Other,Urban,Low,fever and body aches,,2,,Diabetes,Pollen,8,COVID-19,,Yes
+75,Female,Asian,Rural,High,mild headache,10,17,,Diabetes,Pollen,2,COVID-19,Visit Doctor,Yes
+39,Female,African American,Suburban,Middle,persistent cough and shortness of breath,7,1,muscle aches,Asthma,Peanuts,3,,Take Home Care Measures,Yes
+75,Female,Hispanic,Urban,Middle,persistent cough and shortness of breath,4,7,none,,Penicillin,10,COVID-19,,
+,Male,Asian,Rural,High,severe dizziness,10,23,fatigue,Diabetes,None,9,Arthritis,Go to Emergency,Yes
+62,Female,Asian,Urban,,skin rash,3,10,,None,Dust,5,,Visit Doctor,
+38,Female,Hispanic,Urban,High,severe dizziness,6,21,nausea,,Penicillin,5,Kidney Stones,Go to Emergency,Yes
+34,Male,Asian,Suburban,,mild headache,3,12,fever,,None,4,Anxiety,Take Home Care Measures,Yes
+83,,,,Middle,mild headache,10,,muscle aches,Diabetes,Penicillin,,Common Cold,Visit Doctor,No
+38,Female,Asian,Urban,High,back pain and muscle stiffness,6,22,,Diabetes,Penicillin,2,Food Poisoning,Take Home Care Measures,No
+82,Other,,,Middle,blurry vision,9,25,nausea,,Penicillin,3,Kidney Stones,Take Home Care Measures,Yes
+77,,,Rural,Middle,skin rash,6,,fatigue,None,Peanuts,0,Migraine,Visit Doctor,Yes
+23,Female,Caucasian,Urban,,blurry vision,6,19,fatigue,None,,5,Food Poisoning,,No
+37,Female,Other,,High,,5,,fever,,Penicillin,2,Sinus Infection,Take Home Care Measures,Yes
+89,Male,Caucasian,Suburban,Low,fatigue and weakness,3,,none,Hypertension,,8,Arthritis,Visit Doctor,Yes
+62,Female,Caucasian,Urban,Low,persistent cough and shortness of breath,3,12,fever,Hypertension,None,0,Hypertension,Take Home Care Measures,Yes
+,Male,,,High,sore throat and difficulty swallowing,1,15,fatigue,Hypertension,,1,COVID-19,Take Home Care Measures,Yes
+51,Female,Hispanic,Suburban,High,chest pain,2,7,nausea,,,,COVID-19,Go to Emergency,Yes
+76,Other,Other,Rural,Low,,3,5,muscle aches,,Dust,2,Asthma,Take Home Care Measures,Yes
+32,Female,Asian,Suburban,,numbness in legs,9,11,nausea,Hypertension,Pollen,4,Anxiety,Take Home Care Measures,No
+44,Male,Caucasian,Rural,Low,numbness in legs,10,,fatigue,Asthma,Peanuts,7,COVID-19,,Yes
+40,Female,Caucasian,Urban,,sore throat and difficulty swallowing,9,18,,Hypertension,Peanuts,6,Anxiety,Visit Doctor,Yes
+,Other,Hispanic,Suburban,Middle,chest pain,,,fever,Diabetes,,0,,,Yes
+25,,African American,Suburban,,fatigue and weakness,9,13,,Hypertension,Peanuts,8,Food Poisoning,Take Home Care Measures,Yes
+42,Female,Other,Suburban,Middle,skin rash,5,26,nausea,None,Dust,,Allergic Reaction,,Yes
+89,,Hispanic,Urban,Middle,fever and body aches,1,13,fever,Asthma,Penicillin,8,Migraine,Visit Doctor,
+52,Other,Other,Urban,Middle,blurry vision,6,9,muscle aches,Diabetes,None,6,Migraine,Go to Emergency,No
+59,Female,African American,Urban,Low,fatigue and weakness,,27,muscle aches,None,,5,Hypertension,Visit Doctor,No
+74,Male,Caucasian,Rural,High,,7,19,muscle aches,None,,3,,Go to Emergency,Yes
+36,Female,Asian,Rural,Middle,fatigue and weakness,2,8,nausea,,,1,Anxiety,Go to Emergency,Yes
+26,Other,African American,,Low,sharp stomach pain,7,24,none,Asthma,Penicillin,6,Migraine,Go to Emergency,Yes
+79,Other,Hispanic,Suburban,Middle,numbness in legs,9,14,nausea,Diabetes,Pollen,9,Migraine,,Yes
+,Male,Other,,High,sharp stomach pain,2,15,fatigue,Hypertension,Dust,1,COVID-19,Take Home Care Measures,No
+77,Other,Caucasian,Urban,High,skin rash,3,11,fatigue,Asthma,Penicillin,3,Food Poisoning,Go to Emergency,No
+59,Male,,Suburban,Low,frequent urination,,13,nausea,Hypertension,Dust,2,Common Cold,Take Home Care Measures,
+26,Male,Hispanic,Urban,Middle,nausea and vomiting,6,1,muscle aches,Asthma,None,5,Anxiety,Go to Emergency,Yes
+46,,Caucasian,Suburban,Middle,blurry vision,7,1,fatigue,,None,9,Asthma,Take Home Care Measures,Yes
+89,Male,Caucasian,Suburban,Middle,sore throat and difficulty swallowing,5,9,none,Asthma,None,4,Muscle Strain,Take Home Care Measures,Yes
+68,Other,Caucasian,Urban,Middle,sharp stomach pain,,28,muscle aches,Hypertension,Peanuts,6,Gastroenteritis,Go to Emergency,No
+87,Male,Other,Suburban,,mild headache,1,26,fatigue,None,Pollen,1,Muscle Strain,Visit Doctor,
+53,Other,Caucasian,Suburban,Middle,skin rash,5,2,muscle aches,Asthma,,0,Sinus Infection,Take Home Care Measures,No
+86,Male,Other,Rural,Middle,mild headache,,9,fever,Diabetes,Peanuts,10,Kidney Stones,Go to Emergency,No
+57,,Other,Suburban,Low,sore throat and difficulty swallowing,7,19,none,,Peanuts,2,Allergic Reaction,Visit Doctor,Yes
+60,Other,Caucasian,Rural,High,sore throat and difficulty swallowing,4,22,fever,Hypertension,Dust,7,Flu,Take Home Care Measures,Yes
+47,Female,Caucasian,,High,skin rash,,7,fever,Diabetes,Penicillin,8,Arthritis,Visit Doctor,No
+58,Female,Other,Rural,,fatigue and weakness,,2,none,Hypertension,Dust,10,Arthritis,Go to Emergency,
+75,Female,Other,Urban,High,fever and body aches,1,30,nausea,Asthma,Dust,6,Asthma,Visit Doctor,No
+53,Other,Caucasian,Suburban,High,chest pain,6,9,fatigue,None,Penicillin,8,Food Poisoning,Visit Doctor,Yes
+60,Other,Other,Suburban,Middle,sharp stomach pain,4,,nausea,,Peanuts,7,,,No
+34,Male,Asian,Suburban,High,fever and body aches,4,8,nausea,Diabetes,Peanuts,2,Asthma,,Yes
+,,,Urban,High,joint pain and swelling,8,18,fatigue,Diabetes,Peanuts,7,,Go to Emergency,Yes
+34,Female,Other,Rural,Low,numbness in legs,8,,,None,Pollen,10,Diabetes,Go to Emergency,No
+78,Female,Hispanic,Rural,High,chest pain,1,11,,Diabetes,Peanuts,9,Gastroenteritis,,No
+19,Other,African American,Urban,Low,chest pain,10,30,nausea,Diabetes,,4,Muscle Strain,Go to Emergency,
+20,Other,Other,Urban,Low,frequent urination,1,9,fatigue,Hypertension,,9,Common Cold,Visit Doctor,Yes
+63,Other,Asian,Suburban,Low,,,,,Hypertension,Pollen,9,COVID-19,Visit Doctor,No
+,Female,African American,,Low,back pain and muscle stiffness,,6,nausea,,,9,Arthritis,Take Home Care Measures,No
+51,Male,African American,Urban,High,nausea and vomiting,9,8,fatigue,Hypertension,None,1,,Take Home Care Measures,Yes
+70,Other,African American,Rural,High,,2,18,,Asthma,Pollen,,Sinus Infection,Take Home Care Measures,Yes
+36,Male,Asian,,Middle,skin rash,9,9,fatigue,Asthma,Penicillin,3,Allergic Reaction,Take Home Care Measures,Yes
+,Female,Caucasian,,Middle,chest pain,7,14,fever,None,Dust,9,Asthma,Go to Emergency,No
+48,Other,Other,Urban,Low,persistent cough and shortness of breath,9,7,fatigue,None,Pollen,3,,Go to Emergency,Yes
+,Male,,,,,4,6,fatigue,None,None,1,COVID-19,Visit Doctor,Yes
+30,Other,,Suburban,Middle,mild headache,1,19,none,Diabetes,Dust,0,Flu,Visit Doctor,No
+90,Other,Caucasian,Rural,Middle,severe dizziness,3,3,fatigue,None,None,0,Anxiety,,Yes
+84,Other,Caucasian,,Middle,,,30,none,,Dust,8,Asthma,Go to Emergency,Yes
+42,Other,African American,,High,chest pain,5,5,fever,,Penicillin,3,Sinus Infection,Take Home Care Measures,Yes
+80,,Asian,Rural,Low,back pain and muscle stiffness,1,8,nausea,None,Penicillin,9,Migraine,Take Home Care Measures,No
+52,Other,Other,Suburban,,numbness in legs,2,4,fever,Hypertension,Penicillin,,Muscle Strain,,No
+86,Female,Hispanic,,High,,,4,nausea,Diabetes,Peanuts,7,Arthritis,Take Home Care Measures,
+59,Other,Other,Rural,,skin rash,6,11,fatigue,Asthma,Pollen,9,Diabetes,,
+62,Other,Asian,Urban,High,sharp stomach pain,7,14,,Diabetes,Peanuts,,Allergic Reaction,Take Home Care Measures,No
+79,,Other,Urban,High,fatigue and weakness,6,6,,,,6,Arthritis,Take Home Care Measures,No
+60,Other,,Suburban,High,joint pain and swelling,10,,fatigue,None,Pollen,5,Common Cold,Go to Emergency,No
+38,,African American,Rural,High,blurry vision,4,15,fever,Hypertension,Penicillin,6,Migraine,Visit Doctor,Yes
+76,Other,Other,,Middle,,7,22,fatigue,,Dust,4,Food Poisoning,Take Home Care Measures,Yes
+38,Female,African American,Urban,Middle,nausea and vomiting,,9,none,Asthma,Dust,8,Muscle Strain,,
+59,Other,Caucasian,,Middle,,1,20,,Diabetes,,0,Flu,Go to Emergency,No
+30,Male,Caucasian,,Middle,severe dizziness,9,19,none,Diabetes,Penicillin,5,Flu,Take Home Care Measures,Yes
+90,Male,Caucasian,Rural,Low,skin rash,9,27,fever,,Dust,1,COVID-19,,No
+51,Female,Other,Rural,Middle,frequent urination,5,7,none,None,Pollen,10,Anxiety,,No
+60,,African American,Urban,High,severe dizziness,6,29,nausea,Hypertension,Peanuts,9,Hypertension,,No
+29,Other,,Rural,High,persistent cough and shortness of breath,2,21,fatigue,None,Peanuts,5,Sinus Infection,Visit Doctor,
+36,Male,Other,Suburban,Middle,back pain and muscle stiffness,,30,none,Diabetes,Penicillin,1,Asthma,Take Home Care Measures,No
+,Other,Caucasian,Suburban,Low,fever and body aches,4,15,nausea,None,Dust,4,Muscle Strain,Take Home Care Measures,No
+21,Male,African American,Urban,Middle,,4,2,none,Hypertension,,,Gastroenteritis,Visit Doctor,Yes
+20,Male,Other,Urban,Middle,fever and body aches,8,26,,None,None,,Hypertension,Visit Doctor,
+89,Other,Asian,Suburban,Middle,persistent cough and shortness of breath,9,6,none,None,Dust,8,Asthma,Take Home Care Measures,Yes
+32,Male,Other,Rural,Low,nausea and vomiting,7,,fever,Hypertension,Peanuts,9,COVID-19,Visit Doctor,No
+27,,,Rural,High,nausea and vomiting,,8,fever,Asthma,Dust,6,Allergic Reaction,Visit Doctor,No
+57,Male,African American,Rural,High,frequent urination,6,4,fatigue,Hypertension,,9,Hypertension,Take Home Care Measures,No
+53,Other,Caucasian,Urban,,persistent cough and shortness of breath,9,16,,Asthma,Penicillin,0,Kidney Stones,Take Home Care Measures,
+53,Female,,Urban,Middle,sore throat and difficulty swallowing,10,9,muscle aches,,Penicillin,9,,,Yes
+64,Female,Asian,Rural,Low,persistent cough and shortness of breath,3,24,fever,Asthma,Dust,,Muscle Strain,Go to Emergency,No
+28,Female,Caucasian,Rural,,,1,20,muscle aches,Hypertension,Pollen,,Anxiety,Visit Doctor,Yes
+58,Male,Other,Urban,High,frequent urination,10,26,muscle aches,None,Pollen,0,Flu,Visit Doctor,No
+19,Other,African American,Suburban,High,,3,25,fever,Hypertension,Dust,9,COVID-19,Take Home Care Measures,Yes
+57,Male,Asian,Suburban,Low,,7,6,fever,Hypertension,None,,Gastroenteritis,,Yes
+81,Female,Caucasian,Urban,Low,frequent urination,3,29,,Diabetes,Dust,1,Asthma,Visit Doctor,Yes
+79,Other,Caucasian,Rural,High,severe dizziness,6,28,nausea,None,Dust,4,Common Cold,Go to Emergency,Yes
+24,,Caucasian,Urban,Middle,joint pain and swelling,10,26,fever,,Penicillin,0,Sinus Infection,Go to Emergency,Yes
+25,Female,Hispanic,Urban,,sharp stomach pain,6,10,fever,Asthma,Pollen,5,COVID-19,Visit Doctor,Yes
+32,Male,Other,Urban,Low,numbness in legs,6,24,none,,None,5,Arthritis,Go to Emergency,No
+86,Male,Hispanic,,High,skin rash,8,16,none,,Peanuts,3,Anxiety,Visit Doctor,No
+82,Male,Hispanic,Urban,Low,,3,13,fatigue,Asthma,Pollen,0,COVID-19,Go to Emergency,No
+78,Male,Hispanic,Rural,High,joint pain and swelling,4,15,fever,None,Peanuts,10,Asthma,Take Home Care Measures,Yes
+61,Other,Asian,Rural,Middle,skin rash,1,22,fever,Asthma,Peanuts,6,COVID-19,Go to Emergency,No
+71,Male,Asian,Rural,High,skin rash,10,22,,None,Peanuts,8,Flu,Go to Emergency,Yes
+32,Other,African American,Rural,Low,fever and body aches,8,1,fever,Hypertension,None,9,Allergic Reaction,Visit Doctor,Yes
+26,Female,Hispanic,Suburban,Low,mild headache,2,23,none,Hypertension,None,5,COVID-19,Visit Doctor,No
+70,Male,Asian,Rural,Middle,blurry vision,8,23,fatigue,,Dust,5,Sinus Infection,Go to Emergency,
+18,Female,Other,Rural,Middle,blurry vision,5,16,fever,Hypertension,Peanuts,5,Arthritis,,Yes
+60,Male,Caucasian,Urban,,chest pain,8,23,,,Penicillin,3,Food Poisoning,,
+34,Other,,,Middle,sharp stomach pain,,,none,Diabetes,Pollen,6,Flu,,No
+30,Female,,Suburban,Low,skin rash,,5,fatigue,Hypertension,,1,Sinus Infection,,Yes
+,Female,African American,,,fatigue and weakness,8,25,fatigue,,Dust,3,Diabetes,Go to Emergency,Yes
+64,Male,Asian,,Low,,6,29,nausea,Hypertension,Pollen,0,Sinus Infection,Go to Emergency,No
+72,,Hispanic,Urban,Low,chest pain,7,24,fatigue,None,Peanuts,,Migraine,,Yes
+88,Other,Asian,Rural,Middle,mild headache,6,28,fatigue,Diabetes,Peanuts,2,Muscle Strain,Visit Doctor,No
+38,Male,Other,Urban,,fatigue and weakness,,5,none,Diabetes,None,3,,,Yes
+20,Other,Asian,Rural,Low,blurry vision,2,24,nausea,None,Dust,4,COVID-19,Take Home Care Measures,Yes
+23,,Caucasian,Urban,Low,mild headache,9,25,muscle aches,Diabetes,None,1,Arthritis,Go to Emergency,Yes
+71,Other,African American,Rural,Low,sharp stomach pain,1,30,muscle aches,Diabetes,Penicillin,1,Gastroenteritis,Take Home Care Measures,No
+44,Male,Hispanic,Suburban,Middle,,,,fatigue,None,,7,Allergic Reaction,Take Home Care Measures,No
+77,,Other,Rural,Low,joint pain and swelling,8,20,muscle aches,None,Dust,4,Flu,,
+24,Female,Caucasian,Urban,Middle,severe dizziness,,25,none,Hypertension,None,9,Muscle Strain,Take Home Care Measures,No
+34,Male,African American,Urban,High,blurry vision,10,27,nausea,Diabetes,Penicillin,4,Diabetes,Take Home Care Measures,No
+71,Male,Asian,Suburban,Middle,sore throat and difficulty swallowing,9,7,fever,None,Pollen,8,Anxiety,Go to Emergency,Yes
+69,Other,,Urban,Low,,1,25,nausea,Hypertension,,7,Flu,Go to Emergency,No
+90,Male,,Suburban,Middle,sharp stomach pain,8,21,nausea,,Pollen,4,Allergic Reaction,Take Home Care Measures,Yes
+85,Female,Asian,Suburban,High,severe dizziness,4,3,none,Hypertension,Pollen,7,Allergic Reaction,Visit Doctor,No
+51,Male,Other,Suburban,Middle,numbness in legs,9,17,nausea,None,Penicillin,8,Flu,Visit Doctor,No
+79,Other,Caucasian,Suburban,Low,,8,,fever,Hypertension,Penicillin,5,,Go to Emergency,No
+63,Male,Hispanic,Suburban,Middle,fever and body aches,,,fatigue,Diabetes,Penicillin,1,,Take Home Care Measures,Yes
+18,Male,Asian,Urban,,sore throat and difficulty swallowing,10,13,nausea,Hypertension,Peanuts,6,,Take Home Care Measures,Yes
+21,Male,Caucasian,Urban,Low,fatigue and weakness,,8,muscle aches,Asthma,Peanuts,2,Allergic Reaction,Take Home Care Measures,No
+,Male,Caucasian,Rural,Middle,fatigue and weakness,,8,none,Asthma,,9,Flu,Take Home Care Measures,
+27,Other,Other,Urban,High,numbness in legs,10,2,,Hypertension,Dust,1,Kidney Stones,Visit Doctor,Yes
+20,Male,,Suburban,Low,fever and body aches,4,19,nausea,None,Penicillin,6,Arthritis,Go to Emergency,Yes
+49,Female,African American,Rural,Low,,4,6,fatigue,Asthma,Peanuts,2,Arthritis,Take Home Care Measures,Yes
+81,Male,Asian,,High,fatigue and weakness,1,,nausea,Hypertension,Dust,4,Gastroenteritis,Go to Emergency,Yes
+71,Other,Hispanic,Suburban,,chest pain,,,muscle aches,Hypertension,,9,,Visit Doctor,No
+77,,Asian,Rural,Middle,frequent urination,2,7,nausea,Asthma,,9,Asthma,Take Home Care Measures,No
+29,Male,Other,Urban,Middle,severe dizziness,5,15,none,Asthma,Peanuts,0,Sinus Infection,Visit Doctor,Yes
+,Male,,Suburban,Middle,,4,8,muscle aches,Diabetes,None,0,,Visit Doctor,No
+79,Male,Asian,Suburban,Middle,chest pain,,,nausea,Asthma,None,5,Gastroenteritis,,Yes
+33,Male,African American,Urban,Middle,,6,21,,Asthma,Peanuts,6,Migraine,Go to Emergency,No
+41,,African American,Rural,Middle,mild headache,,27,,,None,9,Diabetes,Go to Emergency,No
+87,Female,Asian,Suburban,High,frequent urination,6,14,nausea,,,0,Asthma,Visit Doctor,Yes
+,Female,Asian,Suburban,High,fever and body aches,6,17,,Diabetes,Dust,1,Asthma,Visit Doctor,Yes
+,Male,Hispanic,,Middle,sore throat and difficulty swallowing,9,26,fever,Hypertension,Dust,5,COVID-19,Go to Emergency,Yes
+55,Female,African American,Rural,Low,nausea and vomiting,9,5,fatigue,,Penicillin,8,Migraine,Visit Doctor,No
+24,Female,African American,Rural,High,,2,27,muscle aches,Asthma,Dust,8,Diabetes,Go to Emergency,Yes
+,Male,Other,,High,fever and body aches,6,,,,Peanuts,,Common Cold,Take Home Care Measures,No
+56,Male,Other,Rural,Middle,mild headache,9,,fatigue,Asthma,Peanuts,4,,Take Home Care Measures,Yes
+49,Male,,Rural,Low,fever and body aches,5,,,None,None,2,Arthritis,Take Home Care Measures,
+,Other,Asian,Rural,Middle,numbness in legs,4,29,fever,Hypertension,Penicillin,2,Arthritis,Visit Doctor,Yes
+69,,Other,Suburban,,sore throat and difficulty swallowing,2,3,fatigue,Asthma,Dust,,,Go to Emergency,
+26,Male,Asian,,High,back pain and muscle stiffness,3,6,,Hypertension,Dust,,Migraine,Go to Emergency,Yes
+55,Other,Caucasian,Urban,Low,skin rash,3,10,fatigue,None,Peanuts,5,Allergic Reaction,Go to Emergency,No
+28,Male,African American,Suburban,Middle,,7,29,nausea,Hypertension,Dust,5,Muscle Strain,Go to Emergency,No
+54,,African American,Urban,Middle,,5,4,nausea,,Dust,8,Flu,Visit Doctor,Yes
+87,Other,Other,Rural,Middle,,,27,nausea,None,Penicillin,0,Allergic Reaction,Take Home Care Measures,
+38,Male,Caucasian,Rural,High,blurry vision,10,16,muscle aches,Diabetes,Pollen,4,Flu,,Yes
+63,,Hispanic,Suburban,Low,numbness in legs,,19,muscle aches,None,Peanuts,3,Gastroenteritis,Visit Doctor,
+35,Female,Asian,Rural,High,persistent cough and shortness of breath,1,13,,Diabetes,,8,Migraine,Take Home Care Measures,Yes
+47,,Caucasian,,High,skin rash,9,17,fatigue,,Dust,1,,Visit Doctor,No
+,Female,African American,,High,back pain and muscle stiffness,5,6,nausea,None,Pollen,8,Asthma,Visit Doctor,No
+77,Male,Asian,Suburban,Low,frequent urination,,26,nausea,Diabetes,Peanuts,,Food Poisoning,Take Home Care Measures,Yes
+42,Female,Caucasian,Suburban,Middle,frequent urination,1,16,,Diabetes,Pollen,2,Arthritis,Take Home Care Measures,No
+33,Male,Hispanic,Urban,Low,fatigue and weakness,9,29,fatigue,Hypertension,None,,Common Cold,,No
+,Female,Other,Suburban,Low,fever and body aches,,16,muscle aches,Diabetes,Peanuts,8,Allergic Reaction,Take Home Care Measures,No
+57,Other,Other,Urban,High,,1,7,muscle aches,,Peanuts,10,Allergic Reaction,Go to Emergency,Yes
+77,Female,Hispanic,Rural,,blurry vision,9,14,none,Asthma,Dust,1,Sinus Infection,Go to Emergency,Yes
+72,Male,Other,Urban,,blurry vision,4,2,,Hypertension,Penicillin,0,Kidney Stones,Go to Emergency,No
+88,,Asian,Suburban,High,sharp stomach pain,8,2,fever,None,Peanuts,4,,Go to Emergency,No
+41,Other,Hispanic,Rural,,,10,28,nausea,Hypertension,,1,Migraine,Take Home Care Measures,Yes
+27,,African American,Urban,High,,3,,none,Diabetes,Peanuts,5,Anxiety,,No
+90,Male,,Suburban,Low,frequent urination,10,10,nausea,Hypertension,Peanuts,10,Kidney Stones,Take Home Care Measures,No
+,Female,Hispanic,,Middle,sore throat and difficulty swallowing,9,30,,Diabetes,,10,,Take Home Care Measures,Yes
+26,Female,Other,,Low,joint pain and swelling,4,16,,,,0,Muscle Strain,Visit Doctor,Yes
+39,Other,Asian,Rural,Middle,frequent urination,6,5,fatigue,Hypertension,,4,Food Poisoning,Take Home Care Measures,No
+83,Other,Hispanic,Suburban,High,fever and body aches,,24,fever,None,Pollen,3,Sinus Infection,,Yes
+66,Female,Hispanic,Rural,Low,sharp stomach pain,3,9,muscle aches,,None,,Anxiety,Go to Emergency,Yes
+31,Male,Asian,Rural,Middle,mild headache,,24,muscle aches,Asthma,Penicillin,,Food Poisoning,Visit Doctor,
+61,,Caucasian,Suburban,High,nausea and vomiting,3,9,nausea,Asthma,Penicillin,10,Sinus Infection,Visit Doctor,No
+,Other,Caucasian,,,blurry vision,3,15,muscle aches,None,None,1,,Visit Doctor,No
+76,Female,,Urban,Middle,persistent cough and shortness of breath,3,11,none,Hypertension,Pollen,0,Migraine,Go to Emergency,No
+53,Female,Caucasian,Urban,,joint pain and swelling,6,14,muscle aches,,None,4,Common Cold,Take Home Care Measures,No
+,Other,Asian,Urban,Middle,nausea and vomiting,7,29,nausea,,Penicillin,,Hypertension,Visit Doctor,
+43,Female,Hispanic,Rural,High,nausea and vomiting,10,,none,,None,3,Sinus Infection,Visit Doctor,Yes
+,Other,Other,Urban,Low,chest pain,,,nausea,Hypertension,Pollen,7,Migraine,Visit Doctor,No
+27,Female,Other,Suburban,Low,sharp stomach pain,10,24,none,Diabetes,Pollen,9,Migraine,,Yes
+76,Female,Caucasian,Suburban,Middle,numbness in legs,6,4,fever,Hypertension,None,4,Allergic Reaction,Visit Doctor,
+42,Male,,Rural,,back pain and muscle stiffness,4,11,muscle aches,Diabetes,Peanuts,7,Gastroenteritis,Take Home Care Measures,No
+19,Female,Asian,Suburban,High,fever and body aches,9,4,fatigue,Diabetes,Peanuts,8,Allergic Reaction,Go to Emergency,
+20,,African American,Suburban,Low,blurry vision,2,,,Hypertension,Pollen,5,Flu,Go to Emergency,No
+73,Female,Hispanic,Urban,High,chest pain,4,29,nausea,,None,1,Allergic Reaction,Visit Doctor,Yes
+55,Female,Other,Rural,High,severe dizziness,1,,none,None,Penicillin,,Migraine,Visit Doctor,Yes
+61,Female,African American,,,sharp stomach pain,4,1,fatigue,None,Pollen,10,Asthma,Take Home Care Measures,Yes
+88,,Other,Rural,High,fever and body aches,7,29,fatigue,Hypertension,Dust,6,Flu,Go to Emergency,Yes
+52,Other,Hispanic,,Middle,nausea and vomiting,2,27,,Hypertension,,8,Diabetes,,
+27,Other,Hispanic,Rural,Middle,blurry vision,1,,fatigue,Diabetes,Pollen,8,,Go to Emergency,Yes
+,Male,Caucasian,Suburban,Low,back pain and muscle stiffness,1,15,fever,Hypertension,,0,Anxiety,Take Home Care Measures,No
+77,Other,,Suburban,Low,fatigue and weakness,9,8,fatigue,Hypertension,Penicillin,6,COVID-19,,No
+48,Female,,Urban,High,persistent cough and shortness of breath,7,22,nausea,None,Penicillin,9,,Take Home Care Measures,No
+85,Female,,Urban,Middle,,9,29,fatigue,Hypertension,None,2,COVID-19,Take Home Care Measures,No
+73,Female,African American,Suburban,Low,persistent cough and shortness of breath,4,11,nausea,Asthma,Dust,,,Go to Emergency,Yes
+25,Other,Hispanic,Suburban,,frequent urination,8,2,none,,Peanuts,6,Flu,Visit Doctor,No
+85,Male,Caucasian,Rural,Low,numbness in legs,7,,,None,None,1,Asthma,Visit Doctor,
+65,Male,African American,,Low,,1,14,muscle aches,Diabetes,Penicillin,4,Food Poisoning,Take Home Care Measures,No
+18,Other,Asian,Urban,Low,chest pain,7,25,nausea,Asthma,Penicillin,8,COVID-19,Go to Emergency,No
+79,Other,African American,Rural,Middle,chest pain,,30,fever,None,Peanuts,5,Arthritis,Go to Emergency,
+54,Other,Other,Rural,Middle,frequent urination,5,,fever,None,,2,,Go to Emergency,Yes
+39,Male,Asian,Suburban,Low,,9,6,muscle aches,None,Pollen,10,Flu,Go to Emergency,No
+65,Female,Caucasian,,High,sharp stomach pain,1,27,nausea,Hypertension,Peanuts,10,Sinus Infection,Go to Emergency,
+66,Other,Caucasian,Urban,Low,,,16,fever,Hypertension,Penicillin,8,Muscle Strain,Visit Doctor,
+,Female,Hispanic,Suburban,Low,blurry vision,,27,,,None,4,Asthma,Visit Doctor,No
+19,Male,Asian,Suburban,High,frequent urination,2,18,muscle aches,Hypertension,Pollen,1,COVID-19,Go to Emergency,Yes
+47,Female,Caucasian,Urban,Low,nausea and vomiting,5,8,fever,Hypertension,,5,Common Cold,Visit Doctor,
+75,,Hispanic,,Low,skin rash,3,7,fever,,Dust,0,COVID-19,,Yes
+62,Other,African American,Suburban,Low,back pain and muscle stiffness,9,12,none,Hypertension,,0,Anxiety,Go to Emergency,Yes
+61,Other,African American,Suburban,Low,,10,6,muscle aches,None,Dust,1,Flu,,Yes
+79,Female,,Urban,Middle,joint pain and swelling,,9,fatigue,,,1,Migraine,Go to Emergency,No
+20,,Other,Rural,High,skin rash,4,9,,Asthma,Penicillin,6,Migraine,Go to Emergency,
+54,Female,Caucasian,Urban,Middle,sore throat and difficulty swallowing,4,14,fatigue,Hypertension,Pollen,9,Arthritis,,No
+51,Other,Asian,Suburban,Middle,fatigue and weakness,,29,none,None,None,1,Flu,,Yes
+,,,Urban,High,,6,22,,Diabetes,Penicillin,9,Hypertension,Go to Emergency,No
+71,Other,African American,Suburban,High,fever and body aches,,22,none,Hypertension,Penicillin,4,,Visit Doctor,Yes
+24,Male,Caucasian,Rural,High,fatigue and weakness,4,18,fever,Hypertension,Peanuts,1,Food Poisoning,Go to Emergency,
+52,Male,Caucasian,Urban,Low,persistent cough and shortness of breath,,23,,Asthma,Pollen,8,Allergic Reaction,Go to Emergency,Yes
+66,Female,Other,Rural,Middle,nausea and vomiting,4,1,fatigue,Diabetes,,,Flu,,Yes
+65,,Hispanic,Rural,High,chest pain,,16,muscle aches,,Dust,,Hypertension,,
+65,Male,Asian,Rural,High,skin rash,10,,fever,Hypertension,Penicillin,9,Migraine,,No
+60,,Hispanic,Rural,,blurry vision,1,,none,Diabetes,,0,,Visit Doctor,No
+,,African American,Urban,Middle,back pain and muscle stiffness,,2,nausea,None,Peanuts,1,Sinus Infection,Go to Emergency,Yes
+68,Male,Other,Suburban,High,chest pain,4,1,,Diabetes,Peanuts,1,Migraine,Take Home Care Measures,Yes
+70,,African American,Rural,,joint pain and swelling,1,22,fever,Diabetes,Penicillin,6,Diabetes,,
+46,Female,,Rural,Low,,6,8,muscle aches,Asthma,None,3,Food Poisoning,,No
+44,Female,Hispanic,Rural,Middle,,,9,nausea,None,None,,Kidney Stones,Visit Doctor,No
+77,Female,,Urban,,nausea and vomiting,1,,fatigue,None,Pollen,,Asthma,Take Home Care Measures,Yes
+45,Male,Other,Urban,Middle,fever and body aches,3,7,nausea,None,Peanuts,,Common Cold,Go to Emergency,Yes
+48,Other,Asian,Urban,Low,chest pain,7,11,muscle aches,Hypertension,Dust,9,Asthma,Visit Doctor,Yes
+69,Male,Hispanic,Suburban,High,fatigue and weakness,2,,none,Diabetes,Penicillin,9,Sinus Infection,Visit Doctor,Yes
+,Female,Caucasian,Suburban,High,nausea and vomiting,8,,none,,Pollen,2,Gastroenteritis,Go to Emergency,Yes
+29,,African American,Urban,,fatigue and weakness,2,,,Hypertension,Pollen,3,Muscle Strain,Go to Emergency,Yes
+,Female,Asian,Suburban,,joint pain and swelling,2,11,none,Diabetes,,10,Muscle Strain,Take Home Care Measures,Yes
+85,Female,Caucasian,,Middle,numbness in legs,4,,none,Hypertension,Peanuts,7,Diabetes,Visit Doctor,No
+32,Male,Other,Urban,High,frequent urination,3,26,none,,Pollen,3,Sinus Infection,Visit Doctor,Yes
+,Female,Hispanic,,High,blurry vision,10,9,fatigue,None,Penicillin,10,Arthritis,Go to Emergency,Yes
+56,,Other,,Low,mild headache,8,,muscle aches,Asthma,Penicillin,10,Muscle Strain,Visit Doctor,
+73,,Caucasian,Urban,Middle,fatigue and weakness,10,,fever,None,None,9,Allergic Reaction,Go to Emergency,Yes
+74,Female,African American,,Middle,nausea and vomiting,,4,muscle aches,Asthma,Penicillin,1,Gastroenteritis,Go to Emergency,Yes
+85,,,Rural,Low,nausea and vomiting,6,12,fever,None,Pollen,3,Common Cold,Visit Doctor,Yes
+87,Male,Asian,Urban,High,nausea and vomiting,8,27,muscle aches,Diabetes,Penicillin,1,Sinus Infection,Take Home Care Measures,No
+,Other,,Urban,High,nausea and vomiting,9,20,fatigue,Asthma,Dust,,COVID-19,,Yes
+22,Female,,,Low,fever and body aches,6,9,none,Asthma,Dust,,,Go to Emergency,No
+26,,,Rural,Middle,sharp stomach pain,10,,fatigue,Hypertension,,,Asthma,Take Home Care Measures,No
+,Other,,Suburban,High,fatigue and weakness,6,5,nausea,Asthma,Peanuts,10,Gastroenteritis,Take Home Care Measures,Yes
+24,Female,Caucasian,,Middle,,10,21,nausea,Diabetes,None,2,Diabetes,Visit Doctor,No
+87,Female,Caucasian,Suburban,Middle,frequent urination,1,18,fever,Hypertension,Peanuts,10,Common Cold,Visit Doctor,No
+28,,African American,Rural,,mild headache,6,,none,None,,5,Muscle Strain,Go to Emergency,Yes
+,Male,Asian,,High,back pain and muscle stiffness,1,29,nausea,None,Dust,7,,Go to Emergency,No
+32,,Hispanic,Urban,High,fatigue and weakness,4,20,muscle aches,Diabetes,None,8,Hypertension,Visit Doctor,Yes
+61,Other,Caucasian,Rural,High,chest pain,1,28,none,Asthma,Penicillin,8,,Take Home Care Measures,
+72,Female,Asian,Rural,Middle,numbness in legs,7,11,,Diabetes,,2,Food Poisoning,Visit Doctor,
+78,Male,Caucasian,Suburban,Low,fatigue and weakness,6,8,muscle aches,Diabetes,Peanuts,2,Anxiety,Take Home Care Measures,No
+73,Female,Caucasian,Urban,,sharp stomach pain,4,30,fever,Asthma,,7,Diabetes,,No
+78,Male,,Suburban,Middle,,8,6,none,Hypertension,None,,Gastroenteritis,Visit Doctor,
+54,Female,Hispanic,Urban,High,frequent urination,,29,,,Pollen,1,Hypertension,Visit Doctor,No
+72,Male,Other,Urban,Middle,sore throat and difficulty swallowing,,8,fever,,,9,Arthritis,Take Home Care Measures,Yes
+,Other,Other,,High,blurry vision,3,19,fever,,,3,Food Poisoning,Go to Emergency,Yes
+54,Other,Asian,,Low,sharp stomach pain,6,27,fatigue,None,Penicillin,9,Allergic Reaction,Visit Doctor,
+55,Other,Asian,Rural,Low,sore throat and difficulty swallowing,8,16,fatigue,Asthma,,6,Allergic Reaction,Take Home Care Measures,Yes
+,Male,Asian,Urban,Middle,nausea and vomiting,8,,none,None,Peanuts,3,,Visit Doctor,Yes
+59,,Asian,Suburban,Low,nausea and vomiting,1,,none,Hypertension,Penicillin,,Common Cold,Visit Doctor,Yes
+64,Other,African American,,High,skin rash,7,22,,Diabetes,Penicillin,0,Common Cold,Visit Doctor,No
+76,Other,Other,Urban,High,fever and body aches,3,10,muscle aches,Asthma,,7,Sinus Infection,,Yes
+65,,Caucasian,Suburban,High,frequent urination,,,muscle aches,None,Penicillin,1,Arthritis,Take Home Care Measures,No
+,Male,Asian,Rural,High,chest pain,1,27,none,Diabetes,Penicillin,2,,Take Home Care Measures,Yes
+75,Female,Asian,Rural,Low,persistent cough and shortness of breath,,,fever,Asthma,Dust,10,,Go to Emergency,Yes
+19,Female,,Urban,Middle,back pain and muscle stiffness,8,27,nausea,Hypertension,,5,Kidney Stones,Visit Doctor,
+25,Female,Asian,Rural,High,sore throat and difficulty swallowing,1,17,nausea,Hypertension,Penicillin,,Kidney Stones,Visit Doctor,
+80,,Asian,Urban,Low,numbness in legs,1,28,muscle aches,Diabetes,Peanuts,8,,Visit Doctor,Yes
+81,Female,Caucasian,Suburban,,persistent cough and shortness of breath,1,14,fever,Diabetes,Dust,,Allergic Reaction,Go to Emergency,
+24,Male,Asian,Urban,,fever and body aches,,16,,Hypertension,Peanuts,4,Kidney Stones,Take Home Care Measures,Yes
+63,,African American,Urban,Low,,7,26,none,Hypertension,Peanuts,9,Anxiety,Visit Doctor,No
+31,Other,African American,Rural,High,,3,7,fever,,Dust,,Arthritis,Visit Doctor,No
+65,Other,Asian,Rural,Low,sharp stomach pain,9,21,muscle aches,Asthma,Penicillin,3,Kidney Stones,,No
+81,Female,Other,Suburban,High,nausea and vomiting,1,,muscle aches,None,Peanuts,8,Gastroenteritis,Go to Emergency,Yes
+33,Male,African American,Suburban,High,,,30,none,Asthma,,6,Food Poisoning,Go to Emergency,No
+64,Other,Hispanic,Rural,High,fatigue and weakness,7,27,muscle aches,Hypertension,Dust,6,Migraine,,No
+18,Male,African American,Rural,Middle,sore throat and difficulty swallowing,8,23,fatigue,Asthma,Penicillin,8,,Take Home Care Measures,No
+88,Male,Hispanic,,High,,4,10,,None,None,,COVID-19,Take Home Care Measures,No
+46,Female,Asian,Rural,,sore throat and difficulty swallowing,1,4,fever,Hypertension,None,,Food Poisoning,Go to Emergency,Yes
+86,Other,,Suburban,,nausea and vomiting,4,5,fever,None,,,COVID-19,,
+83,Female,African American,Suburban,High,mild headache,7,19,nausea,Hypertension,Pollen,4,Migraine,Go to Emergency,Yes
+82,Female,African American,Rural,High,back pain and muscle stiffness,10,,fatigue,Hypertension,Penicillin,4,Migraine,Visit Doctor,Yes
+49,Female,Asian,Urban,Low,chest pain,6,2,fatigue,Diabetes,Penicillin,4,Kidney Stones,Go to Emergency,
+19,Other,Other,Rural,High,nausea and vomiting,9,29,,Hypertension,Peanuts,2,Asthma,Take Home Care Measures,Yes
+82,Male,Asian,Suburban,Middle,skin rash,1,10,fatigue,None,Dust,1,COVID-19,Go to Emergency,No
+84,,African American,Suburban,Middle,blurry vision,3,28,nausea,None,None,,COVID-19,Visit Doctor,
+86,Female,Caucasian,,Low,frequent urination,5,3,muscle aches,Hypertension,Dust,4,Kidney Stones,Visit Doctor,Yes
+43,Male,Hispanic,Urban,Middle,fatigue and weakness,8,9,nausea,Hypertension,Peanuts,8,Arthritis,Take Home Care Measures,Yes
+78,Female,Hispanic,Rural,Middle,back pain and muscle stiffness,,18,muscle aches,Hypertension,Pollen,6,Anxiety,Visit Doctor,No
+70,Other,African American,Rural,High,frequent urination,10,22,none,Diabetes,Peanuts,0,Muscle Strain,Take Home Care Measures,Yes
+86,Male,Asian,Suburban,Low,nausea and vomiting,4,9,none,Hypertension,None,2,Anxiety,Take Home Care Measures,
+40,Female,,Suburban,High,chest pain,7,6,muscle aches,None,Peanuts,3,Asthma,Visit Doctor,No
+41,Male,African American,Rural,Middle,,3,8,,None,Pollen,4,Anxiety,Go to Emergency,Yes
+67,Male,African American,Rural,High,,6,21,fever,Asthma,Pollen,10,,Visit Doctor,Yes
+18,Other,Other,Suburban,Middle,blurry vision,7,16,none,None,,8,Diabetes,Visit Doctor,Yes
+,Female,Other,Urban,Low,fever and body aches,4,29,nausea,None,Dust,9,Sinus Infection,,
+,Other,Other,Suburban,Middle,,5,20,nausea,Asthma,,6,Sinus Infection,,Yes
+53,Other,,Urban,High,,2,5,fever,None,Penicillin,10,Diabetes,Go to Emergency,
+38,Male,Caucasian,Suburban,Middle,fatigue and weakness,2,4,fever,None,Peanuts,5,Kidney Stones,Take Home Care Measures,
+22,Male,Other,Suburban,Low,persistent cough and shortness of breath,5,2,fever,Diabetes,Peanuts,7,,Take Home Care Measures,Yes
+60,,Caucasian,Suburban,High,fatigue and weakness,,12,,Asthma,,7,Sinus Infection,,Yes
+62,Female,Caucasian,Suburban,Low,mild headache,7,30,none,Diabetes,,10,Gastroenteritis,Take Home Care Measures,
+,,Asian,Urban,Middle,mild headache,1,13,,Asthma,Pollen,8,Asthma,Take Home Care Measures,Yes
+25,Other,Hispanic,Suburban,Middle,,10,28,fever,,Dust,8,Anxiety,Take Home Care Measures,No
+56,Other,Asian,Suburban,Low,numbness in legs,4,21,fever,Hypertension,Pollen,4,,Take Home Care Measures,No
+80,,African American,Urban,Low,,1,16,,Diabetes,Peanuts,,Asthma,Visit Doctor,No
+63,Other,,Rural,Middle,skin rash,1,13,nausea,None,,10,Muscle Strain,,Yes
+77,Other,Caucasian,Urban,Low,frequent urination,8,1,nausea,Hypertension,None,6,Gastroenteritis,,No
+50,Male,Asian,Rural,,frequent urination,4,1,muscle aches,Diabetes,,9,,Take Home Care Measures,Yes
+72,Male,Other,Rural,Low,frequent urination,9,25,nausea,Hypertension,Dust,1,Food Poisoning,,
+77,Male,Caucasian,Suburban,Middle,numbness in legs,2,9,fatigue,Asthma,None,3,Migraine,Go to Emergency,No
+31,Male,Asian,Suburban,Middle,sharp stomach pain,6,30,none,None,Penicillin,4,Asthma,Go to Emergency,Yes
+,Other,Caucasian,Urban,Middle,fever and body aches,3,21,muscle aches,None,Dust,5,Muscle Strain,Go to Emergency,Yes
+64,Female,Other,,Middle,numbness in legs,4,18,muscle aches,,Penicillin,8,Allergic Reaction,,Yes
+42,Female,Caucasian,Urban,,joint pain and swelling,2,9,none,,Peanuts,4,Migraine,Take Home Care Measures,Yes
+85,Male,Caucasian,Urban,Low,nausea and vomiting,2,25,,Hypertension,Peanuts,10,Muscle Strain,,No
+61,Other,Other,Suburban,Middle,fatigue and weakness,,30,muscle aches,Asthma,Pollen,3,COVID-19,Visit Doctor,
+39,Male,African American,Urban,Low,sharp stomach pain,3,19,muscle aches,Diabetes,None,,,Visit Doctor,No
+44,Male,Other,Rural,,sharp stomach pain,1,9,muscle aches,Diabetes,Dust,,Allergic Reaction,Go to Emergency,Yes
+,Male,Asian,Rural,High,,9,28,muscle aches,Hypertension,Dust,9,Diabetes,Go to Emergency,No
+42,Female,Hispanic,Rural,Middle,mild headache,4,22,,Hypertension,Dust,2,,Take Home Care Measures,Yes
+26,Female,,Suburban,Middle,blurry vision,7,,none,None,Pollen,8,Arthritis,Take Home Care Measures,Yes
+73,,Asian,Urban,Low,mild headache,9,4,muscle aches,Asthma,,,,Go to Emergency,Yes
+54,Female,Hispanic,Suburban,Middle,fever and body aches,2,,fatigue,Asthma,,1,COVID-19,,
+31,,Hispanic,Rural,High,,,12,nausea,None,None,3,Common Cold,Take Home Care Measures,Yes
+79,,,Urban,Low,blurry vision,7,12,nausea,,Dust,1,,Take Home Care Measures,Yes
+18,Male,Asian,Rural,Low,severe dizziness,10,23,muscle aches,None,Penicillin,3,Migraine,Take Home Care Measures,Yes
+65,Male,Caucasian,Rural,Low,fever and body aches,5,7,,Asthma,None,6,Kidney Stones,Go to Emergency,Yes
+85,,Asian,Rural,Middle,frequent urination,3,16,fever,,None,10,Diabetes,Visit Doctor,No
+29,Other,Caucasian,Urban,,,4,29,muscle aches,Diabetes,Dust,,Arthritis,Visit Doctor,No
+41,,Hispanic,Urban,Middle,chest pain,3,22,none,None,Penicillin,,Gastroenteritis,Go to Emergency,Yes
+85,Female,Hispanic,Rural,,,8,15,nausea,,Dust,,COVID-19,Take Home Care Measures,
+,Male,Asian,Urban,Low,persistent cough and shortness of breath,10,3,none,None,Pollen,2,Flu,Take Home Care Measures,Yes
+18,Female,Other,,High,mild headache,4,30,nausea,,Penicillin,9,,Visit Doctor,No
+61,Other,Asian,Rural,,fatigue and weakness,,30,fever,None,,3,Gastroenteritis,,No
+71,Male,,Urban,Middle,frequent urination,,24,nausea,Diabetes,Penicillin,3,COVID-19,Visit Doctor,
+66,Other,Other,Urban,,persistent cough and shortness of breath,2,1,fever,Diabetes,,9,Common Cold,Visit Doctor,No
+46,Other,Asian,Rural,Middle,back pain and muscle stiffness,7,6,muscle aches,Diabetes,Penicillin,9,Muscle Strain,Visit Doctor,No
+71,Male,Hispanic,Rural,Low,,7,3,muscle aches,,,0,Flu,,No
+,Other,African American,Urban,Low,sharp stomach pain,8,,,Asthma,None,9,Anxiety,Take Home Care Measures,No
+63,,Other,,Middle,numbness in legs,3,5,none,None,None,10,Sinus Infection,Visit Doctor,No
+47,Other,Hispanic,Urban,High,fever and body aches,7,20,nausea,Diabetes,Peanuts,8,Arthritis,,Yes
+83,Male,Hispanic,Rural,Middle,joint pain and swelling,6,5,fatigue,Hypertension,None,7,COVID-19,Take Home Care Measures,Yes
+23,,Asian,Rural,Low,chest pain,10,,none,Hypertension,Dust,7,Anxiety,Visit Doctor,Yes
+22,Male,Asian,Urban,Low,joint pain and swelling,8,23,fatigue,Diabetes,None,0,Hypertension,Take Home Care Measures,Yes
+83,Male,African American,Suburban,High,chest pain,10,,,Asthma,,5,Muscle Strain,Go to Emergency,No
+27,Female,Hispanic,,Middle,sore throat and difficulty swallowing,1,17,none,Hypertension,None,3,Anxiety,Go to Emergency,
+31,,African American,Rural,Low,back pain and muscle stiffness,7,18,muscle aches,Asthma,Pollen,2,Arthritis,Take Home Care Measures,Yes
+29,,Other,Suburban,High,severe dizziness,8,20,fever,Diabetes,Pollen,6,Allergic Reaction,Take Home Care Measures,Yes
+87,Other,Caucasian,Urban,High,fever and body aches,5,14,fatigue,Asthma,Penicillin,,Kidney Stones,,Yes
+71,Other,African American,Suburban,High,blurry vision,,3,fatigue,Diabetes,,4,Sinus Infection,Visit Doctor,No
+72,Male,Other,,Middle,,,27,fever,Diabetes,Pollen,9,Common Cold,Visit Doctor,No
+54,Other,Other,Suburban,Middle,,7,5,,Asthma,Penicillin,9,Kidney Stones,Visit Doctor,No
+75,Male,Hispanic,Rural,Low,blurry vision,,13,,Asthma,None,,Arthritis,Visit Doctor,No
+68,Male,African American,Urban,High,severe dizziness,,16,muscle aches,None,,1,Food Poisoning,Take Home Care Measures,No
+26,Female,Other,Suburban,Middle,skin rash,7,16,fever,Asthma,Pollen,5,Hypertension,Go to Emergency,Yes
+51,Male,Caucasian,Urban,Middle,persistent cough and shortness of breath,3,6,fever,Diabetes,Penicillin,3,Flu,Take Home Care Measures,No
+,Female,Caucasian,Rural,Middle,mild headache,3,28,none,Diabetes,Penicillin,2,Kidney Stones,Visit Doctor,Yes
+55,Female,Hispanic,,High,severe dizziness,,21,nausea,,Penicillin,5,Hypertension,Take Home Care Measures,Yes
+,,Caucasian,Rural,,chest pain,9,,,Asthma,None,6,COVID-19,,Yes
+61,Male,Caucasian,Suburban,Low,frequent urination,2,5,none,Asthma,Pollen,4,,Take Home Care Measures,No
+72,Female,Asian,Rural,,numbness in legs,7,,nausea,None,Peanuts,10,,Take Home Care Measures,No
+58,Female,Other,Suburban,Low,sore throat and difficulty swallowing,2,15,,Asthma,Peanuts,6,Migraine,Take Home Care Measures,
+87,Female,African American,,,mild headache,5,28,muscle aches,None,Peanuts,7,Arthritis,Go to Emergency,No
+42,Male,Other,Suburban,High,nausea and vomiting,3,,muscle aches,Diabetes,Penicillin,9,Sinus Infection,Take Home Care Measures,No
+31,Female,Caucasian,Rural,High,blurry vision,2,28,fatigue,Asthma,None,0,Gastroenteritis,Visit Doctor,
+24,Other,Caucasian,Urban,Low,back pain and muscle stiffness,8,,none,Hypertension,Peanuts,7,,Take Home Care Measures,No
+,Other,African American,Suburban,Low,fatigue and weakness,1,,fever,,Pollen,10,Asthma,Visit Doctor,No
+57,Male,Asian,,,fatigue and weakness,6,14,none,Hypertension,,8,Sinus Infection,Take Home Care Measures,No
+73,Other,Hispanic,Rural,Middle,,4,12,none,None,Penicillin,6,Kidney Stones,Take Home Care Measures,No
+58,Male,Caucasian,Suburban,Low,,5,29,fatigue,Diabetes,Peanuts,8,Kidney Stones,Visit Doctor,No
+58,Other,Caucasian,Rural,Low,severe dizziness,4,2,none,Hypertension,Penicillin,6,Migraine,Visit Doctor,No
+44,Other,African American,Rural,Middle,,2,28,,None,,,Allergic Reaction,,Yes
+57,Other,Other,Rural,,blurry vision,7,10,,,Peanuts,5,Gastroenteritis,,Yes
+29,Other,,Rural,,joint pain and swelling,5,23,fatigue,Asthma,Penicillin,2,Anxiety,,No
+59,Other,Other,Rural,Low,persistent cough and shortness of breath,4,5,muscle aches,Hypertension,None,6,Arthritis,Take Home Care Measures,No
+88,Other,Hispanic,Urban,High,chest pain,4,7,none,,Peanuts,2,Flu,Go to Emergency,Yes
+33,Male,,Suburban,,sore throat and difficulty swallowing,10,4,muscle aches,None,,7,,Take Home Care Measures,Yes
+23,Male,,Urban,High,sore throat and difficulty swallowing,4,17,fatigue,Diabetes,Penicillin,8,Allergic Reaction,Take Home Care Measures,Yes
+24,Male,Hispanic,,Low,nausea and vomiting,,,fever,Hypertension,None,8,Arthritis,Take Home Care Measures,Yes
+76,Male,Caucasian,Suburban,High,fever and body aches,1,30,fatigue,None,Dust,0,Migraine,Go to Emergency,Yes
+80,Male,Hispanic,Suburban,Middle,sharp stomach pain,2,23,,Diabetes,,10,,Visit Doctor,Yes
+43,Other,Other,,Low,joint pain and swelling,3,2,nausea,Hypertension,Pollen,7,Kidney Stones,Go to Emergency,No
+50,,African American,Suburban,Middle,skin rash,4,1,none,Asthma,Dust,5,Food Poisoning,,Yes
+31,Male,Caucasian,Suburban,High,severe dizziness,3,28,none,Diabetes,Peanuts,,,,No
+54,Other,Caucasian,,Low,skin rash,4,13,fever,,Dust,8,,Take Home Care Measures,Yes
+47,,African American,Rural,Low,,,22,nausea,Diabetes,Dust,9,Diabetes,Take Home Care Measures,
+46,Other,Asian,Urban,High,nausea and vomiting,10,1,fatigue,Diabetes,Peanuts,5,Muscle Strain,Go to Emergency,
+89,Female,,Suburban,Middle,sharp stomach pain,6,,nausea,Diabetes,,7,Diabetes,Take Home Care Measures,No
+38,Male,Asian,Suburban,High,fatigue and weakness,5,27,none,Asthma,,,,Visit Doctor,Yes
+,Female,African American,,High,mild headache,7,24,fatigue,Diabetes,None,2,Sinus Infection,,Yes
+23,Male,Hispanic,Urban,Middle,frequent urination,5,11,fever,Diabetes,,7,Diabetes,Take Home Care Measures,Yes
+79,Other,Caucasian,Urban,High,frequent urination,,30,fever,Hypertension,Dust,7,Asthma,Go to Emergency,Yes
+40,Female,Hispanic,Rural,Low,persistent cough and shortness of breath,2,19,nausea,Hypertension,Dust,5,Kidney Stones,,Yes
+89,Other,African American,Rural,,chest pain,,11,fever,Hypertension,Dust,7,Gastroenteritis,Go to Emergency,
+78,Male,Other,Rural,Middle,fever and body aches,,27,fever,Diabetes,Dust,9,Common Cold,Go to Emergency,Yes
+67,Other,Caucasian,Urban,Low,,,,fatigue,None,Dust,,Arthritis,Take Home Care Measures,Yes
+85,Male,Caucasian,Rural,Middle,chest pain,10,24,,None,,7,Arthritis,Visit Doctor,Yes
+90,Male,Other,Rural,High,numbness in legs,,25,fever,Diabetes,,,COVID-19,Go to Emergency,
+,,Caucasian,Urban,High,,9,13,,Diabetes,None,4,Muscle Strain,Take Home Care Measures,Yes
+,,Asian,Rural,Low,mild headache,7,13,none,Asthma,,7,Anxiety,Visit Doctor,
+37,Female,Other,Urban,High,sore throat and difficulty swallowing,2,23,,Diabetes,,8,Hypertension,,
+30,Other,Caucasian,,Low,frequent urination,7,23,fatigue,Asthma,Penicillin,1,Muscle Strain,Go to Emergency,No
+67,Other,Other,,Low,joint pain and swelling,2,30,fatigue,Diabetes,Dust,2,Allergic Reaction,Take Home Care Measures,No
+55,Male,,Rural,High,fatigue and weakness,5,25,none,None,,,Food Poisoning,Go to Emergency,
+,,African American,Urban,High,skin rash,2,14,fever,Diabetes,,,Muscle Strain,Go to Emergency,No
+,,Other,Suburban,Low,fatigue and weakness,10,30,muscle aches,None,None,,Muscle Strain,Go to Emergency,Yes
+59,Other,African American,Rural,Low,joint pain and swelling,10,1,muscle aches,,Penicillin,5,Arthritis,Take Home Care Measures,Yes
+33,Male,African American,Rural,Middle,,8,,fever,Hypertension,Dust,1,Migraine,,Yes
+46,Male,,Rural,Middle,nausea and vomiting,8,9,none,None,,7,,,No
+67,Other,African American,Rural,,back pain and muscle stiffness,2,12,none,None,Dust,,,Take Home Care Measures,Yes
+24,Other,African American,Urban,Low,blurry vision,10,16,fatigue,Hypertension,Pollen,0,Sinus Infection,Go to Emergency,Yes
+63,Other,Other,,Middle,numbness in legs,7,17,muscle aches,Hypertension,Peanuts,0,Kidney Stones,Visit Doctor,Yes
+78,Male,Other,Suburban,Low,chest pain,3,18,nausea,Diabetes,Dust,7,,Take Home Care Measures,Yes
+30,Female,,,High,sharp stomach pain,7,3,,Diabetes,,7,,Visit Doctor,No
+46,Male,Hispanic,Urban,High,numbness in legs,10,,nausea,Diabetes,Dust,,COVID-19,Visit Doctor,No
+47,Other,Hispanic,Rural,Low,,6,6,nausea,Diabetes,Peanuts,2,Flu,Take Home Care Measures,No
+72,Male,,Urban,Middle,frequent urination,8,16,,Diabetes,None,0,Sinus Infection,Go to Emergency,Yes
+39,Other,Other,Rural,High,persistent cough and shortness of breath,10,20,fever,None,Peanuts,9,Kidney Stones,Visit Doctor,No
+,Female,Caucasian,Urban,Low,sore throat and difficulty swallowing,2,21,fatigue,Diabetes,Peanuts,,Diabetes,,Yes
+72,Other,Hispanic,Suburban,High,,1,12,nausea,Diabetes,,10,Hypertension,Visit Doctor,Yes
+,,Other,Rural,Low,skin rash,8,10,nausea,Asthma,Peanuts,4,,Visit Doctor,Yes
+90,Male,Caucasian,Urban,Low,nausea and vomiting,9,22,fatigue,Diabetes,None,8,Muscle Strain,Go to Emergency,Yes
+61,Female,Asian,Rural,Low,,2,,nausea,None,None,0,Allergic Reaction,Take Home Care Measures,Yes
+73,Other,Hispanic,Rural,Middle,chest pain,5,2,nausea,Asthma,Peanuts,8,COVID-19,Go to Emergency,No
+59,,Asian,,High,back pain and muscle stiffness,,14,fever,Hypertension,Peanuts,9,Food Poisoning,Take Home Care Measures,Yes
+68,Female,,Suburban,Low,chest pain,9,1,muscle aches,Asthma,None,10,Flu,Go to Emergency,No
+25,Female,African American,Suburban,Middle,nausea and vomiting,8,6,muscle aches,,,3,Flu,Go to Emergency,Yes
+45,Other,Asian,Urban,,severe dizziness,6,16,fatigue,Hypertension,None,9,Allergic Reaction,Visit Doctor,No
+39,Male,Asian,Rural,Middle,skin rash,2,22,,Asthma,None,2,Flu,Visit Doctor,No
+60,Other,Caucasian,Suburban,,joint pain and swelling,3,19,,Hypertension,Penicillin,,Sinus Infection,Go to Emergency,Yes
+,Other,African American,Rural,Low,frequent urination,3,20,muscle aches,Hypertension,,6,Anxiety,,Yes
+87,Female,African American,Suburban,High,mild headache,9,1,fatigue,,Pollen,3,Allergic Reaction,Take Home Care Measures,No
+45,Male,Hispanic,Urban,,severe dizziness,5,21,nausea,Diabetes,Pollen,5,Asthma,Take Home Care Measures,No
+60,Male,Hispanic,Rural,Low,skin rash,2,28,nausea,Asthma,Peanuts,,Arthritis,,No
+68,,African American,,Low,fatigue and weakness,,21,none,Hypertension,None,2,Anxiety,,No
+84,Other,Caucasian,,Low,mild headache,9,22,,None,None,1,Food Poisoning,Take Home Care Measures,Yes
+39,Male,Caucasian,Suburban,Middle,joint pain and swelling,4,1,muscle aches,None,None,1,Allergic Reaction,Go to Emergency,No
+88,,Other,Urban,Low,blurry vision,7,1,nausea,,Pollen,3,Hypertension,Go to Emergency,Yes
+54,Male,Caucasian,Urban,Low,nausea and vomiting,4,4,fatigue,Asthma,None,3,Hypertension,Take Home Care Measures,
+88,Female,African American,Rural,High,mild headache,,27,fever,Asthma,Penicillin,7,Migraine,Take Home Care Measures,Yes
+54,Male,Other,,Low,severe dizziness,9,30,none,Hypertension,Pollen,2,Hypertension,Visit Doctor,No
+36,Male,Caucasian,Urban,Middle,nausea and vomiting,5,24,fever,Diabetes,Dust,2,Flu,,Yes
+79,Male,Other,Rural,Low,fatigue and weakness,7,3,nausea,Hypertension,Peanuts,6,Allergic Reaction,,No
+62,,African American,Urban,Low,nausea and vomiting,9,15,nausea,Diabetes,None,5,COVID-19,Take Home Care Measures,No
+71,,Hispanic,Rural,Low,sore throat and difficulty swallowing,10,24,muscle aches,Asthma,Pollen,4,Food Poisoning,Go to Emergency,Yes
+67,Female,,Urban,Middle,,,,,None,Peanuts,3,Migraine,Visit Doctor,No
+19,Male,African American,Suburban,Middle,persistent cough and shortness of breath,6,4,nausea,None,Pollen,,,Go to Emergency,Yes
+32,Other,,Suburban,Middle,fever and body aches,2,22,fever,None,Penicillin,6,Allergic Reaction,Visit Doctor,
+31,Male,,Rural,Middle,sharp stomach pain,2,30,fatigue,Diabetes,Dust,8,COVID-19,Go to Emergency,No
+61,Female,Hispanic,Suburban,High,joint pain and swelling,6,2,fever,Asthma,Penicillin,,Arthritis,Take Home Care Measures,No
+37,Male,Asian,Urban,High,fever and body aches,4,27,fever,Diabetes,None,10,Migraine,Take Home Care Measures,
+,,Other,Urban,High,,6,4,,Hypertension,Penicillin,4,Anxiety,Take Home Care Measures,No
+34,Male,,Suburban,Middle,fever and body aches,1,,nausea,None,Peanuts,8,Common Cold,Visit Doctor,
+89,Other,Hispanic,Urban,,numbness in legs,5,3,fever,Asthma,Pollen,3,Diabetes,Take Home Care Measures,
+84,Male,Other,,Middle,mild headache,4,18,fatigue,,Dust,9,Flu,Go to Emergency,
+57,Other,Asian,Rural,High,frequent urination,9,19,fatigue,,Pollen,1,Flu,Take Home Care Measures,No
+60,Female,Other,Suburban,Middle,sharp stomach pain,5,9,none,,None,0,Migraine,Take Home Care Measures,No
+,Other,Hispanic,Rural,High,nausea and vomiting,1,27,nausea,Hypertension,Dust,3,Gastroenteritis,Visit Doctor,No
+86,Other,Hispanic,Urban,Low,joint pain and swelling,8,7,,Diabetes,Penicillin,5,Sinus Infection,Go to Emergency,No
+88,Female,Caucasian,Suburban,Middle,,2,,muscle aches,Hypertension,Peanuts,9,Hypertension,Visit Doctor,Yes
+18,,Hispanic,Rural,,blurry vision,5,25,fatigue,None,Penicillin,7,Allergic Reaction,,No
+24,Female,Other,Suburban,Low,,1,2,none,Diabetes,Dust,2,Gastroenteritis,Take Home Care Measures,Yes
+82,Female,Hispanic,Suburban,High,chest pain,9,2,fever,,Penicillin,9,Hypertension,Visit Doctor,Yes
+46,Female,Asian,Suburban,High,sore throat and difficulty swallowing,,1,fever,,None,0,Anxiety,Go to Emergency,No
+67,Other,,Suburban,Middle,,8,28,fatigue,Asthma,Dust,5,Diabetes,Go to Emergency,No
+26,Male,African American,Rural,Middle,persistent cough and shortness of breath,5,27,fever,Asthma,Peanuts,8,Kidney Stones,Take Home Care Measures,
+62,Male,Asian,Rural,Middle,mild headache,7,29,muscle aches,Diabetes,None,9,,Visit Doctor,No
+75,Male,Asian,Urban,High,,1,7,muscle aches,None,Pollen,10,Flu,Visit Doctor,No
+22,Male,African American,Suburban,High,back pain and muscle stiffness,5,23,nausea,Asthma,None,9,Diabetes,Go to Emergency,
+18,Male,,Urban,High,fever and body aches,2,13,none,None,Dust,4,COVID-19,,No
+,Other,Other,Urban,,severe dizziness,4,8,fatigue,Asthma,Penicillin,0,Diabetes,,Yes
+69,Other,Hispanic,Suburban,,numbness in legs,4,,fatigue,None,,2,Sinus Infection,Go to Emergency,Yes
+51,Male,,,Low,skin rash,,2,nausea,Asthma,Penicillin,10,Asthma,Go to Emergency,
+67,Female,Asian,Urban,Middle,fever and body aches,7,12,none,Diabetes,Penicillin,9,Migraine,Visit Doctor,
+,Female,African American,Urban,Middle,skin rash,10,,muscle aches,None,Penicillin,7,Hypertension,Take Home Care Measures,
+55,Male,Asian,Urban,,fatigue and weakness,7,13,none,Diabetes,None,9,Hypertension,Visit Doctor,
+37,Female,Caucasian,Suburban,Middle,persistent cough and shortness of breath,4,13,muscle aches,Asthma,Peanuts,,COVID-19,Take Home Care Measures,No
+,Male,Caucasian,Suburban,High,numbness in legs,8,,none,None,Dust,0,,Visit Doctor,No
+33,Female,African American,Rural,High,mild headache,6,13,fever,Diabetes,None,4,Hypertension,Go to Emergency,No
+81,Female,African American,,Low,numbness in legs,4,16,fever,Hypertension,Pollen,4,Kidney Stones,Go to Emergency,No
+29,Other,African American,,High,severe dizziness,8,23,nausea,Hypertension,Penicillin,8,COVID-19,Go to Emergency,Yes
+51,,Other,Suburban,High,,8,13,nausea,Asthma,,7,Flu,,Yes
+36,Male,Caucasian,Suburban,High,frequent urination,5,23,fever,None,Peanuts,1,Diabetes,Take Home Care Measures,No
+,Female,Caucasian,Suburban,Low,,2,24,none,Asthma,Penicillin,0,Flu,Go to Emergency,Yes
+74,,Hispanic,Rural,Low,nausea and vomiting,5,24,nausea,Diabetes,Pollen,8,Food Poisoning,,No
+62,Male,African American,,Middle,fever and body aches,4,2,muscle aches,,Dust,10,,Visit Doctor,No
+86,Female,African American,Urban,,blurry vision,9,26,muscle aches,Diabetes,Dust,4,,Take Home Care Measures,No
+21,Other,African American,Suburban,Low,,10,,nausea,,Dust,2,Flu,Visit Doctor,No
+62,Female,African American,Suburban,High,back pain and muscle stiffness,4,7,nausea,Hypertension,Dust,5,Diabetes,,No
+,,Asian,Rural,Middle,sore throat and difficulty swallowing,,3,,,,3,Hypertension,,Yes
+41,Other,Caucasian,Suburban,Middle,skin rash,,,fever,Hypertension,Penicillin,5,Arthritis,Go to Emergency,
+77,Male,African American,Urban,Middle,persistent cough and shortness of breath,1,25,nausea,Asthma,Peanuts,1,Arthritis,Go to Emergency,No
+81,Female,Caucasian,Urban,Low,blurry vision,8,17,muscle aches,None,Peanuts,3,Kidney Stones,Visit Doctor,No
+23,Male,Asian,Urban,Middle,persistent cough and shortness of breath,1,27,nausea,Hypertension,Peanuts,5,Sinus Infection,Visit Doctor,Yes
+85,,,Suburban,High,,4,12,fatigue,Diabetes,Dust,4,Gastroenteritis,Take Home Care Measures,Yes
+79,Male,Caucasian,Suburban,High,,8,,muscle aches,Asthma,None,,,,Yes
+90,Female,African American,Suburban,High,numbness in legs,7,26,nausea,Asthma,None,4,,,Yes
+,Male,African American,Urban,Middle,frequent urination,9,14,muscle aches,Hypertension,None,10,Common Cold,Go to Emergency,Yes
+,Female,Caucasian,Rural,Low,sore throat and difficulty swallowing,,11,fever,,Penicillin,2,Diabetes,Go to Emergency,Yes
+31,Male,Asian,,Low,mild headache,3,27,nausea,Asthma,Peanuts,3,Hypertension,Visit Doctor,No
+38,Female,Caucasian,Rural,Low,,4,8,fever,Diabetes,,,Food Poisoning,Visit Doctor,No
+61,,,Urban,Middle,fever and body aches,8,7,nausea,Hypertension,Penicillin,,Common Cold,Take Home Care Measures,Yes
+24,Female,,Rural,Low,fever and body aches,7,,,Diabetes,Peanuts,3,Flu,Take Home Care Measures,No
+39,Other,,Suburban,High,frequent urination,4,17,nausea,Diabetes,Peanuts,3,,,No
+53,Other,Other,Rural,High,chest pain,,30,none,Diabetes,Peanuts,7,COVID-19,,No
+36,Female,,Rural,Low,persistent cough and shortness of breath,5,19,none,Diabetes,None,1,Kidney Stones,Go to Emergency,No
+,Male,Caucasian,Rural,Middle,,4,27,muscle aches,Diabetes,,8,Diabetes,Go to Emergency,Yes
+81,Female,Asian,Rural,High,severe dizziness,10,15,nausea,Asthma,,3,Anxiety,Go to Emergency,No
+25,Female,African American,Urban,,chest pain,4,,none,Diabetes,None,5,Hypertension,Visit Doctor,No
+82,Male,Hispanic,Suburban,,fever and body aches,4,,none,,Dust,2,COVID-19,Go to Emergency,No
+39,,Asian,,High,,7,12,none,Asthma,Penicillin,7,Common Cold,,No
+76,,,Urban,,numbness in legs,,14,fever,None,Dust,3,Allergic Reaction,Take Home Care Measures,Yes
+72,Male,,Suburban,,sharp stomach pain,10,,fatigue,Hypertension,Pollen,7,COVID-19,,
+30,Female,Asian,Suburban,Low,skin rash,,8,nausea,Hypertension,Dust,10,Gastroenteritis,Go to Emergency,No
+45,Other,Hispanic,Suburban,Middle,fever and body aches,,,nausea,None,Penicillin,10,Anxiety,Take Home Care Measures,Yes
+44,Other,African American,Rural,Low,frequent urination,7,6,muscle aches,None,Peanuts,1,Gastroenteritis,Visit Doctor,Yes
+78,Other,Asian,Urban,Low,chest pain,8,11,muscle aches,Diabetes,None,1,Diabetes,,No
+79,Female,Other,Suburban,High,numbness in legs,5,22,none,None,None,9,Asthma,Go to Emergency,
+76,Female,Other,Urban,Low,severe dizziness,6,13,,,Dust,7,,Take Home Care Measures,Yes
+48,Other,,Suburban,High,persistent cough and shortness of breath,7,,,Asthma,None,4,Common Cold,Visit Doctor,No
+68,Other,Caucasian,Urban,Middle,fever and body aches,6,25,muscle aches,Asthma,,4,Diabetes,Take Home Care Measures,No
+20,Male,Hispanic,Urban,Middle,back pain and muscle stiffness,7,4,fever,,Peanuts,4,Asthma,Take Home Care Measures,Yes
+29,Male,Hispanic,,Low,joint pain and swelling,9,20,nausea,Asthma,Pollen,3,Flu,Visit Doctor,
+59,Female,African American,Rural,High,numbness in legs,5,7,none,Hypertension,Pollen,7,Migraine,Go to Emergency,No
+45,Male,,Urban,Middle,fever and body aches,2,15,nausea,None,,,,Visit Doctor,No
+45,Female,Caucasian,Suburban,High,back pain and muscle stiffness,3,15,fever,Asthma,None,7,Flu,Go to Emergency,Yes
+27,Female,Caucasian,Urban,Middle,sharp stomach pain,,1,fever,Hypertension,,0,Hypertension,Visit Doctor,No
+60,Male,African American,Rural,,sore throat and difficulty swallowing,1,5,muscle aches,Diabetes,Dust,9,Food Poisoning,Go to Emergency,No
+59,Male,Asian,Rural,Middle,chest pain,,6,nausea,Asthma,Peanuts,1,Common Cold,Visit Doctor,No
+73,Other,Hispanic,Rural,High,frequent urination,6,14,nausea,Hypertension,Dust,8,Anxiety,Visit Doctor,Yes
+73,Other,,Suburban,Low,sore throat and difficulty swallowing,,18,fever,Asthma,Penicillin,8,,Visit Doctor,No
+36,Male,Caucasian,Suburban,High,fatigue and weakness,9,14,nausea,Hypertension,Penicillin,9,Anxiety,Go to Emergency,No
+49,Female,,Suburban,High,sharp stomach pain,1,8,fatigue,Hypertension,Pollen,,,Go to Emergency,
+,Male,African American,Suburban,Middle,sharp stomach pain,6,2,none,Asthma,Dust,3,Sinus Infection,,No
+84,Male,African American,Rural,High,,1,20,none,Hypertension,None,2,COVID-19,,No
+25,Other,Hispanic,Suburban,Low,sharp stomach pain,,14,fever,None,Peanuts,1,Migraine,Take Home Care Measures,No
+22,Female,Other,Rural,Middle,fever and body aches,4,24,fatigue,Diabetes,Peanuts,4,Muscle Strain,Visit Doctor,Yes
+46,Male,Other,Rural,Low,fever and body aches,6,3,fever,Diabetes,None,9,Hypertension,Go to Emergency,Yes
+,Other,Hispanic,,Middle,,10,20,fatigue,Diabetes,Peanuts,6,Gastroenteritis,Visit Doctor,
+,Other,African American,Urban,Low,fever and body aches,10,23,fever,Asthma,,9,Anxiety,Take Home Care Measures,Yes
+31,,,Suburban,Middle,joint pain and swelling,8,2,,Asthma,Peanuts,3,Gastroenteritis,Go to Emergency,Yes
+88,Female,African American,Rural,Middle,numbness in legs,3,19,,,Peanuts,2,Muscle Strain,,Yes
+50,Other,Caucasian,Urban,Low,persistent cough and shortness of breath,4,,fever,Asthma,Peanuts,7,Muscle Strain,Visit Doctor,No
+29,Female,,,High,chest pain,4,30,fatigue,Asthma,None,1,Common Cold,Go to Emergency,No
+,Male,Asian,Urban,High,sore throat and difficulty swallowing,7,19,,Asthma,Dust,3,Arthritis,Take Home Care Measures,No
+26,Female,African American,Suburban,Low,fever and body aches,8,11,nausea,None,Pollen,3,Flu,Go to Emergency,No
+76,Female,Hispanic,Suburban,High,back pain and muscle stiffness,,24,fatigue,Asthma,Dust,6,Kidney Stones,Take Home Care Measures,No
+65,Male,Caucasian,Suburban,Low,back pain and muscle stiffness,,25,none,Asthma,Peanuts,0,Migraine,Visit Doctor,Yes
+31,Male,,,Middle,blurry vision,3,23,none,None,Pollen,,Food Poisoning,,Yes
+50,Other,Caucasian,Suburban,High,sharp stomach pain,,,fatigue,,Pollen,9,Kidney Stones,Go to Emergency,Yes
+48,Other,African American,,Middle,fatigue and weakness,2,30,fatigue,Asthma,,10,Flu,Visit Doctor,Yes
+85,,Caucasian,Rural,Low,nausea and vomiting,5,,fever,None,None,10,Allergic Reaction,Visit Doctor,No
+20,Male,African American,Urban,Middle,sore throat and difficulty swallowing,4,12,none,Hypertension,Peanuts,2,Food Poisoning,Take Home Care Measures,Yes
+71,Male,African American,,Middle,joint pain and swelling,2,,none,None,Penicillin,1,Food Poisoning,Take Home Care Measures,Yes
+23,Female,Caucasian,Suburban,Low,sharp stomach pain,1,29,,Diabetes,None,,Sinus Infection,Go to Emergency,Yes
+,,Other,Suburban,Low,back pain and muscle stiffness,1,30,,Diabetes,Pollen,4,,,Yes
+37,Male,Hispanic,Suburban,Middle,back pain and muscle stiffness,5,10,fatigue,,Dust,3,Anxiety,Go to Emergency,No
+75,,,,Low,mild headache,,3,fatigue,Asthma,,10,Anxiety,Go to Emergency,No
+,,African American,Rural,High,fatigue and weakness,5,9,fever,Hypertension,Dust,6,Diabetes,Visit Doctor,No
+24,Male,African American,Suburban,Low,fever and body aches,7,25,none,Asthma,Peanuts,0,Hypertension,Go to Emergency,Yes
+48,Female,Caucasian,Urban,Low,back pain and muscle stiffness,1,15,fever,None,,,Asthma,Go to Emergency,No
+61,Male,Hispanic,,Low,blurry vision,7,,none,None,,4,Arthritis,Go to Emergency,Yes
+48,,Caucasian,Urban,Low,sore throat and difficulty swallowing,6,,fever,,None,1,Hypertension,Take Home Care Measures,Yes
+,,Hispanic,Rural,Middle,skin rash,,,,Hypertension,Peanuts,0,Allergic Reaction,Go to Emergency,No
+,Female,Caucasian,Urban,Middle,numbness in legs,10,2,nausea,,Pollen,0,Common Cold,Take Home Care Measures,No
+62,Female,Hispanic,Urban,High,sore throat and difficulty swallowing,,16,muscle aches,None,Penicillin,3,Hypertension,Go to Emergency,No
+22,Male,,,High,severe dizziness,4,19,fatigue,Hypertension,,4,Anxiety,Go to Emergency,No
+49,Female,Hispanic,Suburban,,blurry vision,7,6,none,Asthma,None,,,Take Home Care Measures,Yes
+39,Male,Asian,Urban,Middle,mild headache,2,9,fatigue,,Peanuts,10,Asthma,Take Home Care Measures,Yes
+79,,Hispanic,Suburban,Middle,,,29,muscle aches,Asthma,Peanuts,10,,Visit Doctor,No
+89,Male,African American,Urban,High,sore throat and difficulty swallowing,10,16,none,Diabetes,Pollen,5,Sinus Infection,Go to Emergency,No
+69,Female,Asian,Urban,Low,frequent urination,5,9,nausea,Asthma,Penicillin,5,Kidney Stones,Go to Emergency,Yes
+36,,African American,Suburban,High,nausea and vomiting,4,28,none,None,Dust,9,Anxiety,,No
+54,Male,African American,Rural,Middle,blurry vision,1,9,nausea,Hypertension,Pollen,,Common Cold,Go to Emergency,No
+90,,African American,Urban,Middle,fatigue and weakness,9,1,,Asthma,,9,Allergic Reaction,Visit Doctor,No
+63,Female,African American,Rural,Low,,6,21,,Hypertension,,,Anxiety,Visit Doctor,No
+,,Hispanic,Rural,Low,,,20,muscle aches,Diabetes,Penicillin,7,Food Poisoning,Go to Emergency,No
+62,Female,African American,Suburban,,fever and body aches,3,18,none,None,Dust,5,Arthritis,Go to Emergency,Yes
+87,Other,Asian,Rural,Low,fatigue and weakness,3,8,nausea,Hypertension,Dust,4,Food Poisoning,,
+34,Female,African American,Suburban,Middle,sore throat and difficulty swallowing,2,9,nausea,,Peanuts,1,Common Cold,,No
+35,Male,Other,,Middle,,7,21,fever,Hypertension,Pollen,2,Migraine,Visit Doctor,Yes
+26,Male,African American,Suburban,High,persistent cough and shortness of breath,2,2,nausea,Hypertension,Peanuts,7,Flu,Take Home Care Measures,Yes
+42,Male,African American,,Low,numbness in legs,3,,fatigue,None,Dust,9,,Go to Emergency,
+78,,Other,Rural,Middle,mild headache,9,11,,Diabetes,Dust,2,Food Poisoning,Take Home Care Measures,No
+54,Female,,Urban,High,back pain and muscle stiffness,,6,fever,Diabetes,None,0,Arthritis,,Yes
+49,Other,Asian,Suburban,Middle,back pain and muscle stiffness,5,20,nausea,Diabetes,Penicillin,3,Common Cold,Take Home Care Measures,Yes
+22,Male,Caucasian,,Middle,severe dizziness,1,26,muscle aches,Diabetes,Peanuts,10,Diabetes,Take Home Care Measures,No
+66,Other,,Rural,,nausea and vomiting,1,29,fever,None,Penicillin,8,Diabetes,Take Home Care Measures,
+,Female,African American,Urban,High,chest pain,9,24,nausea,Diabetes,,6,Asthma,Visit Doctor,No
+56,Male,Hispanic,Urban,Middle,,,13,none,None,Penicillin,8,Common Cold,Go to Emergency,
+43,Female,Asian,Urban,High,chest pain,9,2,,Hypertension,,8,COVID-19,Take Home Care Measures,Yes
+22,Female,Caucasian,Rural,High,fever and body aches,3,23,muscle aches,None,Penicillin,3,Diabetes,Visit Doctor,No
+20,Male,Other,Rural,High,sharp stomach pain,9,23,none,None,Dust,7,Migraine,Take Home Care Measures,Yes
+37,Other,Asian,,Low,blurry vision,,26,nausea,None,Peanuts,0,Anxiety,Go to Emergency,No
+,Other,Caucasian,Urban,Low,blurry vision,10,,fever,Diabetes,Penicillin,1,Hypertension,Go to Emergency,Yes
+20,Male,Other,Urban,High,skin rash,,19,nausea,Hypertension,Pollen,1,Common Cold,Take Home Care Measures,No
+51,Male,Caucasian,Suburban,Middle,sharp stomach pain,3,5,fatigue,Diabetes,,4,Flu,,No
+70,Male,Caucasian,Suburban,High,,5,29,fatigue,Diabetes,,4,COVID-19,Visit Doctor,
+35,,Other,Rural,,,3,10,muscle aches,None,Pollen,10,Food Poisoning,,No
+55,Female,Caucasian,Urban,High,,9,8,,Asthma,None,4,Diabetes,Take Home Care Measures,Yes
+29,Other,Hispanic,Urban,Middle,,,23,,Diabetes,Dust,10,Migraine,,Yes
+25,Female,Asian,Rural,Middle,skin rash,6,11,muscle aches,None,Dust,5,Hypertension,Visit Doctor,Yes
+38,Male,Asian,Rural,Middle,nausea and vomiting,2,22,nausea,None,Pollen,1,Hypertension,Go to Emergency,Yes
+86,Female,Hispanic,Suburban,Low,persistent cough and shortness of breath,,24,fever,Asthma,Penicillin,2,Gastroenteritis,Visit Doctor,Yes
+,Female,Asian,Urban,Middle,chest pain,5,10,nausea,Asthma,Dust,9,Muscle Strain,Go to Emergency,No
+,,African American,Suburban,,,10,,fatigue,Hypertension,None,,Arthritis,Go to Emergency,Yes
+46,Other,African American,Suburban,Low,,1,,muscle aches,Diabetes,Pollen,3,Food Poisoning,Go to Emergency,No
+27,Female,,Suburban,Low,blurry vision,6,27,none,Asthma,Dust,4,Diabetes,Take Home Care Measures,Yes
+37,Female,African American,Rural,,chest pain,10,20,muscle aches,,Pollen,2,Kidney Stones,Take Home Care Measures,Yes
+72,Other,Asian,Urban,,,8,17,fatigue,Diabetes,,6,Asthma,Take Home Care Measures,Yes
+85,Other,African American,Suburban,Low,fatigue and weakness,,4,fatigue,None,Pollen,2,Common Cold,Go to Emergency,No
+81,Female,African American,Rural,Low,fatigue and weakness,7,11,fever,Asthma,Penicillin,5,Food Poisoning,Visit Doctor,
+69,Other,Hispanic,Urban,High,,3,8,muscle aches,,,6,Anxiety,,No
+62,,African American,Suburban,High,,1,,fatigue,None,Pollen,6,Kidney Stones,Take Home Care Measures,No
+28,Male,African American,,Middle,blurry vision,6,9,nausea,Asthma,Peanuts,5,,Take Home Care Measures,Yes
+32,Male,African American,Rural,Middle,sore throat and difficulty swallowing,10,6,fever,None,Dust,2,Muscle Strain,Visit Doctor,No
+53,Female,Caucasian,Suburban,Middle,skin rash,2,16,muscle aches,Asthma,Dust,7,Kidney Stones,Visit Doctor,No
+62,,Caucasian,Rural,High,,4,5,muscle aches,Asthma,Peanuts,,Food Poisoning,Visit Doctor,No
+51,Female,Other,Suburban,Low,,3,,,Hypertension,None,1,Arthritis,Take Home Care Measures,
+41,Female,Caucasian,Rural,Middle,persistent cough and shortness of breath,6,30,fever,Diabetes,Penicillin,9,Food Poisoning,Go to Emergency,Yes
+38,Male,,Rural,High,numbness in legs,7,13,fever,Asthma,Pollen,10,Anxiety,,Yes
+,,Other,Urban,Low,blurry vision,5,19,nausea,Diabetes,None,4,Sinus Infection,Visit Doctor,No
+76,Male,African American,Urban,High,mild headache,7,9,muscle aches,,Penicillin,9,Common Cold,Visit Doctor,No
+28,Female,,Urban,High,chest pain,3,28,fatigue,Asthma,Pollen,0,Hypertension,,No
+27,Female,African American,Rural,Middle,sharp stomach pain,1,3,fever,,Dust,10,Hypertension,Go to Emergency,No
+19,Other,Asian,Rural,High,skin rash,4,14,none,Asthma,,,Migraine,Visit Doctor,No
+25,Other,Asian,Suburban,Middle,severe dizziness,2,27,nausea,Diabetes,Pollen,8,Migraine,Go to Emergency,No
+25,,Caucasian,Rural,High,frequent urination,2,,,Diabetes,None,1,Diabetes,Go to Emergency,Yes
+82,Other,Hispanic,Urban,High,fever and body aches,4,19,,Diabetes,Penicillin,7,Kidney Stones,Take Home Care Measures,Yes
+74,Female,Asian,Rural,High,,7,26,,Diabetes,Penicillin,10,Kidney Stones,Take Home Care Measures,Yes
+62,Female,Asian,Urban,High,sharp stomach pain,6,9,nausea,Diabetes,Dust,10,Diabetes,,
+43,Other,African American,Suburban,Middle,,3,10,fatigue,,Peanuts,,,Visit Doctor,Yes
+57,Other,Asian,,Middle,chest pain,1,30,nausea,,Penicillin,,,Visit Doctor,No
+86,Female,Other,Rural,Middle,mild headache,5,20,nausea,Diabetes,,0,,Visit Doctor,
+36,Female,Other,Urban,Middle,blurry vision,6,20,nausea,,Peanuts,7,Anxiety,Visit Doctor,No
+84,Male,Hispanic,Urban,Middle,mild headache,8,13,fatigue,Asthma,Pollen,9,Gastroenteritis,Take Home Care Measures,Yes
+52,Female,Caucasian,Rural,High,severe dizziness,7,16,none,Asthma,,5,Hypertension,Visit Doctor,No
+63,Male,African American,Rural,Middle,joint pain and swelling,1,5,none,Asthma,Peanuts,6,Gastroenteritis,Go to Emergency,No
+42,Female,,Rural,High,severe dizziness,4,17,muscle aches,None,Dust,1,Sinus Infection,Visit Doctor,No
+43,Female,Asian,Urban,Low,frequent urination,10,22,fever,,Dust,3,Sinus Infection,,No
+20,Male,Hispanic,Urban,Low,fever and body aches,7,5,fever,Asthma,None,2,Flu,Go to Emergency,No
+19,Other,Hispanic,Rural,Low,blurry vision,4,12,fatigue,None,Pollen,0,Asthma,Go to Emergency,No
+,Male,Other,Urban,Middle,joint pain and swelling,,16,none,None,,1,,Visit Doctor,No
+78,Other,African American,Suburban,Low,,1,27,muscle aches,Asthma,Pollen,3,Arthritis,Take Home Care Measures,Yes
+51,Female,African American,,,chest pain,10,27,muscle aches,None,Penicillin,4,Food Poisoning,Take Home Care Measures,No
+53,Female,Asian,Urban,Low,fever and body aches,4,8,fever,Asthma,Pollen,4,,Visit Doctor,
+36,Male,Asian,Suburban,Low,skin rash,6,23,muscle aches,Diabetes,Peanuts,,,Take Home Care Measures,No
+35,Female,Hispanic,Urban,High,nausea and vomiting,6,2,fatigue,Diabetes,Pollen,6,,Take Home Care Measures,Yes
+80,Female,Caucasian,Rural,Middle,,1,2,fever,Asthma,Penicillin,0,Anxiety,Visit Doctor,Yes
+87,Female,African American,Rural,High,mild headache,4,30,fatigue,Hypertension,Pollen,3,Food Poisoning,Go to Emergency,Yes
+,Other,Other,Rural,,persistent cough and shortness of breath,10,19,nausea,Diabetes,None,4,Arthritis,Go to Emergency,No
+,Other,Hispanic,Urban,Low,skin rash,2,18,nausea,Asthma,None,9,Kidney Stones,Visit Doctor,No
+18,Other,Other,,Low,sharp stomach pain,9,3,,Diabetes,Dust,4,Asthma,,Yes
+87,Female,Asian,Urban,High,numbness in legs,6,7,muscle aches,Hypertension,None,6,Flu,Take Home Care Measures,No
+71,Male,African American,Rural,Low,frequent urination,,23,fever,None,,9,Kidney Stones,Visit Doctor,Yes
+38,Female,Caucasian,,Low,sharp stomach pain,,27,none,Asthma,Dust,5,Common Cold,,No
+90,Other,African American,Suburban,Low,fever and body aches,7,26,none,,None,2,Kidney Stones,Visit Doctor,Yes
+90,Male,Hispanic,Rural,High,mild headache,1,19,fever,Hypertension,Peanuts,7,,Take Home Care Measures,No
+83,Female,Caucasian,Suburban,High,,10,12,,Diabetes,Penicillin,5,Diabetes,Visit Doctor,
+63,Female,Asian,,Middle,numbness in legs,3,23,nausea,Hypertension,Penicillin,1,,Take Home Care Measures,No
+79,Other,Hispanic,Suburban,High,skin rash,7,,fever,,Penicillin,6,Migraine,,Yes
+,Female,Caucasian,,Low,blurry vision,3,29,nausea,Asthma,Dust,3,Asthma,Take Home Care Measures,Yes
+,Female,Caucasian,,Low,skin rash,,25,none,None,Penicillin,,COVID-19,Take Home Care Measures,Yes
+,Other,Caucasian,Urban,Middle,sore throat and difficulty swallowing,10,30,nausea,Asthma,,8,Migraine,Take Home Care Measures,Yes
+,Male,Other,Suburban,,mild headache,9,23,none,Asthma,,4,Kidney Stones,Go to Emergency,No
+58,Other,Hispanic,Urban,Low,,5,16,none,Hypertension,,8,,Take Home Care Measures,No
+83,Female,Asian,Suburban,,skin rash,,14,,None,None,0,COVID-19,Visit Doctor,Yes
+89,Other,Hispanic,Urban,High,numbness in legs,9,19,fatigue,Diabetes,None,,,Visit Doctor,No
+25,Other,Other,Urban,High,back pain and muscle stiffness,8,,,Asthma,None,,Asthma,,Yes
+,Other,,Rural,High,frequent urination,1,,fever,Asthma,Penicillin,7,Common Cold,,Yes
+73,Other,African American,Urban,High,blurry vision,5,24,muscle aches,,None,4,Flu,,Yes
+73,,Other,Rural,Middle,blurry vision,7,20,fatigue,None,Penicillin,5,Gastroenteritis,,
+50,Other,Caucasian,Urban,Middle,sharp stomach pain,6,23,none,Asthma,Peanuts,9,Diabetes,,
+60,Female,African American,Rural,Low,chest pain,6,11,,,Pollen,9,Flu,Visit Doctor,Yes
+18,Male,African American,Suburban,Middle,blurry vision,3,10,fatigue,Asthma,,0,Anxiety,Take Home Care Measures,No
+23,Other,Asian,Urban,,severe dizziness,6,16,nausea,Asthma,Peanuts,5,Food Poisoning,Visit Doctor,Yes
+,Female,African American,Suburban,Low,,5,26,fatigue,Diabetes,Dust,6,Common Cold,Take Home Care Measures,No
+19,Other,African American,Rural,High,chest pain,9,,none,Hypertension,Penicillin,3,Food Poisoning,Take Home Care Measures,
+35,Male,Caucasian,Urban,Low,fever and body aches,6,25,muscle aches,Asthma,,0,COVID-19,,
+,Female,Caucasian,Urban,Middle,persistent cough and shortness of breath,,24,none,,Dust,5,Muscle Strain,,No
+31,,Other,Suburban,High,sore throat and difficulty swallowing,8,4,,None,,7,Common Cold,Visit Doctor,Yes
+77,Other,Asian,Suburban,Low,sharp stomach pain,1,3,nausea,Hypertension,,4,Kidney Stones,Take Home Care Measures,Yes
+28,Male,Caucasian,Urban,High,back pain and muscle stiffness,4,29,fever,None,Dust,2,Muscle Strain,Visit Doctor,Yes
+36,Female,Asian,,High,persistent cough and shortness of breath,5,2,fatigue,Diabetes,Peanuts,2,Migraine,Take Home Care Measures,
+74,Female,,Suburban,Middle,fever and body aches,4,29,fever,Hypertension,None,,Food Poisoning,Go to Emergency,Yes
+63,Female,Asian,Rural,Low,,2,3,fever,Hypertension,Pollen,2,,Visit Doctor,Yes
+33,Other,Hispanic,Urban,High,,3,19,fever,Hypertension,Pollen,4,Kidney Stones,Go to Emergency,No
+35,Other,African American,Rural,High,severe dizziness,,28,nausea,,Penicillin,6,Allergic Reaction,,No
+62,,Caucasian,Urban,,fatigue and weakness,1,,fever,,None,7,,,Yes
+26,Female,African American,Rural,Middle,numbness in legs,6,5,none,Hypertension,Dust,,Anxiety,Go to Emergency,Yes
+,Male,African American,Rural,Middle,mild headache,10,25,nausea,Diabetes,None,7,Allergic Reaction,Visit Doctor,Yes
+22,Male,Asian,Urban,,back pain and muscle stiffness,1,12,fatigue,Hypertension,Dust,6,,Take Home Care Measures,No
+75,Female,Hispanic,Rural,Middle,fatigue and weakness,7,27,nausea,Asthma,Penicillin,8,Allergic Reaction,Take Home Care Measures,Yes
+32,Other,Other,Suburban,High,nausea and vomiting,,19,none,Diabetes,Dust,0,Hypertension,Visit Doctor,
+25,,Hispanic,Rural,Low,mild headache,3,14,none,Hypertension,,,Anxiety,Take Home Care Measures,No
+84,,Other,Urban,,joint pain and swelling,,,muscle aches,Asthma,None,0,Flu,Go to Emergency,Yes
+64,Male,Caucasian,Urban,High,severe dizziness,,22,fever,Diabetes,Pollen,9,Muscle Strain,Go to Emergency,Yes
+31,Female,Caucasian,,Low,mild headache,4,,fever,Asthma,Pollen,1,Arthritis,Go to Emergency,No
+79,Male,Caucasian,Suburban,High,back pain and muscle stiffness,,17,nausea,Diabetes,Pollen,2,COVID-19,Go to Emergency,No
+76,Other,Asian,,High,mild headache,4,26,nausea,Diabetes,Dust,1,Flu,,Yes
+54,Other,Asian,Urban,Low,blurry vision,7,19,muscle aches,,Dust,7,Arthritis,Take Home Care Measures,No
+,Other,Asian,Suburban,,fever and body aches,8,29,muscle aches,None,Pollen,,Diabetes,Visit Doctor,Yes
+,Female,Asian,Rural,Low,frequent urination,4,4,fatigue,None,None,9,Muscle Strain,Visit Doctor,Yes
+47,Female,Hispanic,Suburban,Low,numbness in legs,6,9,fever,None,Penicillin,5,Diabetes,Go to Emergency,No
+38,Other,,Suburban,,frequent urination,9,14,fever,Asthma,Penicillin,4,COVID-19,Visit Doctor,No
+76,Male,Asian,,,fever and body aches,7,16,nausea,Asthma,Pollen,6,Sinus Infection,Take Home Care Measures,Yes
+23,Other,Other,,High,sore throat and difficulty swallowing,3,,none,,Peanuts,7,COVID-19,Take Home Care Measures,No
+22,Other,,Urban,,fever and body aches,1,25,fatigue,Hypertension,Penicillin,3,Migraine,Take Home Care Measures,Yes
+40,Other,Caucasian,Rural,,joint pain and swelling,4,5,none,Diabetes,None,2,Migraine,Visit Doctor,No
+68,,Caucasian,Suburban,Low,nausea and vomiting,1,27,nausea,Hypertension,Pollen,3,Migraine,Go to Emergency,
+27,,Asian,Suburban,Middle,fever and body aches,8,3,,Diabetes,,1,,Visit Doctor,
+30,,Hispanic,,High,frequent urination,,18,fever,Asthma,Dust,8,Muscle Strain,Visit Doctor,Yes
+50,Other,Other,Urban,,sharp stomach pain,3,9,none,Diabetes,Dust,0,Flu,Visit Doctor,Yes
+41,Male,Caucasian,Suburban,Middle,frequent urination,1,6,fatigue,None,None,4,Asthma,Take Home Care Measures,Yes
+,Male,Hispanic,,High,skin rash,9,,,None,,9,Kidney Stones,Take Home Care Measures,No
+44,Male,Hispanic,Urban,Middle,chest pain,7,5,fatigue,Hypertension,Peanuts,9,Sinus Infection,,Yes
+57,Male,Other,Suburban,,severe dizziness,,,fever,Asthma,Pollen,10,Anxiety,Visit Doctor,Yes
+87,Other,African American,,Low,nausea and vomiting,9,26,muscle aches,None,,3,Kidney Stones,Go to Emergency,Yes
+87,Male,Caucasian,,,chest pain,1,,fever,Asthma,Pollen,8,,Visit Doctor,No
+82,Male,Other,Suburban,High,frequent urination,1,,muscle aches,,None,,Gastroenteritis,Take Home Care Measures,Yes
+31,Other,Caucasian,Suburban,Middle,,9,,fatigue,Hypertension,,,Anxiety,Take Home Care Measures,Yes
+45,Other,Caucasian,Rural,Low,skin rash,5,16,fatigue,Diabetes,Peanuts,9,Allergic Reaction,Go to Emergency,Yes
+20,Female,Caucasian,Rural,Middle,skin rash,,9,none,None,Dust,0,COVID-19,Take Home Care Measures,No
+39,Other,Caucasian,Suburban,,nausea and vomiting,8,25,nausea,,,4,Anxiety,Take Home Care Measures,Yes
+35,Female,Other,Urban,Middle,mild headache,6,10,nausea,Hypertension,,2,Food Poisoning,,Yes
+74,,Asian,Rural,Middle,blurry vision,6,2,none,Diabetes,,,Diabetes,Visit Doctor,
+40,Other,Hispanic,Suburban,Middle,persistent cough and shortness of breath,2,12,,None,,0,Arthritis,Visit Doctor,No
+50,Male,,,High,,10,26,,Hypertension,Pollen,4,Gastroenteritis,Go to Emergency,Yes
+79,,Caucasian,Suburban,High,back pain and muscle stiffness,10,13,nausea,Diabetes,Pollen,10,Muscle Strain,Visit Doctor,Yes
+21,Other,Asian,Urban,,blurry vision,10,30,fatigue,None,,,,Visit Doctor,Yes
+42,Female,Caucasian,Rural,Middle,joint pain and swelling,4,11,nausea,Hypertension,Peanuts,2,Muscle Strain,Visit Doctor,No
+68,Male,Caucasian,Rural,Low,mild headache,2,24,muscle aches,Asthma,Peanuts,4,Muscle Strain,Visit Doctor,Yes
+29,Other,,Suburban,High,nausea and vomiting,6,12,fatigue,Diabetes,Peanuts,6,Allergic Reaction,Visit Doctor,Yes
+49,Male,African American,Suburban,High,sore throat and difficulty swallowing,2,30,fever,None,,5,COVID-19,Visit Doctor,No
+44,Female,Hispanic,Suburban,Low,,9,28,fatigue,Asthma,Peanuts,3,Asthma,Visit Doctor,
+59,Other,African American,Suburban,High,numbness in legs,7,24,muscle aches,Asthma,Dust,3,Food Poisoning,Visit Doctor,
+78,Female,,Urban,Low,numbness in legs,6,11,nausea,Diabetes,Peanuts,6,Kidney Stones,Go to Emergency,Yes
+25,Female,Caucasian,Urban,High,,1,29,muscle aches,Asthma,Penicillin,3,Migraine,Go to Emergency,No
+55,Male,Hispanic,Rural,High,fever and body aches,6,20,,Diabetes,None,,Gastroenteritis,Go to Emergency,No
+70,Male,Hispanic,Rural,Low,nausea and vomiting,9,25,none,Hypertension,Peanuts,,Kidney Stones,Visit Doctor,No
+63,Female,Hispanic,Rural,,nausea and vomiting,,7,none,Diabetes,,4,Gastroenteritis,,Yes
+81,Other,Asian,Rural,,sharp stomach pain,4,29,muscle aches,Hypertension,Penicillin,0,,Take Home Care Measures,Yes
+65,Other,Asian,,Low,blurry vision,2,7,none,,Penicillin,6,Migraine,Go to Emergency,
+60,,Asian,Rural,High,joint pain and swelling,8,21,muscle aches,Asthma,Pollen,,Arthritis,,
+37,,Asian,Rural,Middle,chest pain,5,,fever,Hypertension,,10,Sinus Infection,Go to Emergency,Yes
+85,Male,Asian,Rural,Middle,severe dizziness,9,10,muscle aches,Hypertension,None,2,,,
+78,,African American,Urban,Low,persistent cough and shortness of breath,1,22,,None,Pollen,6,Common Cold,Take Home Care Measures,Yes
+89,Other,Other,,Middle,severe dizziness,6,17,fever,Diabetes,Dust,,,Visit Doctor,Yes
+,Other,Asian,Urban,,blurry vision,2,29,nausea,Asthma,Pollen,10,Flu,Go to Emergency,No
+52,,Hispanic,Rural,Middle,,3,15,fatigue,None,Dust,6,,Visit Doctor,Yes
+37,Male,Hispanic,,Low,blurry vision,10,30,nausea,Asthma,Pollen,4,Allergic Reaction,Go to Emergency,No
+33,Male,Hispanic,Rural,High,,8,8,muscle aches,Diabetes,Pollen,5,Gastroenteritis,Go to Emergency,Yes
+52,Male,,Suburban,High,fatigue and weakness,4,15,fever,None,Penicillin,5,Common Cold,Take Home Care Measures,Yes
+,Male,Hispanic,,High,sharp stomach pain,6,9,,Hypertension,Peanuts,6,Common Cold,Take Home Care Measures,
+87,Male,Other,Suburban,Low,mild headache,,1,fever,Diabetes,Dust,10,Migraine,Visit Doctor,Yes
+,Female,Other,Rural,Low,,8,28,fatigue,None,Peanuts,1,COVID-19,Take Home Care Measures,Yes
+35,Other,Other,Rural,High,fatigue and weakness,9,19,none,Hypertension,Penicillin,1,Gastroenteritis,Go to Emergency,Yes
+45,Female,Caucasian,Suburban,High,mild headache,1,16,none,None,,3,Migraine,Visit Doctor,Yes
+46,Male,Other,Suburban,,severe dizziness,2,22,muscle aches,Asthma,None,8,,Take Home Care Measures,Yes
+81,Male,African American,Rural,Middle,,7,8,muscle aches,Diabetes,Pollen,3,Hypertension,Visit Doctor,Yes
+70,Other,Other,Urban,Low,,4,29,,,Penicillin,4,Asthma,Visit Doctor,No
+85,Male,Asian,Suburban,Low,nausea and vomiting,9,1,muscle aches,Diabetes,Penicillin,6,Kidney Stones,Take Home Care Measures,No
+47,Male,Asian,Suburban,,back pain and muscle stiffness,9,,none,None,Peanuts,,COVID-19,Take Home Care Measures,No
+48,,,Urban,Middle,sharp stomach pain,7,6,muscle aches,Asthma,Penicillin,4,Anxiety,Visit Doctor,Yes
+51,Male,Hispanic,Rural,Low,,3,13,muscle aches,Hypertension,Pollen,8,Arthritis,Take Home Care Measures,No
+27,Male,African American,,,severe dizziness,2,26,none,Diabetes,Dust,0,Sinus Infection,Go to Emergency,Yes
+34,Male,Other,Rural,Low,back pain and muscle stiffness,7,,nausea,None,Dust,9,Flu,Take Home Care Measures,Yes
+89,Other,Other,Urban,Middle,nausea and vomiting,7,17,,Asthma,Peanuts,0,Food Poisoning,Take Home Care Measures,Yes
+30,Female,Hispanic,Urban,Low,,,11,fever,Diabetes,Peanuts,3,,Visit Doctor,Yes
+,,Caucasian,Urban,Middle,frequent urination,5,19,,Diabetes,Penicillin,7,Sinus Infection,Take Home Care Measures,Yes
+78,Male,African American,Suburban,Middle,persistent cough and shortness of breath,4,16,,Asthma,Dust,7,Common Cold,Take Home Care Measures,Yes
+89,Female,Caucasian,Urban,Low,skin rash,,,none,Diabetes,Pollen,5,Diabetes,Take Home Care Measures,No
+63,Other,,Suburban,High,,,29,none,None,Dust,3,Hypertension,Take Home Care Measures,Yes
+42,Other,,Urban,Low,mild headache,6,6,nausea,,Penicillin,9,Sinus Infection,,Yes
+52,Other,,,High,chest pain,10,23,fever,Asthma,None,6,,Take Home Care Measures,No
+20,Other,Other,Urban,,back pain and muscle stiffness,5,17,,Hypertension,Pollen,9,Common Cold,Take Home Care Measures,No
+75,Female,,Suburban,Low,back pain and muscle stiffness,1,27,muscle aches,Diabetes,Penicillin,9,,Take Home Care Measures,Yes
+,,Asian,Urban,High,frequent urination,10,19,nausea,Asthma,Peanuts,5,Allergic Reaction,Visit Doctor,No
+25,Female,Hispanic,Rural,Middle,blurry vision,3,24,muscle aches,Diabetes,Penicillin,7,Migraine,Go to Emergency,No
+20,Other,African American,Suburban,Low,sharp stomach pain,,20,fever,Hypertension,Penicillin,9,Allergic Reaction,Take Home Care Measures,Yes
+19,Male,African American,Rural,Low,joint pain and swelling,6,29,,None,,0,,Take Home Care Measures,Yes
+82,,Hispanic,Rural,Low,sore throat and difficulty swallowing,4,14,,None,Peanuts,2,Allergic Reaction,Go to Emergency,No
+44,Female,Hispanic,,High,frequent urination,4,11,muscle aches,Diabetes,None,6,Food Poisoning,Go to Emergency,Yes
+,,Hispanic,Suburban,High,,7,7,muscle aches,Asthma,None,4,Anxiety,Visit Doctor,No
+62,,Caucasian,Suburban,High,,,26,none,Diabetes,Dust,0,Allergic Reaction,Go to Emergency,No
+29,Male,African American,,Low,,,5,fatigue,None,Dust,6,Arthritis,Go to Emergency,No
+32,Male,Caucasian,Suburban,High,numbness in legs,7,16,muscle aches,Asthma,,4,Arthritis,,Yes
+82,,,Urban,Low,fever and body aches,4,21,none,Hypertension,None,9,Allergic Reaction,Take Home Care Measures,No
+51,Female,Caucasian,Suburban,Low,,5,27,nausea,None,Pollen,3,Hypertension,Take Home Care Measures,No
+75,Female,Asian,Urban,Low,sharp stomach pain,6,25,nausea,Asthma,Penicillin,10,Hypertension,Visit Doctor,No
+62,Female,Other,Urban,,fever and body aches,,28,fever,Hypertension,Dust,3,Anxiety,Take Home Care Measures,
+,Other,African American,Rural,High,fatigue and weakness,3,14,,Asthma,None,5,Gastroenteritis,Visit Doctor,No
+74,Other,Other,Rural,Low,numbness in legs,8,14,muscle aches,Diabetes,Penicillin,10,Migraine,Visit Doctor,No
+38,Male,African American,Suburban,Low,mild headache,1,27,fever,None,Peanuts,3,Asthma,Visit Doctor,Yes
+,Female,Asian,Urban,Middle,skin rash,2,25,fatigue,None,Dust,1,Food Poisoning,Go to Emergency,Yes
+19,Other,,Urban,Middle,back pain and muscle stiffness,10,,none,Hypertension,None,5,Allergic Reaction,Visit Doctor,No
+77,Female,Hispanic,Rural,Middle,chest pain,8,12,nausea,None,Penicillin,6,Asthma,Visit Doctor,
+53,Male,Asian,Rural,Low,persistent cough and shortness of breath,9,10,fever,,Pollen,9,,Visit Doctor,
+23,Other,Other,Urban,Middle,persistent cough and shortness of breath,2,7,fever,None,Penicillin,10,Flu,Visit Doctor,No
+21,Other,Caucasian,Urban,Middle,joint pain and swelling,6,22,,None,Dust,4,Anxiety,Visit Doctor,No
+32,Male,Hispanic,Rural,High,skin rash,5,,fever,None,Penicillin,5,Migraine,Go to Emergency,No
+,Female,African American,Urban,,,7,10,,None,Penicillin,3,Diabetes,Take Home Care Measures,Yes
+81,,,Rural,High,skin rash,7,14,fatigue,Hypertension,Penicillin,4,Food Poisoning,Take Home Care Measures,No
+63,Other,Asian,Suburban,High,joint pain and swelling,2,18,none,Diabetes,Peanuts,0,Flu,Visit Doctor,No
+39,Other,Caucasian,Rural,,joint pain and swelling,2,,,None,Pollen,10,COVID-19,Visit Doctor,Yes
+29,Male,Hispanic,Rural,Low,back pain and muscle stiffness,3,19,,,Pollen,,Asthma,Go to Emergency,No
+19,Other,Caucasian,,High,,,11,fever,Diabetes,Dust,5,COVID-19,Visit Doctor,Yes
+34,Other,Other,Rural,Low,sore throat and difficulty swallowing,,4,,Diabetes,Penicillin,6,Allergic Reaction,Take Home Care Measures,No
+,Female,African American,Urban,Low,numbness in legs,,12,muscle aches,Hypertension,Pollen,0,Gastroenteritis,Visit Doctor,No
+29,Other,Caucasian,Rural,Low,persistent cough and shortness of breath,5,,nausea,Asthma,Peanuts,10,Hypertension,Take Home Care Measures,No
+81,Female,,Suburban,Low,,,8,fatigue,Asthma,Peanuts,3,,Take Home Care Measures,No
+65,Other,Other,Suburban,High,,1,27,fatigue,None,Penicillin,1,Common Cold,Visit Doctor,No
+40,,Asian,Rural,High,,9,4,muscle aches,Diabetes,,1,,Take Home Care Measures,Yes
+18,Female,,Rural,Low,mild headache,7,,none,None,Peanuts,7,Muscle Strain,,
+39,Female,Other,Suburban,Middle,sharp stomach pain,7,11,,Hypertension,,6,Allergic Reaction,Take Home Care Measures,Yes
+43,,,Urban,High,mild headache,,27,muscle aches,,None,,Common Cold,Visit Doctor,Yes
+34,Other,Caucasian,Suburban,Low,numbness in legs,3,11,fever,None,Pollen,10,Gastroenteritis,,No
+28,,African American,Urban,Low,persistent cough and shortness of breath,7,3,muscle aches,Diabetes,Pollen,3,Allergic Reaction,,
+67,,Other,Suburban,Low,sore throat and difficulty swallowing,2,19,none,Hypertension,Penicillin,1,Common Cold,Go to Emergency,Yes
+,Female,Asian,,,persistent cough and shortness of breath,,17,muscle aches,Hypertension,Pollen,5,Food Poisoning,,Yes
+34,Female,Hispanic,Urban,High,frequent urination,4,,muscle aches,,Penicillin,5,Kidney Stones,Take Home Care Measures,No
+19,Female,Hispanic,Rural,Low,chest pain,6,,nausea,Asthma,None,6,Kidney Stones,Visit Doctor,Yes
+18,Male,Other,Urban,Low,,1,15,fever,Hypertension,Peanuts,1,Flu,Take Home Care Measures,Yes
+79,Other,Other,Urban,Middle,joint pain and swelling,,3,fever,None,Pollen,8,Migraine,,Yes
+20,Female,Asian,Urban,Middle,back pain and muscle stiffness,8,26,fatigue,Diabetes,Penicillin,9,Allergic Reaction,,Yes
+68,Male,African American,,High,persistent cough and shortness of breath,,15,fatigue,Asthma,None,7,Diabetes,Take Home Care Measures,No
+29,Female,African American,Rural,,frequent urination,10,,none,None,None,2,Arthritis,Go to Emergency,Yes
+20,Other,Other,Suburban,,mild headache,5,17,fever,Diabetes,Pollen,10,Flu,Visit Doctor,No
+,Male,Other,Rural,,,1,15,nausea,Asthma,Penicillin,4,Muscle Strain,Go to Emergency,Yes
+86,Male,African American,Suburban,High,skin rash,3,14,fever,Hypertension,Peanuts,4,Kidney Stones,Take Home Care Measures,No
+,Female,African American,Rural,,nausea and vomiting,9,,none,None,Peanuts,2,COVID-19,Visit Doctor,Yes
+61,Male,African American,Rural,Middle,fatigue and weakness,2,24,fatigue,None,Peanuts,4,Common Cold,Visit Doctor,No
+58,,Asian,Suburban,Middle,mild headache,,,muscle aches,Hypertension,Dust,7,Diabetes,Visit Doctor,Yes
+78,Male,Hispanic,Urban,Middle,,4,13,none,Hypertension,Pollen,4,,Visit Doctor,
+60,Other,Asian,Urban,High,skin rash,4,25,none,Hypertension,None,8,Allergic Reaction,Go to Emergency,No
+55,Female,Caucasian,Suburban,Low,,,20,fever,Hypertension,Dust,10,Sinus Infection,Go to Emergency,Yes
+28,Male,Asian,Suburban,,numbness in legs,,13,fatigue,,,7,Anxiety,,No
+27,Male,Hispanic,Rural,Low,fever and body aches,2,4,fatigue,Diabetes,Penicillin,6,,Go to Emergency,Yes
+70,Female,African American,Urban,Low,mild headache,1,21,none,Diabetes,Peanuts,0,Migraine,Visit Doctor,
+32,Other,African American,Suburban,Low,,7,20,fatigue,Diabetes,Penicillin,3,Gastroenteritis,Go to Emergency,No
+,Other,African American,Rural,Low,,10,22,fever,,Penicillin,,Sinus Infection,Take Home Care Measures,Yes
+,Other,Caucasian,Suburban,High,fatigue and weakness,7,20,none,,None,4,Anxiety,Take Home Care Measures,No
+35,Other,Asian,,High,,3,13,muscle aches,Hypertension,Pollen,4,Kidney Stones,,Yes
+43,Male,Caucasian,Urban,High,sharp stomach pain,10,18,muscle aches,Asthma,,0,Sinus Infection,Go to Emergency,No
+79,Female,African American,,Low,persistent cough and shortness of breath,10,27,muscle aches,None,Peanuts,8,Anxiety,Visit Doctor,No
+82,Male,,Urban,Middle,sore throat and difficulty swallowing,3,1,fever,None,,8,Anxiety,,Yes
+37,Male,African American,Suburban,Middle,nausea and vomiting,5,15,muscle aches,,None,8,Gastroenteritis,Visit Doctor,Yes
+66,Other,,Rural,Middle,chest pain,4,16,fatigue,Hypertension,Peanuts,0,Migraine,Take Home Care Measures,No
+47,Other,African American,Rural,Low,,3,7,none,Diabetes,Penicillin,5,Muscle Strain,,Yes
+50,Female,Asian,Suburban,High,chest pain,5,,muscle aches,Diabetes,Peanuts,1,Arthritis,Take Home Care Measures,No
+73,,Other,,High,sore throat and difficulty swallowing,9,10,fatigue,Asthma,Penicillin,8,,Visit Doctor,Yes
+79,,Asian,Rural,High,skin rash,9,19,none,,,9,,Go to Emergency,No
+57,Female,African American,Urban,Middle,,5,3,muscle aches,None,,5,COVID-19,Go to Emergency,
+45,Female,Caucasian,Urban,Low,blurry vision,3,26,muscle aches,Asthma,Penicillin,10,Food Poisoning,Take Home Care Measures,Yes
+23,Other,Other,Suburban,Low,numbness in legs,1,6,fever,,Dust,2,,Visit Doctor,Yes
+76,Male,Asian,Suburban,Low,severe dizziness,,28,none,Hypertension,,1,Arthritis,Take Home Care Measures,No
+31,,Asian,,High,,7,26,nausea,Hypertension,Peanuts,5,Kidney Stones,Visit Doctor,Yes
+73,,,,Middle,fever and body aches,3,12,,Diabetes,,9,Sinus Infection,Take Home Care Measures,No
+,Male,Hispanic,Urban,Low,skin rash,4,3,nausea,,Dust,6,Arthritis,Take Home Care Measures,Yes
+30,,African American,Suburban,High,chest pain,5,18,none,Diabetes,,3,COVID-19,Visit Doctor,Yes
+55,Other,African American,Rural,Middle,blurry vision,,6,muscle aches,,Pollen,1,Sinus Infection,Take Home Care Measures,Yes
+57,Other,Hispanic,,Middle,persistent cough and shortness of breath,5,29,fatigue,Diabetes,Dust,1,Diabetes,Visit Doctor,
+88,Other,Caucasian,Suburban,Low,sharp stomach pain,3,,,Asthma,Dust,2,Migraine,Take Home Care Measures,No
+37,Male,Hispanic,Urban,High,back pain and muscle stiffness,2,27,muscle aches,None,Penicillin,3,Sinus Infection,,Yes
+45,Female,Other,Rural,Middle,,6,2,fever,None,Dust,,Arthritis,,Yes
+79,Male,Other,Urban,,persistent cough and shortness of breath,6,26,,Diabetes,Peanuts,5,Hypertension,Go to Emergency,
+74,Male,,Suburban,,mild headache,8,11,fever,Diabetes,Dust,9,Gastroenteritis,Go to Emergency,Yes
+60,Male,Asian,Suburban,High,skin rash,4,10,fatigue,Diabetes,Peanuts,6,COVID-19,Take Home Care Measures,No
+24,,,Urban,Middle,severe dizziness,6,11,fever,,Peanuts,3,Common Cold,Go to Emergency,Yes
+52,Other,,Rural,Middle,fever and body aches,6,19,fever,Diabetes,Penicillin,9,Anxiety,Go to Emergency,Yes
+19,Female,Caucasian,Rural,Low,nausea and vomiting,5,8,fatigue,Asthma,Peanuts,2,Muscle Strain,Take Home Care Measures,Yes
+53,Male,Asian,Rural,,back pain and muscle stiffness,9,4,fever,None,Peanuts,9,Asthma,Go to Emergency,Yes
+55,Other,,Urban,High,blurry vision,,22,,Asthma,None,2,Asthma,Take Home Care Measures,Yes
+59,Female,African American,Suburban,High,severe dizziness,,13,fever,,Pollen,3,Hypertension,,No
+79,Female,Hispanic,Rural,High,nausea and vomiting,2,9,muscle aches,None,Dust,9,Muscle Strain,Take Home Care Measures,Yes
+88,Other,Caucasian,Suburban,Middle,chest pain,9,15,fever,Asthma,None,2,Anxiety,Go to Emergency,
+28,Other,Hispanic,Suburban,,chest pain,6,,nausea,Asthma,None,10,Arthritis,Visit Doctor,Yes
+60,,African American,,Middle,mild headache,7,30,none,Diabetes,Peanuts,6,Allergic Reaction,Visit Doctor,Yes
+84,Other,Hispanic,Urban,,sore throat and difficulty swallowing,6,21,nausea,Diabetes,,5,Hypertension,Go to Emergency,Yes
+20,Female,Hispanic,Suburban,Low,,10,13,none,Asthma,None,,Diabetes,Take Home Care Measures,Yes
+59,Female,Hispanic,Urban,Middle,frequent urination,,11,muscle aches,None,Dust,5,Gastroenteritis,Visit Doctor,Yes
+39,Male,Asian,Rural,,sharp stomach pain,4,10,fatigue,Diabetes,,10,Kidney Stones,Go to Emergency,Yes
+31,Male,,Urban,High,joint pain and swelling,6,,nausea,None,None,6,,Take Home Care Measures,No
+38,Female,Other,Urban,High,,6,2,nausea,Hypertension,Pollen,,Food Poisoning,Visit Doctor,No
+18,Other,Asian,Suburban,Low,chest pain,1,13,fever,Asthma,Penicillin,10,Muscle Strain,Go to Emergency,No
+36,Male,Asian,Suburban,High,joint pain and swelling,8,,fatigue,Hypertension,Penicillin,,Diabetes,,Yes
+30,Female,Other,Urban,Middle,,,19,,,Peanuts,8,Muscle Strain,Take Home Care Measures,
+69,Other,Caucasian,Suburban,Middle,severe dizziness,10,28,,Asthma,,8,Gastroenteritis,Go to Emergency,No
+43,,Other,Suburban,Low,joint pain and swelling,9,19,,Hypertension,Dust,3,COVID-19,,No
+34,Other,African American,Urban,High,numbness in legs,10,27,,None,Pollen,9,Hypertension,Visit Doctor,Yes
+27,Other,African American,Suburban,High,joint pain and swelling,1,,nausea,,Peanuts,10,,Go to Emergency,Yes
+,Other,Hispanic,Suburban,Middle,,,2,none,Diabetes,,9,Diabetes,Go to Emergency,Yes
+54,Female,Asian,Urban,Middle,severe dizziness,7,29,fever,Hypertension,Pollen,7,,Visit Doctor,Yes
+42,Female,African American,,High,persistent cough and shortness of breath,5,11,nausea,,None,6,Allergic Reaction,Visit Doctor,No
+64,Other,African American,Rural,Low,severe dizziness,6,20,fever,,Pollen,8,Gastroenteritis,Visit Doctor,Yes
+74,Female,Caucasian,Rural,Low,fever and body aches,5,4,none,None,,8,,Visit Doctor,Yes
+31,Other,African American,Urban,,back pain and muscle stiffness,,18,nausea,Diabetes,Dust,8,Asthma,,No
+37,Other,African American,Suburban,Low,persistent cough and shortness of breath,2,20,muscle aches,None,None,6,,Go to Emergency,No
+35,Other,Asian,,Low,blurry vision,9,,fatigue,Diabetes,None,2,Food Poisoning,Visit Doctor,No
+42,Male,Hispanic,Urban,High,fatigue and weakness,4,14,muscle aches,Diabetes,Pollen,8,,Visit Doctor,No
+19,Male,Hispanic,Urban,Low,frequent urination,3,22,fatigue,Diabetes,None,0,Diabetes,Visit Doctor,No
+64,Male,Other,Urban,Middle,mild headache,5,4,none,,,3,Common Cold,,No
+73,Female,Other,Rural,,back pain and muscle stiffness,7,,none,Hypertension,,0,Food Poisoning,Visit Doctor,
+54,Other,Asian,Urban,High,back pain and muscle stiffness,9,6,nausea,Diabetes,Dust,8,COVID-19,Go to Emergency,Yes
+59,Female,Caucasian,Suburban,Low,persistent cough and shortness of breath,2,23,,None,,10,Arthritis,Take Home Care Measures,
+,Female,Caucasian,Rural,High,fatigue and weakness,4,30,,None,Dust,6,Anxiety,Visit Doctor,
+90,Other,Other,Urban,Middle,numbness in legs,,12,fever,Asthma,Peanuts,6,COVID-19,Visit Doctor,No
+43,Male,Hispanic,Urban,Low,frequent urination,2,,,Hypertension,Pollen,,Gastroenteritis,Take Home Care Measures,Yes
+22,Male,Other,Urban,Middle,joint pain and swelling,,24,nausea,Asthma,Peanuts,6,Flu,Go to Emergency,
+36,,Other,Urban,Low,back pain and muscle stiffness,2,23,muscle aches,Hypertension,None,2,Flu,Visit Doctor,Yes
+67,Other,Other,Suburban,Middle,severe dizziness,6,,fever,,Penicillin,5,Sinus Infection,,No
+,Female,African American,Urban,Low,severe dizziness,5,24,fatigue,,Pollen,0,Common Cold,Take Home Care Measures,No
+55,Female,Caucasian,,,,6,10,muscle aches,None,,4,Food Poisoning,Go to Emergency,
+71,Other,African American,Urban,Middle,blurry vision,9,5,nausea,,Pollen,6,Allergic Reaction,Take Home Care Measures,Yes
+45,Female,Hispanic,Urban,,,9,21,muscle aches,Hypertension,Peanuts,4,,Take Home Care Measures,No
+31,Other,Other,,High,numbness in legs,6,12,fever,None,Peanuts,7,Flu,,No
+63,Other,Asian,,Low,sore throat and difficulty swallowing,1,2,nausea,Hypertension,,6,Food Poisoning,Go to Emergency,No
+33,Female,African American,Rural,Middle,joint pain and swelling,2,13,fatigue,,Peanuts,4,Arthritis,Visit Doctor,No
+70,Female,African American,Urban,Low,frequent urination,6,26,fatigue,Hypertension,None,7,Gastroenteritis,Visit Doctor,Yes
+64,Female,Asian,Urban,Middle,fever and body aches,,7,fever,,,4,Diabetes,Visit Doctor,No
+39,Female,,Suburban,Middle,nausea and vomiting,5,9,nausea,Asthma,Pollen,,Sinus Infection,Go to Emergency,No
+23,Female,Hispanic,Suburban,Low,severe dizziness,,28,fever,Diabetes,Pollen,9,COVID-19,Take Home Care Measures,
+18,Other,,Rural,,joint pain and swelling,8,12,none,Diabetes,,1,Arthritis,Visit Doctor,No
+74,Female,African American,Urban,Middle,sore throat and difficulty swallowing,8,8,fatigue,None,None,1,,Take Home Care Measures,Yes
+23,Other,,Rural,High,fever and body aches,6,,fever,None,,10,Kidney Stones,Take Home Care Measures,Yes
+39,,,,Low,nausea and vomiting,1,21,nausea,Hypertension,Pollen,4,Kidney Stones,Go to Emergency,No
+33,Female,African American,Urban,,persistent cough and shortness of breath,,23,fatigue,None,Pollen,7,Kidney Stones,,Yes
+20,Female,African American,,,sore throat and difficulty swallowing,1,8,nausea,Asthma,Penicillin,7,,Go to Emergency,Yes
+79,,Hispanic,Rural,Low,severe dizziness,,20,nausea,Diabetes,Pollen,2,COVID-19,Visit Doctor,No
+26,Male,Hispanic,Rural,Middle,nausea and vomiting,6,26,,None,Penicillin,7,Muscle Strain,Take Home Care Measures,Yes
+60,Other,,,Middle,sharp stomach pain,3,,fever,None,Dust,4,,Visit Doctor,Yes
+34,Other,African American,Suburban,Low,,3,4,fever,Asthma,,9,Kidney Stones,Take Home Care Measures,Yes
+54,Female,Other,Urban,High,fever and body aches,6,2,nausea,,Dust,,Sinus Infection,Take Home Care Measures,Yes
+29,Male,Caucasian,Suburban,Middle,frequent urination,10,4,muscle aches,Asthma,Peanuts,10,COVID-19,Go to Emergency,Yes
+41,Male,Caucasian,Urban,High,numbness in legs,1,23,fatigue,Hypertension,Penicillin,,Food Poisoning,Go to Emergency,Yes
+32,Male,Caucasian,,High,frequent urination,5,20,none,Diabetes,Penicillin,1,Asthma,Visit Doctor,No
+84,Male,Hispanic,Suburban,High,,5,1,muscle aches,Hypertension,,2,Anxiety,Go to Emergency,
+81,,Other,Suburban,Middle,frequent urination,8,14,none,Hypertension,Peanuts,6,,,No
+52,Female,Caucasian,Suburban,Middle,skin rash,5,,none,Diabetes,,,Anxiety,,Yes
+32,Female,Asian,Urban,,joint pain and swelling,2,30,fatigue,None,None,3,Allergic Reaction,Visit Doctor,Yes
+59,Male,Other,Urban,Low,joint pain and swelling,10,27,nausea,Diabetes,Penicillin,2,Diabetes,Take Home Care Measures,No
+51,,,Rural,Middle,nausea and vomiting,3,14,muscle aches,,Dust,0,Sinus Infection,Visit Doctor,
+,Male,Other,Suburban,Low,chest pain,6,14,nausea,Hypertension,None,10,Asthma,Visit Doctor,No
+,Female,,Suburban,Middle,frequent urination,5,,,Hypertension,Pollen,7,Diabetes,Take Home Care Measures,No
+45,,African American,Rural,,fever and body aches,10,6,fever,,Pollen,6,Arthritis,Go to Emergency,No
+45,Female,Hispanic,Suburban,Middle,back pain and muscle stiffness,7,,none,None,None,10,Common Cold,Take Home Care Measures,Yes
+24,,Caucasian,Suburban,High,persistent cough and shortness of breath,7,24,fatigue,Hypertension,None,,Kidney Stones,,No
+55,Female,Other,Urban,High,fatigue and weakness,1,23,fever,Diabetes,Peanuts,8,Arthritis,Go to Emergency,Yes
+18,Female,Hispanic,Suburban,,persistent cough and shortness of breath,5,14,nausea,Hypertension,,,COVID-19,Visit Doctor,No
+22,Other,African American,,Low,,5,5,fever,,None,1,Hypertension,Take Home Care Measures,No
+43,Other,Other,Urban,Middle,severe dizziness,2,16,fever,,,1,Diabetes,,
+69,Male,Caucasian,Suburban,High,sharp stomach pain,,18,,Hypertension,,6,Common Cold,Take Home Care Measures,No
+36,,Asian,Suburban,,joint pain and swelling,6,24,fever,Diabetes,Pollen,8,Flu,Visit Doctor,No
+,Other,African American,Suburban,Low,nausea and vomiting,4,10,fatigue,Diabetes,Peanuts,3,Migraine,Visit Doctor,No
+61,Male,African American,Suburban,Middle,frequent urination,3,21,muscle aches,Hypertension,Dust,0,Anxiety,Visit Doctor,Yes
+54,Other,,Urban,Middle,,10,23,muscle aches,Diabetes,Peanuts,,Asthma,Take Home Care Measures,No
+68,Other,African American,,Low,,3,,fever,Hypertension,Pollen,9,Anxiety,Visit Doctor,Yes
+53,Female,African American,Urban,Middle,blurry vision,9,8,muscle aches,Hypertension,Penicillin,3,Gastroenteritis,Go to Emergency,
+23,Female,African American,Rural,Middle,frequent urination,2,20,muscle aches,Hypertension,Dust,,Flu,Take Home Care Measures,No
+68,Male,Asian,Suburban,High,persistent cough and shortness of breath,,12,,Asthma,Dust,2,Muscle Strain,Go to Emergency,
+,Female,African American,Urban,High,chest pain,1,30,fatigue,Diabetes,Peanuts,9,,Take Home Care Measures,Yes
+88,Male,,Suburban,Low,sharp stomach pain,7,24,muscle aches,Hypertension,Dust,6,,Go to Emergency,
+24,Other,African American,,Middle,sharp stomach pain,10,5,,Diabetes,Peanuts,8,COVID-19,Go to Emergency,Yes
+59,,Caucasian,Suburban,High,sore throat and difficulty swallowing,,18,,Diabetes,Penicillin,3,Diabetes,Go to Emergency,Yes
+39,,,Rural,High,chest pain,4,16,fatigue,,Dust,8,Anxiety,Visit Doctor,No
+88,Other,Other,Rural,Low,nausea and vomiting,8,26,none,None,Dust,9,Asthma,Go to Emergency,No
+26,Male,,Urban,Low,frequent urination,7,22,muscle aches,None,Pollen,3,Muscle Strain,Visit Doctor,Yes
+37,Other,Asian,Suburban,Low,blurry vision,7,28,fatigue,Diabetes,Pollen,9,Anxiety,Visit Doctor,No
+53,Male,African American,Suburban,High,severe dizziness,8,,fever,,Dust,6,Flu,Take Home Care Measures,No
+80,,Other,Rural,High,blurry vision,5,28,nausea,,Pollen,0,Flu,,Yes
+71,Female,,Rural,Middle,nausea and vomiting,9,24,fatigue,None,Pollen,10,Hypertension,Go to Emergency,
+86,Male,Asian,Urban,,blurry vision,9,15,nausea,Hypertension,Penicillin,,Hypertension,Take Home Care Measures,Yes
+28,,Hispanic,Urban,,fatigue and weakness,8,10,nausea,Hypertension,Pollen,8,Muscle Strain,Go to Emergency,Yes
+89,Female,African American,Urban,,sore throat and difficulty swallowing,9,24,nausea,Asthma,Penicillin,2,Sinus Infection,Go to Emergency,Yes
+19,Male,Other,Rural,Middle,blurry vision,4,15,fever,Asthma,Pollen,10,Sinus Infection,Visit Doctor,Yes
+22,Male,Asian,Suburban,High,fatigue and weakness,3,30,muscle aches,Hypertension,,,Anxiety,Take Home Care Measures,No
+40,Male,Hispanic,Rural,Middle,chest pain,5,,fatigue,,Pollen,,Diabetes,Visit Doctor,No
+60,Female,Other,Urban,Low,fever and body aches,4,18,muscle aches,None,Pollen,10,,Visit Doctor,
+47,,Asian,Suburban,High,numbness in legs,10,4,none,Diabetes,Dust,8,Arthritis,Take Home Care Measures,
+69,Male,Other,Urban,Middle,nausea and vomiting,1,23,fatigue,None,Dust,3,Sinus Infection,Go to Emergency,No
+,Female,Asian,Urban,High,back pain and muscle stiffness,3,,fever,,Pollen,0,Allergic Reaction,Go to Emergency,No
+79,Female,,Rural,,blurry vision,2,18,,Asthma,None,5,Allergic Reaction,,
+70,Male,Asian,Suburban,High,skin rash,,9,fatigue,Asthma,None,,Sinus Infection,Go to Emergency,Yes
+59,Male,Asian,Suburban,Low,blurry vision,2,27,nausea,Hypertension,Peanuts,6,Kidney Stones,Visit Doctor,
+34,,,,,severe dizziness,9,30,muscle aches,None,None,,,Take Home Care Measures,Yes
+82,Female,African American,Rural,Middle,severe dizziness,2,4,fever,None,,,,Visit Doctor,No
+46,Female,Caucasian,Suburban,Low,fever and body aches,10,19,fatigue,Diabetes,Dust,0,Muscle Strain,Take Home Care Measures,Yes
+50,Male,Caucasian,Suburban,High,severe dizziness,4,15,nausea,Asthma,Peanuts,2,Migraine,Go to Emergency,Yes
+74,Female,Asian,Urban,,fatigue and weakness,9,27,fatigue,Diabetes,None,,Food Poisoning,,Yes
+64,Female,Other,Urban,Low,back pain and muscle stiffness,6,24,none,Hypertension,Peanuts,4,Diabetes,Visit Doctor,Yes
+51,Other,African American,Suburban,Middle,mild headache,10,5,fatigue,,Pollen,5,Diabetes,,Yes
+,Other,Caucasian,Rural,Low,skin rash,6,22,none,Hypertension,Dust,6,Anxiety,,Yes
+19,Other,Asian,Urban,High,joint pain and swelling,2,9,fatigue,Diabetes,Dust,0,COVID-19,Take Home Care Measures,No
+20,,African American,Urban,,blurry vision,3,,muscle aches,,Peanuts,,Gastroenteritis,Visit Doctor,No
+50,Female,,Suburban,High,skin rash,3,17,none,Hypertension,Dust,8,Asthma,Go to Emergency,
+62,Other,,Urban,High,persistent cough and shortness of breath,,17,muscle aches,Asthma,,2,Arthritis,Take Home Care Measures,No
+78,Female,Hispanic,Rural,Middle,,7,11,nausea,Asthma,Dust,0,Allergic Reaction,Visit Doctor,
+28,Male,African American,Suburban,High,chest pain,3,28,none,Hypertension,Dust,0,Arthritis,Visit Doctor,Yes
+51,Male,Hispanic,Rural,Low,nausea and vomiting,6,17,fever,,None,1,Food Poisoning,Go to Emergency,No
+,Male,Asian,Rural,Middle,,8,16,fever,Asthma,Peanuts,10,Asthma,Take Home Care Measures,No
+21,Other,Other,,Middle,persistent cough and shortness of breath,10,3,fatigue,,Penicillin,3,,,Yes
+50,Male,Other,Suburban,High,fatigue and weakness,5,16,nausea,Diabetes,Dust,8,Anxiety,Take Home Care Measures,Yes
+73,Male,Other,Rural,Middle,,4,20,fatigue,Asthma,Dust,10,Diabetes,Go to Emergency,No
+20,,Other,Rural,Low,back pain and muscle stiffness,5,11,fatigue,Asthma,Peanuts,1,Gastroenteritis,Visit Doctor,No
+39,Male,Asian,Urban,Middle,fatigue and weakness,8,16,fever,Asthma,None,2,Arthritis,Go to Emergency,No
+69,,Other,Rural,High,,,17,none,None,Pollen,,Arthritis,Go to Emergency,Yes
+75,Female,Other,Urban,,,10,10,muscle aches,Diabetes,None,2,COVID-19,Go to Emergency,No
+72,Other,Hispanic,Urban,,nausea and vomiting,1,1,fatigue,,Dust,5,Asthma,Go to Emergency,No
+27,Female,African American,Suburban,Middle,severe dizziness,9,1,nausea,Asthma,Penicillin,4,Diabetes,Go to Emergency,Yes
+67,Other,Hispanic,Urban,,fatigue and weakness,6,26,nausea,Diabetes,Pollen,5,,Go to Emergency,No
+82,Female,Caucasian,Rural,,nausea and vomiting,8,21,,Diabetes,Pollen,9,Migraine,,No
+,Female,Caucasian,Suburban,,nausea and vomiting,1,8,none,Hypertension,,6,Hypertension,Go to Emergency,Yes
+,,Other,Rural,High,blurry vision,7,11,none,Asthma,,,Common Cold,Take Home Care Measures,No
+84,Male,Caucasian,,Middle,severe dizziness,10,15,nausea,Hypertension,,7,Muscle Strain,Visit Doctor,Yes
+,Female,Hispanic,Suburban,Middle,sore throat and difficulty swallowing,2,,fever,None,Pollen,8,Flu,Go to Emergency,Yes
+82,Other,Caucasian,Suburban,,blurry vision,9,10,fatigue,Asthma,,7,Hypertension,Go to Emergency,
+60,,Hispanic,,,numbness in legs,8,16,,Hypertension,,6,,Go to Emergency,
+51,Other,African American,Suburban,Middle,sharp stomach pain,10,23,muscle aches,Diabetes,None,9,Gastroenteritis,Take Home Care Measures,No
+,Female,Other,Rural,High,fatigue and weakness,7,24,fatigue,Asthma,Penicillin,1,,Take Home Care Measures,No
+84,Female,Asian,Suburban,High,sore throat and difficulty swallowing,5,5,none,Diabetes,Pollen,5,Anxiety,Take Home Care Measures,No
+90,Male,Caucasian,Rural,High,joint pain and swelling,4,,none,None,Peanuts,7,Arthritis,Visit Doctor,Yes
+68,Other,Other,Urban,Middle,,6,17,none,Hypertension,Dust,10,,,Yes
+85,Other,,Rural,Low,chest pain,4,25,nausea,,Pollen,1,Common Cold,Go to Emergency,
+64,,Other,Urban,,,2,13,fatigue,Asthma,Dust,,COVID-19,Take Home Care Measures,No
+26,Female,Other,Suburban,Middle,back pain and muscle stiffness,6,,muscle aches,None,Pollen,9,Anxiety,Take Home Care Measures,No
+82,,Other,Rural,High,blurry vision,6,23,fever,,Dust,5,Anxiety,Take Home Care Measures,Yes
+23,,African American,Rural,Middle,nausea and vomiting,7,4,none,Asthma,,5,Asthma,Take Home Care Measures,No
+,Female,,,Middle,severe dizziness,,21,,None,Pollen,6,Food Poisoning,Go to Emergency,No
+40,Other,African American,Rural,Middle,fatigue and weakness,9,19,muscle aches,Diabetes,None,4,Kidney Stones,Take Home Care Measures,
+45,Male,Hispanic,Rural,Low,sharp stomach pain,10,20,,Hypertension,,8,COVID-19,,
+36,Other,Caucasian,Suburban,High,severe dizziness,3,,none,,None,2,Asthma,Visit Doctor,Yes
+45,Female,Other,Rural,Middle,chest pain,9,17,none,Diabetes,Dust,3,Allergic Reaction,Take Home Care Measures,No
+80,Other,African American,Suburban,,,9,19,fatigue,Hypertension,Dust,2,Hypertension,Go to Emergency,
+60,Female,,,High,chest pain,9,29,fever,None,Peanuts,8,Common Cold,Go to Emergency,Yes
+85,Female,Other,Urban,Low,joint pain and swelling,2,22,fever,Hypertension,Penicillin,,Allergic Reaction,Go to Emergency,No
+48,Female,Asian,Rural,Middle,numbness in legs,8,16,,,Dust,1,Sinus Infection,Take Home Care Measures,Yes
+38,Male,African American,Rural,Low,sore throat and difficulty swallowing,10,22,,Asthma,Dust,6,Muscle Strain,Visit Doctor,Yes
+71,Female,Asian,,,blurry vision,,1,fever,None,None,2,Migraine,Take Home Care Measures,Yes
+54,Other,African American,Urban,Low,frequent urination,4,9,none,,Peanuts,,Common Cold,Visit Doctor,
+34,Male,,,Low,,6,,fatigue,Diabetes,Pollen,9,COVID-19,Visit Doctor,No
+29,Female,Other,,High,nausea and vomiting,10,,muscle aches,Asthma,Penicillin,,COVID-19,Go to Emergency,Yes
+29,Other,Hispanic,Rural,High,persistent cough and shortness of breath,3,13,fatigue,None,Dust,8,,Visit Doctor,
+39,Male,Caucasian,Rural,Low,severe dizziness,8,,nausea,,None,7,Food Poisoning,Take Home Care Measures,No
+55,,,Rural,Low,mild headache,5,18,,None,Dust,5,,Go to Emergency,No
+62,Female,,Urban,Low,blurry vision,7,14,,Diabetes,Penicillin,,Food Poisoning,Go to Emergency,Yes
+47,Female,Asian,Suburban,Middle,chest pain,8,15,none,None,Peanuts,,,Go to Emergency,Yes
+41,Female,Caucasian,Rural,High,numbness in legs,7,,none,None,Pollen,9,Common Cold,Go to Emergency,No
+60,Other,Asian,Urban,High,skin rash,3,23,fever,None,None,7,Sinus Infection,Go to Emergency,
+70,Male,Hispanic,,,skin rash,1,1,fever,,Penicillin,5,,Take Home Care Measures,No
+58,,Other,,Low,frequent urination,7,13,none,Diabetes,Peanuts,10,Gastroenteritis,Take Home Care Measures,
+63,Other,Hispanic,Urban,High,numbness in legs,9,25,muscle aches,Hypertension,Peanuts,6,Arthritis,Visit Doctor,Yes
+,Male,African American,Urban,,back pain and muscle stiffness,3,6,fever,Asthma,,1,Kidney Stones,Visit Doctor,Yes
+,Other,African American,Rural,High,chest pain,3,24,,,Pollen,,Allergic Reaction,Visit Doctor,No
+85,Other,Hispanic,Urban,Middle,joint pain and swelling,5,19,fatigue,Diabetes,Pollen,4,Migraine,Take Home Care Measures,No
+22,Male,Asian,Suburban,High,severe dizziness,,21,nausea,,None,1,Migraine,Go to Emergency,Yes
+26,Female,Hispanic,Suburban,Low,blurry vision,9,13,fatigue,,Penicillin,0,,Take Home Care Measures,Yes
+31,Female,Caucasian,Rural,High,fever and body aches,,9,fatigue,Diabetes,Penicillin,7,Flu,Visit Doctor,
+87,Male,Hispanic,Suburban,High,nausea and vomiting,1,27,fever,,Pollen,10,,Take Home Care Measures,No
+35,Other,Other,Urban,High,frequent urination,5,19,fever,Diabetes,None,4,Flu,Visit Doctor,No
+65,Male,Asian,Suburban,Middle,chest pain,3,29,none,None,Pollen,5,Hypertension,Take Home Care Measures,No
+,Other,Hispanic,Rural,Middle,numbness in legs,3,8,nausea,Asthma,Penicillin,3,,Visit Doctor,Yes
+53,Female,Hispanic,Urban,Low,numbness in legs,6,,,,Penicillin,7,Muscle Strain,Take Home Care Measures,No
+74,Female,Caucasian,Urban,Middle,,7,28,none,Hypertension,Peanuts,8,COVID-19,Go to Emergency,Yes
+65,,African American,Urban,High,blurry vision,3,,fever,Hypertension,Penicillin,,Migraine,Take Home Care Measures,
+,Other,African American,Urban,Low,joint pain and swelling,3,12,nausea,,Dust,8,Diabetes,Visit Doctor,No
+78,Female,African American,Suburban,High,severe dizziness,5,14,muscle aches,Asthma,Peanuts,2,Flu,Visit Doctor,
+39,Other,Asian,Urban,Middle,nausea and vomiting,1,23,none,None,None,0,Muscle Strain,Go to Emergency,No
+52,,Other,Rural,High,back pain and muscle stiffness,,,fatigue,None,None,,COVID-19,,Yes
+80,Other,Other,,High,sore throat and difficulty swallowing,3,25,nausea,Asthma,Penicillin,4,COVID-19,Go to Emergency,
+72,Male,African American,Rural,High,fever and body aches,10,25,fever,,Pollen,,Common Cold,,No
+89,,,Suburban,,persistent cough and shortness of breath,,20,nausea,Asthma,None,,Sinus Infection,Take Home Care Measures,No
+69,Male,Hispanic,Suburban,,nausea and vomiting,,11,fever,None,None,,,Take Home Care Measures,No
+56,Other,Other,Suburban,Middle,sore throat and difficulty swallowing,8,16,none,Asthma,Peanuts,6,Gastroenteritis,Go to Emergency,Yes
+40,Male,,Suburban,,blurry vision,6,27,,Diabetes,None,1,Muscle Strain,Take Home Care Measures,Yes
+24,Female,Hispanic,Rural,High,fatigue and weakness,1,,muscle aches,None,None,,Food Poisoning,Go to Emergency,
+72,Male,Other,Rural,High,sharp stomach pain,2,28,fatigue,None,Dust,1,Muscle Strain,,No
+26,Other,Other,Rural,High,frequent urination,5,11,fatigue,Diabetes,Peanuts,2,Hypertension,Go to Emergency,Yes
+45,Female,Asian,Urban,Low,,4,27,fatigue,Diabetes,Penicillin,8,Arthritis,Visit Doctor,Yes
+35,Male,African American,,,back pain and muscle stiffness,1,10,none,Hypertension,Dust,5,Gastroenteritis,Visit Doctor,Yes
+51,Female,Caucasian,Urban,Middle,blurry vision,6,19,fever,Hypertension,None,,Diabetes,Go to Emergency,No
+35,,Hispanic,Urban,,fever and body aches,9,20,muscle aches,,Pollen,6,Gastroenteritis,Take Home Care Measures,No
+44,Other,,Urban,Middle,skin rash,3,21,nausea,,Peanuts,6,Hypertension,Take Home Care Measures,No
+73,Male,Caucasian,Suburban,Middle,sharp stomach pain,1,26,muscle aches,Asthma,None,6,Sinus Infection,Visit Doctor,Yes
+,Male,Asian,Rural,High,mild headache,4,,fever,None,Pollen,,Migraine,,Yes
+,Male,Other,Urban,Middle,fever and body aches,10,22,nausea,,,3,Allergic Reaction,,Yes
+54,Male,Hispanic,Suburban,Low,skin rash,1,23,fever,Diabetes,None,2,Diabetes,Visit Doctor,No
+26,Male,,Suburban,Low,skin rash,2,17,,Diabetes,None,0,Arthritis,Take Home Care Measures,No
+46,Other,Other,Rural,,severe dizziness,8,,none,Diabetes,Peanuts,9,Hypertension,Visit Doctor,Yes
+89,Other,Other,Suburban,High,,2,9,fever,,None,0,Allergic Reaction,,Yes
+51,Female,Hispanic,,Low,,10,8,nausea,Asthma,Peanuts,2,Food Poisoning,,No
+48,Male,African American,,Low,,5,19,nausea,Asthma,Pollen,2,Food Poisoning,,Yes
+21,,,,High,sore throat and difficulty swallowing,4,19,fatigue,None,,3,Allergic Reaction,Go to Emergency,No
+45,Female,Hispanic,,High,sore throat and difficulty swallowing,1,23,muscle aches,Diabetes,Dust,,Muscle Strain,Visit Doctor,Yes
+54,Male,Other,Rural,,,3,2,,None,Peanuts,2,Muscle Strain,,No
+25,Female,,,Middle,chest pain,6,24,muscle aches,Hypertension,Penicillin,,Flu,Visit Doctor,
+,,Other,Rural,High,skin rash,6,8,,Diabetes,Pollen,4,Flu,,No
+20,Female,Asian,Urban,Low,skin rash,,4,nausea,Hypertension,Peanuts,8,Food Poisoning,,No
+21,Other,Asian,Suburban,Middle,frequent urination,,9,nausea,None,Dust,6,Arthritis,Take Home Care Measures,Yes
+29,Female,Caucasian,Rural,High,joint pain and swelling,8,28,,Asthma,Penicillin,5,Kidney Stones,Go to Emergency,Yes
+44,Other,Asian,Suburban,Low,fever and body aches,3,18,fatigue,,,0,Gastroenteritis,Take Home Care Measures,Yes
+,Female,Other,Rural,Low,nausea and vomiting,8,10,fatigue,Asthma,Peanuts,4,Arthritis,Take Home Care Measures,Yes
+82,,African American,Urban,Middle,sore throat and difficulty swallowing,4,,fatigue,,Dust,,Sinus Infection,Take Home Care Measures,Yes
+21,Female,Caucasian,Suburban,Middle,blurry vision,8,7,,,Penicillin,5,Allergic Reaction,,
+86,Other,Caucasian,Suburban,High,chest pain,7,17,none,None,Pollen,,Migraine,Take Home Care Measures,Yes
+82,Female,,Rural,High,frequent urination,2,24,nausea,Hypertension,Dust,3,Muscle Strain,Go to Emergency,Yes
+79,Male,Caucasian,Rural,,sore throat and difficulty swallowing,,30,none,Asthma,Dust,5,Muscle Strain,Take Home Care Measures,
+20,,Asian,Urban,Middle,back pain and muscle stiffness,8,9,fever,,Pollen,3,Allergic Reaction,Go to Emergency,
+32,,African American,Suburban,High,joint pain and swelling,,3,none,Diabetes,None,,Muscle Strain,Visit Doctor,No
+,Other,Asian,Urban,Low,sharp stomach pain,6,3,fatigue,Diabetes,None,9,Anxiety,Visit Doctor,Yes
+39,Female,Hispanic,Urban,High,fatigue and weakness,8,26,muscle aches,Asthma,Pollen,,Hypertension,Take Home Care Measures,No
+,Female,Asian,Rural,High,sore throat and difficulty swallowing,5,14,muscle aches,Diabetes,Penicillin,7,Sinus Infection,Go to Emergency,Yes
+18,Male,African American,Urban,Low,sore throat and difficulty swallowing,10,24,nausea,,None,3,Migraine,,Yes
+45,Male,Asian,Rural,Middle,blurry vision,10,2,none,Hypertension,,0,,Go to Emergency,No
+23,Male,Caucasian,Suburban,High,joint pain and swelling,7,20,none,None,Peanuts,10,Kidney Stones,Go to Emergency,No
+47,,Asian,Rural,,numbness in legs,2,30,fatigue,Hypertension,Penicillin,0,Muscle Strain,,No
+,Other,Hispanic,Urban,Middle,mild headache,4,4,fever,Asthma,None,,Sinus Infection,Go to Emergency,No
+45,Female,Hispanic,Suburban,,blurry vision,10,28,fatigue,Asthma,Penicillin,0,Migraine,Take Home Care Measures,Yes
+21,Male,Asian,,Middle,skin rash,,20,fatigue,None,Peanuts,3,Muscle Strain,Go to Emergency,No
+66,Female,Asian,,High,sore throat and difficulty swallowing,10,1,fatigue,Hypertension,,8,Hypertension,Go to Emergency,Yes
+77,Other,Other,,Middle,fatigue and weakness,7,8,fatigue,,,1,Flu,,Yes
+19,Female,African American,Rural,Middle,numbness in legs,3,9,none,,Dust,5,Migraine,Visit Doctor,Yes
+80,Other,,Suburban,High,joint pain and swelling,2,19,nausea,Asthma,Dust,7,Asthma,Go to Emergency,Yes
+53,Other,Caucasian,Urban,,,,19,none,Diabetes,Peanuts,3,Asthma,Take Home Care Measures,No
+89,Male,Other,Rural,High,mild headache,10,14,nausea,Diabetes,Pollen,6,Hypertension,Go to Emergency,No
+66,Male,,Suburban,Low,blurry vision,10,20,fatigue,,Peanuts,4,Migraine,Visit Doctor,No
+,Other,,Urban,High,blurry vision,8,15,muscle aches,,Penicillin,3,Hypertension,Go to Emergency,No
+23,Female,Hispanic,,,numbness in legs,2,21,fever,Diabetes,Dust,10,Common Cold,Visit Doctor,Yes
+68,Female,Caucasian,Rural,High,mild headache,,13,,Hypertension,Pollen,1,Sinus Infection,Take Home Care Measures,No
+28,Male,African American,Urban,Middle,back pain and muscle stiffness,6,3,muscle aches,Diabetes,Peanuts,2,,Visit Doctor,No
+,Other,Asian,,Middle,blurry vision,8,26,nausea,None,,7,,Visit Doctor,Yes
+24,Male,,,High,mild headache,6,13,fever,,Dust,4,Flu,Take Home Care Measures,No
+49,,Hispanic,,High,,1,14,fatigue,Diabetes,Penicillin,7,,Take Home Care Measures,Yes
+55,Male,Caucasian,Suburban,Low,severe dizziness,7,22,fatigue,Asthma,None,5,,Visit Doctor,No
+34,Female,Hispanic,Rural,,blurry vision,1,1,fatigue,Diabetes,Pollen,8,Hypertension,Visit Doctor,Yes
+58,Other,Caucasian,Rural,High,nausea and vomiting,2,4,none,None,None,8,,Take Home Care Measures,Yes
+35,,Other,Rural,High,back pain and muscle stiffness,3,20,none,,Penicillin,6,,Take Home Care Measures,Yes
+87,Female,Asian,Suburban,High,back pain and muscle stiffness,8,27,,,None,3,,Visit Doctor,No
+53,Male,Other,Suburban,Middle,,3,24,muscle aches,Diabetes,Dust,4,Arthritis,Visit Doctor,Yes
+,Male,Hispanic,Urban,Low,nausea and vomiting,7,24,fever,Diabetes,,,Arthritis,Go to Emergency,Yes
+75,Male,Caucasian,Urban,,sharp stomach pain,4,18,fatigue,Hypertension,,4,Food Poisoning,Take Home Care Measures,No
+67,Other,Hispanic,Urban,,mild headache,9,16,fever,Diabetes,Peanuts,7,Anxiety,Visit Doctor,No
+66,Female,Asian,Rural,Low,mild headache,4,28,none,None,None,,Arthritis,Take Home Care Measures,Yes
+26,Female,Asian,Rural,Low,fatigue and weakness,10,6,nausea,None,Peanuts,10,Muscle Strain,Take Home Care Measures,No
+75,Male,Other,Urban,Low,severe dizziness,,,none,Hypertension,Pollen,7,,Take Home Care Measures,No
+24,Male,Caucasian,,High,skin rash,,12,nausea,Asthma,Penicillin,10,Kidney Stones,Go to Emergency,Yes
+69,Other,African American,Suburban,Middle,frequent urination,2,17,fatigue,Asthma,Peanuts,0,,Take Home Care Measures,Yes
+,Other,African American,Urban,Middle,chest pain,6,,nausea,None,None,3,Asthma,Go to Emergency,No
+19,Other,Hispanic,Urban,Middle,chest pain,8,,fatigue,Hypertension,None,1,Asthma,Go to Emergency,
+55,Female,Other,Rural,High,blurry vision,5,8,muscle aches,Hypertension,Peanuts,0,Migraine,Take Home Care Measures,Yes
+31,Male,,Suburban,Middle,persistent cough and shortness of breath,3,17,none,Asthma,Peanuts,3,Diabetes,Visit Doctor,Yes
+42,Male,Asian,,Low,chest pain,8,22,muscle aches,Diabetes,,8,Common Cold,Take Home Care Measures,Yes
+39,Male,Asian,Rural,High,chest pain,3,9,fever,,Penicillin,,,Go to Emergency,No
+48,Male,African American,Rural,Low,fever and body aches,7,22,nausea,Asthma,,,COVID-19,Take Home Care Measures,Yes
+53,Male,Caucasian,,Low,mild headache,8,22,,Asthma,Pollen,2,Gastroenteritis,Go to Emergency,No
+32,Other,Caucasian,,Low,sore throat and difficulty swallowing,4,,muscle aches,Hypertension,,1,,Go to Emergency,Yes
+74,Male,,Suburban,Middle,blurry vision,2,28,muscle aches,Asthma,Pollen,6,COVID-19,Visit Doctor,
+37,Female,Other,Rural,Middle,numbness in legs,5,,none,Diabetes,Pollen,3,Muscle Strain,,Yes
+70,Other,,Rural,High,back pain and muscle stiffness,4,12,none,None,Pollen,2,Food Poisoning,Take Home Care Measures,No
+79,,African American,Suburban,Low,fever and body aches,3,8,fever,Diabetes,Pollen,6,Sinus Infection,,No
+57,,,Suburban,Low,blurry vision,2,7,muscle aches,,Penicillin,,Diabetes,Go to Emergency,No
+,Male,African American,,,mild headache,8,14,,Diabetes,Dust,2,Hypertension,Take Home Care Measures,Yes
+40,Female,Hispanic,Rural,Middle,numbness in legs,7,11,,Asthma,Dust,7,Food Poisoning,Take Home Care Measures,Yes
+,Male,Asian,Urban,Middle,fatigue and weakness,4,22,muscle aches,None,Peanuts,5,Anxiety,Visit Doctor,Yes
+30,Male,,,High,skin rash,2,,fever,Asthma,None,6,Sinus Infection,Take Home Care Measures,No
+30,Female,,Suburban,Low,chest pain,3,10,nausea,Asthma,Penicillin,7,Asthma,Visit Doctor,No
+71,Other,Caucasian,Suburban,Low,back pain and muscle stiffness,6,22,nausea,Asthma,Peanuts,2,Anxiety,Visit Doctor,No
+,Male,Asian,Urban,High,fatigue and weakness,4,18,none,Asthma,Penicillin,3,Common Cold,Take Home Care Measures,
+29,Male,Caucasian,Suburban,Low,,8,25,,Hypertension,Peanuts,4,Migraine,Go to Emergency,No
+18,,Hispanic,Rural,,mild headache,3,3,nausea,None,Peanuts,7,Asthma,Go to Emergency,Yes
+,Male,Caucasian,Urban,Low,persistent cough and shortness of breath,6,5,none,,None,1,Flu,,Yes
+38,,Asian,Suburban,High,blurry vision,9,9,fatigue,Asthma,,5,Arthritis,Go to Emergency,
+63,Other,Hispanic,Rural,Low,joint pain and swelling,,27,muscle aches,Diabetes,Penicillin,4,Asthma,Go to Emergency,No
+,Female,Hispanic,Urban,Middle,mild headache,8,13,nausea,Diabetes,None,4,Common Cold,Go to Emergency,No
+29,Female,African American,Urban,Low,fatigue and weakness,1,24,,Hypertension,None,3,Arthritis,Take Home Care Measures,
+67,,Asian,Rural,,fatigue and weakness,8,16,nausea,None,Pollen,9,Flu,Take Home Care Measures,
+70,Other,Caucasian,Suburban,Middle,nausea and vomiting,10,16,muscle aches,Diabetes,None,4,Flu,Go to Emergency,Yes
+43,Male,Other,Urban,Low,,1,9,nausea,None,Peanuts,10,Sinus Infection,Go to Emergency,Yes
+,Female,Other,Rural,High,severe dizziness,1,,fever,Asthma,,10,Flu,Go to Emergency,Yes
+,Male,Asian,Rural,High,mild headache,7,23,nausea,,Penicillin,6,,Go to Emergency,Yes
+42,Male,,Rural,Middle,sharp stomach pain,4,,muscle aches,Hypertension,None,2,,,No
+,,Caucasian,Suburban,High,joint pain and swelling,8,27,muscle aches,Diabetes,Pollen,4,Anxiety,Go to Emergency,
+73,Female,Hispanic,Rural,Middle,sharp stomach pain,8,27,,None,Peanuts,5,COVID-19,Take Home Care Measures,Yes
+28,Female,Asian,Suburban,Low,joint pain and swelling,8,6,nausea,None,Peanuts,,Asthma,,Yes
+84,Male,Hispanic,Urban,Low,joint pain and swelling,,,nausea,None,,,Anxiety,Go to Emergency,No
+58,Other,Caucasian,Urban,Middle,blurry vision,7,10,,,Dust,1,Food Poisoning,Go to Emergency,No
+61,Other,,Urban,,blurry vision,1,18,fever,Asthma,Penicillin,,COVID-19,Go to Emergency,No
+67,Other,African American,Rural,High,,10,16,none,Hypertension,Peanuts,7,Gastroenteritis,Visit Doctor,No
+61,Female,Caucasian,Suburban,Middle,chest pain,9,28,nausea,Diabetes,None,4,Hypertension,Visit Doctor,Yes
+87,Male,,Suburban,Middle,fever and body aches,8,19,nausea,Diabetes,Penicillin,1,Flu,Take Home Care Measures,No
+82,Female,Other,Suburban,High,frequent urination,8,,,Diabetes,Peanuts,0,Allergic Reaction,,No
+90,Other,Caucasian,Suburban,Middle,back pain and muscle stiffness,8,16,muscle aches,,Pollen,5,Allergic Reaction,Go to Emergency,Yes
+,Male,,Suburban,Middle,blurry vision,,24,none,Asthma,Penicillin,10,Common Cold,Go to Emergency,No
+56,,Hispanic,Urban,High,persistent cough and shortness of breath,8,16,,None,Peanuts,6,Sinus Infection,Take Home Care Measures,Yes
+,Female,Other,Rural,Middle,persistent cough and shortness of breath,8,2,none,Hypertension,Pollen,9,Migraine,Visit Doctor,No
+46,,African American,Suburban,Middle,skin rash,6,22,none,Diabetes,Peanuts,1,,Go to Emergency,No
+38,Male,Other,Rural,Middle,severe dizziness,3,,muscle aches,Hypertension,None,10,Food Poisoning,Visit Doctor,Yes
+29,Female,,Rural,Low,,2,24,fatigue,Asthma,Peanuts,5,Arthritis,Visit Doctor,No
+42,Female,Caucasian,Rural,Low,skin rash,9,,muscle aches,None,Dust,0,Anxiety,Visit Doctor,Yes
+67,Male,Other,Urban,Low,persistent cough and shortness of breath,2,1,muscle aches,Hypertension,Pollen,9,Hypertension,Visit Doctor,No
+77,Other,,Suburban,High,nausea and vomiting,4,28,muscle aches,,Peanuts,3,COVID-19,Visit Doctor,No
+,Male,,,Middle,skin rash,8,10,muscle aches,Hypertension,,2,Muscle Strain,Go to Emergency,No
+33,Female,Asian,Suburban,High,persistent cough and shortness of breath,6,2,fatigue,Asthma,Dust,4,COVID-19,Go to Emergency,Yes
+47,Female,Other,Suburban,Low,,4,,muscle aches,,None,4,Food Poisoning,,No
+56,Other,,Rural,,sharp stomach pain,7,,fever,Hypertension,None,8,Diabetes,Take Home Care Measures,No
+26,Male,Hispanic,Suburban,High,sharp stomach pain,7,14,muscle aches,Asthma,Penicillin,4,Flu,,No
+41,Male,Hispanic,Suburban,,fever and body aches,3,29,fever,Hypertension,Penicillin,6,Gastroenteritis,Go to Emergency,No
+31,Other,Hispanic,,Middle,frequent urination,3,24,muscle aches,,Penicillin,,Asthma,Visit Doctor,No
+,Female,Caucasian,Rural,Middle,persistent cough and shortness of breath,10,19,none,Hypertension,,6,Flu,Take Home Care Measures,Yes
+50,Female,Asian,Urban,Middle,nausea and vomiting,10,15,fever,Diabetes,Dust,5,Gastroenteritis,,No
+21,Male,,,,chest pain,2,24,muscle aches,Diabetes,Penicillin,5,Kidney Stones,Take Home Care Measures,Yes
+83,,Asian,Suburban,High,,5,2,fatigue,None,Pollen,5,Muscle Strain,,Yes
+,,Asian,Suburban,Low,skin rash,4,25,muscle aches,None,None,,,Visit Doctor,Yes
+80,,,Rural,Low,blurry vision,10,6,fatigue,Hypertension,Dust,,Muscle Strain,Visit Doctor,Yes
+87,,African American,Urban,,fatigue and weakness,8,21,none,Diabetes,Dust,7,,Visit Doctor,
+,Other,,Rural,Middle,blurry vision,7,15,,Hypertension,,5,Hypertension,Visit Doctor,No
+55,,Asian,Rural,Middle,joint pain and swelling,,,fever,Asthma,None,10,Flu,Take Home Care Measures,Yes
+57,Male,African American,Rural,,fatigue and weakness,8,28,none,None,Dust,2,Hypertension,,Yes
+86,Other,African American,Suburban,,,5,20,nausea,Diabetes,Penicillin,1,,Visit Doctor,
+83,,Other,,High,fatigue and weakness,4,28,fever,Asthma,None,7,Common Cold,Take Home Care Measures,Yes
+56,Female,Other,Rural,Middle,,9,13,nausea,,Peanuts,4,COVID-19,Take Home Care Measures,No
+65,Male,African American,Urban,Middle,severe dizziness,9,30,fatigue,,Dust,4,Hypertension,Go to Emergency,Yes
+,Male,Asian,,Low,fatigue and weakness,9,3,fatigue,Hypertension,Dust,1,Migraine,Visit Doctor,No
+39,Male,Caucasian,Rural,High,nausea and vomiting,9,2,muscle aches,Diabetes,Penicillin,2,Arthritis,Take Home Care Measures,Yes
+18,Female,,Rural,Middle,persistent cough and shortness of breath,7,18,fever,Diabetes,Peanuts,,,Go to Emergency,
+89,Female,Other,Urban,Middle,,6,1,fatigue,Asthma,Pollen,6,Gastroenteritis,Go to Emergency,
+38,Male,Caucasian,Urban,,sharp stomach pain,10,19,muscle aches,Hypertension,None,4,Arthritis,Take Home Care Measures,
+39,Male,Asian,Suburban,Low,,,8,nausea,,Peanuts,2,Anxiety,Take Home Care Measures,Yes
+48,Other,,Rural,High,mild headache,7,3,fever,Asthma,Peanuts,10,,,
+22,,Caucasian,,,mild headache,7,15,none,Hypertension,,8,Asthma,Go to Emergency,No
+31,Female,African American,,Low,sore throat and difficulty swallowing,4,5,fatigue,Asthma,None,7,Sinus Infection,Visit Doctor,No
+24,Male,Asian,Urban,Low,fever and body aches,3,29,muscle aches,Asthma,Peanuts,4,Kidney Stones,Take Home Care Measures,No
+22,Other,,Rural,Middle,joint pain and swelling,6,13,none,None,Dust,4,Anxiety,Visit Doctor,Yes
+68,Other,,Rural,High,severe dizziness,4,,fever,Diabetes,,6,Arthritis,Take Home Care Measures,No
+18,,Caucasian,Suburban,,sharp stomach pain,10,28,,Hypertension,Dust,5,Common Cold,Take Home Care Measures,No
+33,Other,,Rural,Middle,numbness in legs,1,28,muscle aches,,Penicillin,,Common Cold,Go to Emergency,No
+,Other,Other,Urban,Middle,blurry vision,1,20,none,None,Dust,9,Allergic Reaction,Take Home Care Measures,Yes
+82,Male,Hispanic,Urban,Low,skin rash,10,11,fatigue,Asthma,Pollen,,,Go to Emergency,No
+77,,Hispanic,Suburban,High,sore throat and difficulty swallowing,10,,,Diabetes,None,7,Migraine,Go to Emergency,Yes
+,Other,Other,Rural,Middle,frequent urination,3,,fatigue,Hypertension,,,,Go to Emergency,No
+,Other,,Suburban,Middle,chest pain,5,19,nausea,Asthma,,4,,Take Home Care Measures,Yes
+84,,Other,Rural,Middle,persistent cough and shortness of breath,,,fatigue,None,Peanuts,10,Hypertension,Take Home Care Measures,No
+35,,African American,Urban,Low,persistent cough and shortness of breath,5,15,muscle aches,Asthma,,10,Allergic Reaction,Go to Emergency,Yes
+27,,Other,Urban,Middle,frequent urination,8,11,nausea,Diabetes,Dust,,COVID-19,Go to Emergency,No
+48,Other,,Urban,Middle,mild headache,3,26,fever,Asthma,Peanuts,5,Asthma,Take Home Care Measures,No
+58,Female,Caucasian,Rural,,persistent cough and shortness of breath,4,21,fever,None,Peanuts,4,Migraine,Take Home Care Measures,
+78,Female,African American,,Middle,joint pain and swelling,10,29,none,None,Peanuts,,Asthma,Take Home Care Measures,Yes
+29,Other,Hispanic,Rural,Middle,numbness in legs,4,20,,None,Penicillin,4,COVID-19,Take Home Care Measures,Yes
+52,Other,Caucasian,Suburban,Low,blurry vision,10,2,fatigue,Hypertension,Pollen,3,Sinus Infection,Visit Doctor,No
+43,,Asian,Suburban,High,blurry vision,,23,nausea,Diabetes,Dust,10,Muscle Strain,Take Home Care Measures,Yes
+34,Other,Caucasian,Urban,Middle,sore throat and difficulty swallowing,7,,muscle aches,Hypertension,,9,Arthritis,Take Home Care Measures,No
+23,Other,Other,Rural,,,10,22,,Asthma,Penicillin,4,,Visit Doctor,Yes
+24,Male,Other,Urban,High,joint pain and swelling,6,13,fever,,Dust,,Muscle Strain,Go to Emergency,Yes
+32,,,Urban,,back pain and muscle stiffness,2,28,muscle aches,Hypertension,,9,Arthritis,,Yes
+19,Male,,Urban,High,fever and body aches,5,,fever,None,Peanuts,8,Diabetes,,No
+,Female,Caucasian,Suburban,Low,frequent urination,2,28,nausea,Hypertension,Dust,1,Diabetes,,Yes
+34,Female,,Suburban,Middle,skin rash,3,29,fever,Hypertension,Pollen,5,Food Poisoning,,
+,Male,,Rural,High,nausea and vomiting,5,14,,,Penicillin,5,Diabetes,Visit Doctor,Yes
+24,Female,Asian,Urban,High,sharp stomach pain,6,,none,None,Dust,4,Allergic Reaction,Take Home Care Measures,No
+76,Male,Hispanic,Rural,Middle,persistent cough and shortness of breath,4,7,,Diabetes,Peanuts,7,Kidney Stones,Go to Emergency,
+25,Other,African American,Rural,Low,,3,17,fatigue,Hypertension,None,7,Sinus Infection,Go to Emergency,No
+84,Male,Caucasian,Suburban,Low,blurry vision,6,23,fatigue,Hypertension,Peanuts,1,,Go to Emergency,Yes
+48,Other,Asian,Urban,Low,persistent cough and shortness of breath,,20,nausea,,Penicillin,10,Hypertension,,
+21,,African American,Rural,Low,frequent urination,,,,Hypertension,Peanuts,8,COVID-19,Take Home Care Measures,No
+35,,Other,Suburban,Low,sharp stomach pain,10,,fatigue,None,None,5,Kidney Stones,,
+55,Male,Asian,Rural,,,5,30,nausea,,Pollen,,Diabetes,Go to Emergency,Yes
+41,Male,Caucasian,Urban,High,sharp stomach pain,5,18,none,Diabetes,None,6,Common Cold,Go to Emergency,No
+58,Other,Asian,Rural,Low,persistent cough and shortness of breath,9,26,fatigue,Asthma,None,2,,Take Home Care Measures,Yes
+71,Male,Asian,Rural,High,nausea and vomiting,7,19,muscle aches,Diabetes,Peanuts,1,Allergic Reaction,Go to Emergency,No
+76,Male,Asian,Suburban,Low,nausea and vomiting,4,6,fever,Asthma,Dust,7,Sinus Infection,Go to Emergency,No
+22,Male,Hispanic,Urban,Middle,joint pain and swelling,10,7,none,None,None,7,Asthma,,Yes
+68,Male,Hispanic,Suburban,Middle,blurry vision,7,23,none,,Penicillin,9,Muscle Strain,Go to Emergency,No
+64,Female,Other,Urban,High,,10,15,none,Diabetes,Pollen,0,Common Cold,Take Home Care Measures,No
+77,Female,African American,Rural,Low,blurry vision,10,19,fatigue,Diabetes,Penicillin,5,Flu,Visit Doctor,
+27,Female,Asian,Rural,High,chest pain,7,9,,Diabetes,,9,Common Cold,Visit Doctor,No
+89,Other,African American,Suburban,Middle,frequent urination,3,14,,Hypertension,,,Hypertension,Visit Doctor,Yes
+54,Female,Caucasian,Rural,Low,mild headache,6,18,muscle aches,Asthma,Dust,5,Food Poisoning,,No
+81,Female,Hispanic,Rural,Middle,mild headache,2,30,nausea,,Pollen,3,Flu,,Yes
+61,,Other,Urban,Low,sore throat and difficulty swallowing,,29,fever,,Peanuts,7,Food Poisoning,Take Home Care Measures,No
+74,Male,Hispanic,Suburban,High,skin rash,,28,,,,10,Kidney Stones,Go to Emergency,Yes
+,Male,Caucasian,Suburban,High,severe dizziness,8,21,nausea,Hypertension,Pollen,4,Asthma,Take Home Care Measures,No
+83,Female,African American,Suburban,Low,fever and body aches,,29,muscle aches,Diabetes,Penicillin,10,Food Poisoning,Go to Emergency,No
+67,Female,Asian,Rural,High,fever and body aches,6,26,nausea,Diabetes,Pollen,4,Muscle Strain,Visit Doctor,No
+54,Female,African American,Suburban,High,joint pain and swelling,6,22,nausea,Hypertension,Dust,9,Muscle Strain,Visit Doctor,Yes
+70,,Other,,Middle,sore throat and difficulty swallowing,3,21,muscle aches,Diabetes,,10,COVID-19,,Yes
+,Male,Caucasian,Urban,Middle,sore throat and difficulty swallowing,9,10,fatigue,Diabetes,,3,Gastroenteritis,Take Home Care Measures,Yes
+21,Other,African American,Suburban,Low,sore throat and difficulty swallowing,6,8,fatigue,,None,9,Hypertension,Take Home Care Measures,Yes
+77,Female,Other,Urban,Middle,chest pain,9,4,nausea,None,Pollen,,Food Poisoning,Visit Doctor,Yes
+61,Female,African American,Rural,Low,nausea and vomiting,1,11,fatigue,Hypertension,,,Diabetes,Visit Doctor,
+83,Other,Other,Rural,Middle,mild headache,8,26,nausea,,Peanuts,3,Muscle Strain,,No
+87,Male,,Urban,High,sore throat and difficulty swallowing,3,,fever,None,Peanuts,8,Migraine,Go to Emergency,No
+32,Other,Other,Rural,Middle,mild headache,8,17,nausea,None,Peanuts,5,Gastroenteritis,Visit Doctor,Yes
+18,,African American,Rural,Low,back pain and muscle stiffness,6,1,nausea,Diabetes,,1,COVID-19,Go to Emergency,
+70,Male,Caucasian,,High,sharp stomach pain,9,30,fever,Diabetes,Dust,9,Migraine,Go to Emergency,No
+24,Male,African American,Rural,High,,1,13,muscle aches,Hypertension,Dust,5,Food Poisoning,,Yes
+,,Hispanic,Rural,Low,back pain and muscle stiffness,6,4,none,,Penicillin,10,Anxiety,Visit Doctor,No
+81,Male,Asian,,Middle,,,4,muscle aches,None,Penicillin,6,Common Cold,Go to Emergency,
+67,Other,Other,Rural,,numbness in legs,,,nausea,Diabetes,Peanuts,1,Allergic Reaction,Take Home Care Measures,No
+90,Other,,Urban,,back pain and muscle stiffness,6,21,nausea,,Peanuts,,Asthma,Take Home Care Measures,Yes
+43,Male,African American,,Middle,joint pain and swelling,9,18,muscle aches,Diabetes,Pollen,1,Common Cold,Take Home Care Measures,No
+50,Other,Caucasian,Suburban,Middle,sharp stomach pain,4,26,,Asthma,Pollen,9,,Take Home Care Measures,
+43,Other,Other,Rural,,back pain and muscle stiffness,2,25,fatigue,Hypertension,Peanuts,1,Gastroenteritis,Visit Doctor,
+,,,Suburban,Low,numbness in legs,1,22,,None,None,1,Asthma,Go to Emergency,Yes
+83,Other,Asian,Urban,High,mild headache,7,21,fever,Hypertension,Penicillin,0,Flu,Take Home Care Measures,Yes
+64,Male,Asian,Urban,Middle,fever and body aches,2,30,fever,Diabetes,Penicillin,5,Hypertension,Take Home Care Measures,
+77,Other,Hispanic,Rural,,fatigue and weakness,3,1,fatigue,Asthma,,9,Common Cold,Go to Emergency,No
+,,African American,Rural,,severe dizziness,7,12,none,,Dust,,,Visit Doctor,Yes
+47,Female,Hispanic,Suburban,Middle,chest pain,6,9,,None,Pollen,,,Go to Emergency,No
+44,,Caucasian,Urban,Low,frequent urination,6,17,,None,Penicillin,4,COVID-19,Visit Doctor,Yes
+70,Male,Asian,Rural,High,skin rash,7,9,none,None,,9,Hypertension,Visit Doctor,No
+82,,Other,Suburban,High,mild headache,,20,muscle aches,Diabetes,None,5,Muscle Strain,Take Home Care Measures,Yes
+88,,Hispanic,Rural,Middle,blurry vision,1,28,,Diabetes,Penicillin,0,Muscle Strain,Take Home Care Measures,Yes
+62,,Caucasian,Rural,High,joint pain and swelling,5,16,,Diabetes,Dust,3,Muscle Strain,Visit Doctor,Yes
+,Male,African American,Suburban,Middle,back pain and muscle stiffness,4,17,muscle aches,Diabetes,,6,Anxiety,Take Home Care Measures,Yes
+61,,Asian,Urban,Low,nausea and vomiting,9,1,muscle aches,Hypertension,,8,Muscle Strain,,Yes
+,Female,African American,Urban,High,back pain and muscle stiffness,,26,fatigue,None,Penicillin,6,Kidney Stones,Visit Doctor,Yes
+,Male,,Urban,Low,mild headache,1,,nausea,,,9,Sinus Infection,Visit Doctor,Yes
+46,Male,Other,Urban,,sharp stomach pain,4,,muscle aches,Hypertension,None,5,,Take Home Care Measures,Yes
+26,Male,,Rural,High,numbness in legs,1,15,nausea,Asthma,Pollen,,Diabetes,Take Home Care Measures,No
+36,Female,African American,Urban,Middle,fever and body aches,6,19,nausea,Asthma,Peanuts,8,Allergic Reaction,Take Home Care Measures,No
+85,Other,African American,Urban,Middle,fever and body aches,,,muscle aches,None,Penicillin,3,Flu,,No
+67,Male,,Rural,Low,numbness in legs,,14,muscle aches,Asthma,Penicillin,9,COVID-19,Go to Emergency,Yes
+47,Other,Caucasian,Suburban,High,,,,muscle aches,Diabetes,Penicillin,9,Hypertension,Visit Doctor,No
+28,Female,Hispanic,Rural,Middle,,10,15,nausea,Asthma,Pollen,,Anxiety,Go to Emergency,No
+62,Male,Hispanic,Urban,,frequent urination,10,22,nausea,None,Peanuts,,Diabetes,Visit Doctor,No
+25,Male,Caucasian,Urban,Low,sharp stomach pain,7,9,muscle aches,Asthma,Peanuts,7,,Go to Emergency,Yes
+66,Female,African American,Rural,Low,persistent cough and shortness of breath,2,16,nausea,Hypertension,Peanuts,3,,Take Home Care Measures,No
+69,Other,Asian,Rural,Low,fever and body aches,6,17,nausea,None,Dust,5,Diabetes,Go to Emergency,Yes
+80,Male,Other,Rural,High,severe dizziness,,16,fatigue,Hypertension,,8,COVID-19,Go to Emergency,No
+,Male,Hispanic,Rural,Middle,severe dizziness,4,8,fever,,,2,,,Yes
+64,,Caucasian,Urban,High,frequent urination,5,,none,,Dust,8,,Visit Doctor,No
+22,,Asian,Rural,High,skin rash,6,7,muscle aches,,Peanuts,8,Migraine,,No
+68,,Hispanic,Rural,Middle,nausea and vomiting,,25,nausea,,None,4,Diabetes,Go to Emergency,Yes
+21,Other,Asian,Rural,Low,sore throat and difficulty swallowing,10,18,nausea,None,Penicillin,4,Gastroenteritis,Go to Emergency,
+50,Female,Asian,Rural,Middle,sore throat and difficulty swallowing,9,30,none,None,Dust,4,Food Poisoning,Visit Doctor,
+,Other,Asian,,Middle,nausea and vomiting,8,21,none,,Penicillin,0,Food Poisoning,Go to Emergency,No
+36,Other,Asian,Suburban,Middle,fever and body aches,8,11,fatigue,,Pollen,7,Asthma,Take Home Care Measures,Yes
+87,Other,Asian,Urban,Low,sharp stomach pain,3,18,,None,Dust,1,COVID-19,Go to Emergency,No
+,Other,Other,,Low,persistent cough and shortness of breath,9,8,fever,Asthma,Penicillin,,Gastroenteritis,Visit Doctor,Yes
+73,Other,Asian,Rural,Middle,frequent urination,8,11,muscle aches,Hypertension,Peanuts,4,Asthma,Visit Doctor,Yes
+42,Male,Caucasian,Rural,Middle,blurry vision,9,15,none,None,Peanuts,1,,Take Home Care Measures,
+,Other,,Rural,High,sharp stomach pain,7,17,muscle aches,Diabetes,Dust,7,Food Poisoning,Take Home Care Measures,
+19,Female,,Suburban,High,back pain and muscle stiffness,3,5,fatigue,Hypertension,Pollen,3,Diabetes,Visit Doctor,No
+62,Female,Other,,Middle,sore throat and difficulty swallowing,9,25,,,None,,Allergic Reaction,Visit Doctor,Yes
+34,Female,Other,,Low,chest pain,10,17,nausea,Diabetes,None,3,Muscle Strain,Go to Emergency,
+64,Male,African American,Suburban,Middle,sharp stomach pain,2,23,fatigue,None,Penicillin,1,Asthma,Visit Doctor,No
+21,,Caucasian,,Low,severe dizziness,4,8,nausea,None,Pollen,5,Food Poisoning,,Yes
+84,Male,Caucasian,Rural,Low,sharp stomach pain,4,17,fever,Asthma,Dust,1,Arthritis,Visit Doctor,Yes
+,Other,African American,Rural,Low,severe dizziness,1,18,,Diabetes,Dust,0,Diabetes,,
+,Female,Hispanic,Suburban,Middle,,9,5,fatigue,Diabetes,Dust,10,,Take Home Care Measures,Yes
+27,Other,Other,,High,frequent urination,10,13,fatigue,None,Dust,0,Flu,Visit Doctor,
+30,Male,Hispanic,Suburban,Low,fever and body aches,10,3,fatigue,Hypertension,Peanuts,3,COVID-19,Visit Doctor,Yes
+35,Male,Other,Urban,Low,fatigue and weakness,8,14,fever,Asthma,Pollen,3,Sinus Infection,Visit Doctor,Yes
+58,Other,African American,Suburban,Middle,,8,19,fatigue,None,Peanuts,5,,Visit Doctor,Yes
+43,Other,Caucasian,Suburban,Middle,,4,15,fever,None,Peanuts,4,Allergic Reaction,Go to Emergency,No
+48,,African American,Suburban,Middle,frequent urination,2,29,fever,Diabetes,None,6,Food Poisoning,Take Home Care Measures,Yes
+38,Other,Asian,Urban,Middle,joint pain and swelling,3,,muscle aches,Hypertension,Pollen,2,Allergic Reaction,Visit Doctor,No
+,Male,,Urban,Low,frequent urination,10,19,fatigue,Asthma,None,,Sinus Infection,Take Home Care Measures,Yes
+,Female,Other,Suburban,Low,back pain and muscle stiffness,6,,fever,Hypertension,Pollen,0,,Go to Emergency,Yes
+,Female,,Urban,High,,1,,muscle aches,Diabetes,Peanuts,8,Allergic Reaction,Go to Emergency,No
+68,Other,Asian,Rural,Middle,,3,13,muscle aches,None,,10,Diabetes,Take Home Care Measures,Yes
+19,Other,Asian,Suburban,Middle,nausea and vomiting,7,15,fever,None,Peanuts,3,Food Poisoning,Visit Doctor,No
+,Female,,Rural,Low,blurry vision,6,,muscle aches,,None,0,Flu,Go to Emergency,
+90,Other,African American,Urban,Low,fatigue and weakness,5,15,fatigue,Diabetes,Penicillin,6,Kidney Stones,Go to Emergency,Yes
+79,Female,Other,Urban,Low,mild headache,,14,fatigue,Diabetes,Pollen,6,Food Poisoning,Take Home Care Measures,No
+,Other,Hispanic,Suburban,,skin rash,,25,none,None,Pollen,0,,Go to Emergency,Yes
+57,Other,Asian,Rural,High,,9,27,fatigue,Hypertension,Peanuts,4,Common Cold,Go to Emergency,No
+,Other,African American,,Middle,blurry vision,3,,fever,Diabetes,Pollen,10,Asthma,Visit Doctor,Yes
+60,Female,,Rural,High,persistent cough and shortness of breath,,11,muscle aches,Hypertension,,9,Asthma,Take Home Care Measures,Yes
+77,Female,Other,Suburban,High,sore throat and difficulty swallowing,1,20,,Diabetes,Peanuts,5,Gastroenteritis,,No
+67,,Hispanic,Rural,Middle,,3,2,,Hypertension,Peanuts,2,Flu,Go to Emergency,Yes
+30,Male,Caucasian,Suburban,Middle,severe dizziness,9,25,none,Hypertension,Peanuts,,Allergic Reaction,Visit Doctor,No
+36,Other,Hispanic,Suburban,,sharp stomach pain,6,10,muscle aches,None,Dust,6,Food Poisoning,Take Home Care Measures,No
+86,Other,Asian,Suburban,Middle,severe dizziness,2,18,,None,None,10,Asthma,Take Home Care Measures,No
+52,Other,Asian,Rural,High,numbness in legs,1,23,muscle aches,Diabetes,Dust,8,Migraine,Go to Emergency,No
+77,Female,African American,Rural,High,fever and body aches,7,22,,Diabetes,Peanuts,3,Muscle Strain,Visit Doctor,No
+34,Other,Caucasian,Urban,Low,skin rash,5,22,,None,Dust,4,Migraine,Go to Emergency,Yes
+68,Other,Hispanic,Rural,Middle,persistent cough and shortness of breath,5,,none,None,None,7,,Take Home Care Measures,No
+59,Other,Hispanic,Urban,Middle,,5,16,fatigue,Asthma,,8,Anxiety,,Yes
+,Other,Hispanic,Urban,Middle,sore throat and difficulty swallowing,5,,,Diabetes,None,,,Go to Emergency,No
+45,Male,Other,Urban,,skin rash,5,18,,Asthma,None,0,Asthma,Go to Emergency,No
+19,Other,Caucasian,Suburban,Middle,,9,4,muscle aches,Diabetes,Pollen,7,COVID-19,Go to Emergency,No
+,Male,Other,Rural,Middle,sharp stomach pain,,19,,Hypertension,Penicillin,7,Flu,Visit Doctor,No
+58,,Asian,Urban,Low,sharp stomach pain,4,19,none,None,Penicillin,1,Diabetes,Visit Doctor,Yes
+,Male,Hispanic,Urban,,skin rash,10,,nausea,Hypertension,Dust,6,,,
+80,,Asian,,High,chest pain,6,14,fatigue,None,,3,Flu,Take Home Care Measures,Yes
+48,Other,Asian,,High,numbness in legs,10,3,muscle aches,None,None,8,COVID-19,Take Home Care Measures,No
+44,Female,African American,Urban,Low,blurry vision,9,12,muscle aches,Hypertension,Peanuts,1,Gastroenteritis,,Yes
+83,Male,,Suburban,Middle,joint pain and swelling,,26,,None,None,,Gastroenteritis,Go to Emergency,
