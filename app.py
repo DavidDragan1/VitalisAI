@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template
 from api_inference import query
-import re
+import re, csv
 
 
 app = Flask(__name__)
@@ -32,6 +32,9 @@ def diagnosis():
     formatted_output, body_area = format_output(output)
     selected_img = returnImage()
     bmi_status = evalBmi(float(bmi))
+
+    # logging user input for future reinforcement training
+    log_input(age, sex, conditions, occupation, bmi, symptoms, formatted_output)
 
     # Render the result in the template
     return render_template('response.html', output=formatted_output, anat_img=selected_img, bmi=bmi, bmi_status=bmi_status)
@@ -110,5 +113,35 @@ def returnImage():
             selected_img = "img/wrists.png"
         case "whole body/skin":
             selected_img = "img/red.png"
+        case "feet":
+            selected_img = "img/feet.png"
     
     return selected_img
+
+
+def log_input(age, sex, conditions, occupation, bmi, symptoms, diagnosis):
+    with open('usg_logs.csv', mode='a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+    
+        writer.writerow([age, sex, conditions, occupation, bmi, symptoms, diagnosis])
+
+
+
+
+# survey route with logic for logging survey submission
+@app.route('/survey', methods=['POST'])
+def callSurvey():
+    return render_template('survey.html')
+
+def log_survey():
+    # get form inputs
+    rating = request.form.get('rating')
+    feedback = request.form.get('feedback-text')
+
+    # write to csv log file
+    with open('survey_logs.csv', mode='a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+    
+        writer.writerow([rating, feedback])
+
+    

@@ -192,3 +192,65 @@ sup {
     width: 100%;
     height:auto;
 }
+
+
+.toast {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: fit-content;
+    background-color: #00477e;
+    color: white;
+}
+
+.toast:hover {
+    background-color: #003863;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.survey-form {
+    min-height: 350px;
+    text-align: center;
+    margin-top: 10%;
+    padding:20px;
+    padding-bottom: 60px;
+}
+
+.survey-form textarea {
+    width: 90%;
+    min-height: 200px;
+}
+
+.btn-score {
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    gap: 3vw;
+}
+
+.survey-form .submit {
+    background-color: #00477e;
+    color:white;
+    width: 40%;
+    float: right !important;
+    margin-right: 3vw;
+}
+
+.survey-form .submit:hover {
+    background-color: #00477e;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+.return-link {
+    font-size: large;
+    text-decoration: underline;
+    text-transform: bold;
+    position: absolute;
+    bottom: 10px;
+    right: 5vw;
+}

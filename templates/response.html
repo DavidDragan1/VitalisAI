@@ -71,12 +71,23 @@
                 </div>                
             </div>
         </form>
+        <form action="/survey" method="POST">
+            <button id="toast-survey-btn" class="w3-hide toast" type="submit">Rate our service</button>
+        </form>
     </main>
-    
+        
     <script>
         // Toggle mobile menu
         function toggleMenu() {
             document.getElementById("mobileMenu").classList.toggle("w3-show");
+        }
+
+
+        // load the survey button toast with 5 sec delay from page load
+        window.onload = function loadToast() {
+            setTimeout(() => {
+                document.getElementById("toast-survey-btn").classList.toggle("w3-show");
+            }, 5000);
         }
 
         // change colour of bmi status text depending on value
@@ -104,7 +115,6 @@
         document.addEventListener('DOMContentLoaded', function () {
             changeBmiStatusColour(document.getElementById("bmi-stat").textContent);
         });
-
     </script>
 </body>
 </html>

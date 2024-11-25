@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitalis AI - Survey</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="w3-bar w3-highway-blue w3-large">
+        <a href="/"><img class="logo" height="140vh" src="{{ url_for('static', filename='img/vitalis_logo.png') }}" alt="Vitalis Logo"></a>
+        <a href="/" class="return-link">&larr; Back to main service</a>
+    </div>
+
+    <main class="w3-content">
+        <form id="feedbackForm" class="survey-form w3-card">
+            <h3>Please rate your experience</h3>
+            
+            <!-- Rating -->
+            <div class="w3-row btn-score">
+                <button onclick="logscore(poor)">Poor</button>
+                <button onclick="logscore(neutral)">Neutral</button>
+                <button onclick="logscore(excellent)">Excellent</button>
+            </div>
+            <br>
+            <!-- Optional Feedback -->
+            <textarea id="feedbackMessage" placeholder="Optional feedback..."></textarea>
+            
+            <!-- Submit Button -->
+            <button class="submit" type="submit">Submit</button>
+        </form>        
+    </main>
+        
+    <script>
+
+    </script>
+</body>
+</html>
