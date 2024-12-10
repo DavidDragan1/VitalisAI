@@ -126,22 +126,20 @@ def log_input(age, sex, conditions, occupation, bmi, symptoms, diagnosis):
         writer.writerow([age, sex, conditions, occupation, bmi, symptoms, diagnosis])
 
 
-
-
 # survey route with logic for logging survey submission
-@app.route('/survey', methods=['POST'])
+@app.route('/survey', methods=['GET'])
 def callSurvey():
     return render_template('survey.html')
 
+@app.route('/log_survey', methods=['POST'])
 def log_survey():
     # get form inputs
-    rating = request.form.get('rating')
-    feedback = request.form.get('feedback-text')
+    rating = request.form.get('score') # couldnt pass as positional arguments because flask was clashing with html form
+    feedback = request.form.get('feedbackMessage') # so instead i am requesting them directly from the form
 
     # write to csv log file
     with open('survey_logs.csv', mode='a', newline='') as csvfile:
         writer = csv.writer(csvfile)
     
         writer.writerow([rating, feedback])
-
-    
+    return render_template('index.html')

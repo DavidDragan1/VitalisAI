@@ -254,3 +254,23 @@ sup {
     bottom: 10px;
     right: 5vw;
 }
+
+#score-btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.inactive {
+    outline: none;
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+}
+
+.active {
+    background-color: #003863!important;
+    color:#fff;
+    border: none;
+}

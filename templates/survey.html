@@ -21,26 +21,47 @@
     </div>
 
     <main class="w3-content">
-        <form id="feedbackForm" class="survey-form w3-card">
+        <form id="feedbackForm" class="survey-form w3-card" action="/log_survey" method="POST">
             <h3>Please rate your experience</h3>
             
             <!-- Rating -->
             <div class="w3-row btn-score">
-                <button onclick="logscore(poor)">Poor</button>
-                <button onclick="logscore(neutral)">Neutral</button>
-                <button onclick="logscore(excellent)">Excellent</button>
+                <button id="score-btn" class="inactive" type="button" onclick="toggleActive(1); setScore('excellent');">Excellent</button>
+                <button id="score-btn" class="inactive" type="button" onclick="toggleActive(2); setScore('neutral');">Neutral</button>
+                <button id="score-btn" class="inactive" type="button" onclick="toggleActive(3); setScore('poor');">Poor</button>
             </div>
+            <input type="hidden" name="score" id="scoreInput">
             <br>
             <!-- Optional Feedback -->
-            <textarea id="feedbackMessage" placeholder="Optional feedback..."></textarea>
+            <textarea id="feedbackMessage" name="feedbackMessage" placeholder="Optional feedback..."></textarea>
             
             <!-- Submit Button -->
             <button class="submit" type="submit">Submit</button>
-        </form>        
+        </form>
     </main>
         
     <script>
+        const buttons = document.getElementsByClassName("inactive");
 
+        function toggleActive(elementNo) {
+            Array.from(buttons).forEach((button, index) => {
+                button.classList.remove('active');
+                button.classList.add('inactive');
+            });
+            const element = buttons[elementNo - 1];
+            element.classList.remove('inactive');
+            element.classList.add('active');
+        }
+
+        // Function to set the hidden input value
+        function setScore(score) {
+            document.getElementById('scoreInput').value = score;
+        }
+
+
+        function setScore(value) {
+            document.getElementById('scoreInput').value = value;
+        }
     </script>
 </body>
 </html>

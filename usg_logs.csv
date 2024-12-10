@@ -77,3 +77,135 @@
 20,male,,,21.68,"fever, body aches, throbbing pain in back of eyes","<h2>Symptoms Identified:</h2> fever, body aches, throbbing pain in back of eyes  
 <h2>Probable Diagnosis:</h2> This combination of symptoms may suggest a viral infection, such as influenza or a similar illness. It could also indicate other conditions like sinusitis or viral conjunctivitis.  
 <h2>Doctor Visit Recommendation:</h2> It's advisable to see a doctor, especially since you have a fever and significant discomfort. They can provide a proper diagnosis and treatment."
+20,male,none,Student,21.68,"cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time","<h2>Symptoms Identified:</h2> cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a few possible conditions, including anemia, circulatory issues, or even anxiety-related problems.  
+<h2>Doctor Visit Recommendation:</h2> It is strongly recommended that you see a doctor for these symptoms, as they could indicate a serious underlying condition.  
+"
+20,male,none,Student,21.68,"cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time","<h2>Symptoms Identified:</h2> cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest a possible condition like anemia, a respiratory issue, or even a cardiovascular problem. It is important to clarify these symptoms further.  
+<h2>Doctor Visit Recommendation:</h2> You should see a doctor as soon as possible to evaluate these symptoms. They could be serious and require professional assessment. "
+20,male,none,Student,21.68,"cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time","<h2>Symptoms Identified:</h2> cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest a possible issue with circulation or a respiratory condition. It may also indicate anemia or other underlying health concerns.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as these symptoms can indicate significant health issues that need professional evaluation. "
+40,male,,,40.0,"bad temper, mood swings","<h2>Symptoms Identified:</h2> bad temper, mood swings  
+<h2>Probable Diagnosis:</h2> Possible mood disorder or stress-related issue  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor for further assessment and support"
+50,male,,,29.39,"irritability, paranoia, sensitivity to light","<h2>Symptoms Identified:</h2> irritability, paranoia, sensitivity to light  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a possible mood disorder, anxiety, or even a side effect from medication or substance use. They might also relate to a vision issue or neurological condition.  
+<h2>Doctor Visit Recommendation:</h2> It is recommended to see a doctor for a thorough evaluation, as these symptoms can be serious and may require professional assessment. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritability, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> These symptoms may suggest mood-related issues, such as anxiety or depression, or could be linked to stress or hormonal changes.  
+<h2>Doctor Visit Recommendation:</h2> It's advisable to see a doctor to discuss these symptoms further, as they can help determine the underlying causes and suggest appropriate treatment. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritability, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> These symptoms could be related to stress, anxiety, or possible hormonal imbalances.  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to consider seeing a doctor to discuss these symptoms, as they may need professional evaluation and support. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritable, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> Possible mood disorder or stress-related condition  
+<h2>Doctor Visit Recommendation:</h2> It would be advisable to see a doctor for a thorough evaluation. They can help identify any underlying issues and recommend appropriate treatment. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritability, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> These symptoms may suggest mood disorders such as anxiety or depression, or could be related to stress or hormonal changes.  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to see a doctor to discuss these symptoms, as they could indicate an underlying issue that needs professional attention. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritability, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> This may indicate a mood disorder or effects related to stress, anxiety, or hormonal fluctuations.  
+<h2>Doctor Visit Recommendation:</h2> Considering these symptoms can impact daily life and may worsen, it would be advisable to see a doctor for further evaluation and guidance. "
+40,male,,,28.08,"irritable, mood swings, aggression, stubbornness","<h2>Symptoms Identified:</h2> irritability, mood swings, aggression, stubbornness  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest mood disorders such as depression or anxiety, or they may be linked to stress or lifestyle factors.  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor for a proper evaluation and support, as these symptoms may indicate an underlying issue that could benefit from professional advice. "
+40,male,,,27.76,"fever, body aches, throbbing pain in back of eyes","<h2>Symptoms Identified:</h2> fever, body aches, throbbing pain in back of eyes  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a viral infection such as the flu or another illness like sinusitis.  
+<h2>Doctor Visit Recommendation:</h2> It would be advisable to see a doctor, especially if symptoms persist or worsen.  
+"
+40,male,,,25.0,"fever, body aches, throbbing pain in back of eyes","<h2>Symptoms Identified:</h2> fever, body aches, throbbing pain in back of eyes  
+<h2>Probable Diagnosis:</h2> Possible viral infection or sinusitis  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor, especially if symptoms worsen or persist.  
+"
+50,female,,,38.05,"difficulty breathing, pulling down sensation and feel like chest is being pushed in","<h2>Symptoms Identified:</h2> difficulty breathing, pulling down sensation, feeling of chest being pushed in  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a respiratory issue or something related to the heart, such as anxiety, asthma, or even a more serious condition like angina.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as soon as possible due to the nature of these symptoms. "
+2,male,,,40.0,excessive scratching and red lumps on forearms,"<h2>Symptoms Identified:</h2> excessive scratching, red lumps on forearms  
+<h2>Probable Diagnosis:</h2> This could be a skin condition like eczema, allergic reaction, or dermatitis.  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to see a doctor to get a proper diagnosis and treatment. "
+30,female,,,22.31,"Sore throat, cough","<h2>Symptoms Identified:</h2> sore throat, cough  
+<h2>Probable Diagnosis:</h2> Possible viral infection or cold  
+<h2>Doctor Visit Recommendation:</h2> This condition may be manageable with home remedies, but if symptoms worsen or persist, consider seeing a doctor. "
+40,male,,,19.59,"Sore throat, cough","<h2>Symptoms Identified:</h2> Sore throat, cough  
+<h2>Probable Diagnosis:</h2> Likely a viral infection such as the common cold or possibly strep throat.  
+<h2>Doctor Visit Recommendation:</h2> If symptoms persist for more than a few days or worsen, consider seeing a doctor; otherwise, rest and hydration may help. "
+40,male,,,16.33,"pain in chest, feels like chest is being pushed in, out of breath going up stairs","<h2>Symptoms Identified:</h2> pain in chest, feeling of pressure in chest, shortness of breath when exerting (going up stairs)  
+<h2>Probable Diagnosis:</h2> Potential cardiovascular issues such as angina or other heart-related conditions; could also indicate respiratory issues.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as soon as possible due to the seriousness of chest pain and shortness of breath. "
+50,female,,,20.28,"pain in chest, feels like chest is being pushed in, out of breath going up stairs","<h2>Symptoms Identified:</h2> chest pain, feeling of pressure in the chest, shortness of breath when exerting (like going up stairs)  
+<h2>Probable Diagnosis:</h2> This could indicate a heart-related issue, such as angina or other cardiovascular conditions.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as soon as possible, given the symptoms described. "
+21,female,,,21.64,"Indigestion, heartburn when trying to sleep. excessive gas","<h2>Symptoms Identified:</h2> indigestion, heartburn, excessive gas, trouble sleeping due to symptoms  
+<h2>Probable Diagnosis:</h2> Gastroesophageal Reflux Disease (GERD) or general digestive issues  
+<h2>Doctor Visit Recommendation:</h2> Consider home remedies like adjusting your diet (avoiding spicy or fatty foods) and elevating your head while sleeping, but if symptoms persist or worsen, see a doctor. "
+12,male,,,22.22,swollen feet and sweating,"<h2>Symptoms Identified:</h2> swollen feet, sweating  
+<h2>Probable Diagnosis:</h2> Possible causes could include fluid retention, overexertion, or a reaction to heat or humidity.  
+<h2>Doctor Visit Recommendation:</h2> It would be wise to consider seeing a doctor to rule out any underlying issues. "
+23,female,,,22.22,itchy dry scalp but oily roots,"<h2>Symptoms Identified:</h2> itchy dry scalp, oily roots  
+<h2>Probable Diagnosis:</h2> Seborrheic dermatitis or scalp psoriasis  
+<h2>Doctor Visit Recommendation:</h2> You may try over-the-counter dandruff shampoos and moisturizing treatments. However, if symptoms persist or worsen, consider seeing a dermatologist. "
+20,male,,,21.64,"cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time","<h2>Symptoms Identified:</h2> cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a possible circulatory issue, anemia, or another underlying condition affecting blood flow and oxygen delivery.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as soon as possible to evaluate these symptoms comprehensively. "
+25,male,,,29.38,"difficulty breathing, pulling down sensation and feel like chest is being pushed in","<h2>Symptoms Identified:</h2> difficulty breathing, pulling down sensation, feeling of chest being pushed in  
+<h2>Probable Diagnosis:</h2> Possible anxiety or panic attack, or respiratory issue such as asthma or other lung conditions.  
+<h2>Doctor Visit Recommendation:</h2> Yes, it is advisable to see a doctor as these symptoms can indicate a serious condition. "
+25,female,,,8.22,"cold hands and feet, chest pain, shortness of breath, pale skin, weak and tired all the time","<h2>Symptoms Identified:</h2> cold hands and feet, chest pain, shortness of breath, pale skin, weakness, fatigue  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a circulation problem, anemia, or even a more serious condition like a heart issue.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor as soon as possible due to the seriousness of the symptoms.  
+"
+25,female,,,8.46,"Sore throat, cough","<h2>Symptoms Identified:</h2> sore throat, cough  
+<h2>Probable Diagnosis:</h2> Upper respiratory infection (possibly viral)  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor if symptoms worsen or persist; otherwise, home remedies like warm salt water gargles and throat lozenges may help. "
+30,female,,,21.26,"Sore throat, cough","<h2>Symptoms Identified:</h2> sore throat, cough  
+<h2>Probable Diagnosis:</h2> Possible viral infection like the common cold or mild throat infection  
+<h2>Doctor Visit Recommendation:</h2> Home remedies such as warm salt water gargles, staying hydrated, and rest may be helpful. However, if symptoms worsen or persist, consider seeing a doctor. "
+20,male,,,21.68,"coughing up blood, hoarse feeling in throat, cant stop wheezing cough","<h2>Symptoms Identified:</h2> coughing up blood, hoarse feeling in throat, wheezing cough  
+<h2>Probable Diagnosis:</h2> Possible respiratory infection, bronchitis, or a more serious condition like pneumonia or pulmonary issues  
+<h2>Doctor Visit Recommendation:</h2> You should see a doctor as soon as possible. Coughing up blood can be serious. "
+40,male,,,21.68,"blurry vision, always thirsty, need to pee too often, always have a dry mouth","<h2>Symptoms Identified:</h2> blurry vision, always thirsty, frequent urination, dry mouth  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate diabetes, as they are commonly associated with high blood sugar levels.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor to get tested for diabetes and receive appropriate care. "
+40,male,,,21.68,"blurry vision, always thirsty, need to pee too often, always have a dry mouth","<h2>Symptoms Identified:</h2> blurry vision, excessive thirst, frequent urination, dry mouth  
+<h2>Probable Diagnosis:</h2> These symptoms might suggest diabetes or another endocrine issue.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor for further evaluation and testing.  
+"
+40,male,,,21.68,"blurry vision, always thirsty, need to pee too often, always have a dry mouth","<h2>Symptoms Identified:</h2> blurry vision, constant thirst, frequent urination, dry mouth  
+<h2>Probable Diagnosis:</h2> These symptoms may suggest diabetes or pre-diabetes, as they are commonly associated with high blood sugar levels.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor for a proper evaluation and blood tests to determine your blood sugar levels and overall health. "
+40,male,,,21.68,"blurry vision, always thirsty, need to pee too often, always have a dry mouth","<h2>Symptoms Identified:</h2> blurry vision, increased thirst, frequent urination, dry mouth  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest diabetes or prediabetes, which can cause excessive thirst and urination along with vision changes.  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to see a doctor to get your blood sugar levels checked. "
+20,male,,,21.68,"blurry vision, always thirsty, need to pee too often, always have a dry mouth","<h2>Symptoms Identified:</h2> blurry vision, excessive thirst, frequent urination, dry mouth  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate diabetes, possibly type 1 or type 2.  
+<h2>Doctor Visit Recommendation:</h2> It's important to see a doctor for proper testing and diagnosis, as these symptoms can be serious. "
+20,male,,,21.68,persistent numbness in big right toe for over a month,"<h2>Symptoms Identified:</h2> persistent numbness in big right toe for over a month  
+<h2>Probable Diagnosis:</h2> Possible nerve compression or circulation issue  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to see a doctor, as persistent numbness can indicate an underlying issue.  
+"
+40,male,diabetes,builder,24.86,"pain in chest, shallow breathing, pulling down sensation, lightheadedness","<h2>Symptoms Identified:</h2> chest pain, shallow breathing, pulling sensation, lightheadedness  
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a potential heart-related issue, possibly angina or a cardiac condition, especially given the patient's diabetes.  
+<h2>Doctor Visit Recommendation:</h2> It is crucial that you see a doctor immediately for these symptoms as they may indicate a serious condition.  
+"
+20,male,none,Computer science student,21.68,"pain in chest, feel like i cant breathe and i want to throw up","<h2>Symptoms Identified:</h2> chest pain, difficulty breathing, nausea (feeling like wanting to throw up)  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest anxiety or panic attack; however, they may also indicate a more serious condition such as a heart issue or respiratory problem.  
+<h2>Doctor Visit Recommendation:</h2> It is important to see a doctor immediately, as chest pain and difficulty breathing should be evaluated thoroughly. "
+20,male,none,Computer science student,21.68,"pain in chest, feel like i cant breathe and i want to throw up","<h2>Symptoms Identified:</h2> chest pain, difficulty breathing, nausea
+
+<h2>Probable Diagnosis:</h2> These symptoms could indicate a range of issues, including anxiety, a panic attack, or possibly a more serious condition like a heart problem or gastrointestinal issue.
+
+<h2>Doctor Visit Recommendation:</h2> It is important that you see a doctor as soon as possible to rule out any serious conditions. "
+20,male,,,21.68,weak knees and pain in knee joints,"<h2>Symptoms Identified:</h2> weak knees, pain in knee joints  
+<h2>Probable Diagnosis:</h2> Possible knee joint strain or mild arthritis  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor for a proper assessment and treatment options. "
+50,male,,,35.56,bad lower back pain,"<h2>Symptoms Identified:</h2> bad lower back pain  
+<h2>Probable Diagnosis:</h2> Possible lower back strain or herniated disc  
+<h2>Doctor Visit Recommendation:</h2> Consider seeing a doctor if the pain persists or worsens; otherwise, you might manage it with rest, heat, and over-the-counter pain relievers. "
+50,female,diabetes,baskball player,12.5,"cold hand and feet, dizzyness, shortness of breath, chest pain","<h2>Symptoms Identified:</h2> cold hands and feet, dizziness, shortness of breath, chest pain  
+<h2>Probable Diagnosis:</h2> These symptoms may indicate potential issues related to circulation or cardiovascular problems, especially given the patient's history of diabetes.  
+<h2>Doctor Visit Recommendation:</h2> It is important for the patient to see a doctor immediately due to concerning symptoms like chest pain and shortness of breath. "
+20,male,,,20.23,"runny nose, low fever, pain in chest difficulty breathing, feeling tired","<h2>Symptoms Identified:</h2> runny nose, low fever, pain in chest, difficulty breathing, feeling tired  
+<h2>Probable Diagnosis:</h2> These symptoms could suggest a respiratory infection, such as a cold or flu, and there may also be a possibility of bronchitis or pneumonia, especially due to the chest pain and difficulty breathing.  
+<h2>Doctor Visit Recommendation:</h2> It is advisable to visit a doctor, especially due to the difficulty breathing and chest pain, as these can indicate a more serious condition. "
