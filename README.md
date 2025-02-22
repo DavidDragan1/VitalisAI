@@ -18,6 +18,6 @@ It is easy to see the potential utility of such an application. This was for a U
 TO RUN YOURSELF:
 1. fork the repo
 2. open in GH codespaces
-3. add your OpenAI key to the .env
+3. make new .env and add your OpenAI key as: API_KEY="<your key here>"
 4. $ flask run
 ```
